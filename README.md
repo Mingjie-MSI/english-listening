@@ -4,11 +4,15 @@
 
 ## 学习计划
 
-| 阶段 | 精听（15 分钟） | 泛听（15 分钟） |
+每天按顺序轮换节目：美音和英音交替，日常生活、职场对话、科普、学术都有。
+
+| 阶段 | 精听（15 分钟，有原文） | 泛听（15 分钟） |
 |---|---|---|
-| 阶段一 · 打基础（第 1–4 周） | BBC 6 Minute English 全篇（约 6 分钟，有原文） | NPR Short Wave 科普（约 12–15 分钟） |
-| 阶段二 · 适应原速（第 5–8 周） | NPR Short Wave 选 4 分钟片段（有原文） | TED 演讲 与 Planet Money 交替 |
-| 阶段三 · 托福讲座难度（第 9 周起） | TED 演讲选 5 分钟片段（有原文），边听边记笔记 | BBC In Our Time 学术讨论（每期分 3–4 天听完） |
+| 阶段一 · 打基础（第 1–4 周） | BBC 6 Minute English 全篇（🇬🇧）/ NPR Life Kit 生活话题选 4 分钟（🇺🇸） | All Ears English 日常口语（🇺🇸）/ The Archers 英国生活剧（🇬🇧）/ NPR Short Wave 科普（🇺🇸） |
+| 阶段二 · 适应原速（第 5–8 周） | Life Kit / 6 Minute English / Short Wave，各选 4 分钟左右 | Business English Pod 职场对话 / The Archers / All Ears English / TED 演讲 |
+| 阶段三 · 托福难度（第 9 周起） | TED 演讲 / Life Kit 各选 5 分钟，边听边记笔记 | 职场对话 / The Archers / In Our Time 学术讨论（🇬🇧）/ Planet Money / All Ears English |
+
+超过约 22 分钟的节目会分成几天听完，听完再换下一个节目。
 
 - 第 28、56、84 个学习日：做一次 **ETS 官方免费托福模拟题**（只做听力部分），记录成绩，对比进步。
 - 阶段按「完成的学习日」推进，漏掉几天不会直接跳到更难的材料。觉得太难或太简单，可以在「设置」里手动换阶段。
@@ -21,10 +25,10 @@
 
 都是官方免费播客，每天更新。音频直接从官方服务器播放；原文点链接去官网看（BBC Learning English、NPR、TED 官网都有）。
 
-- BBC 6 Minute English（BBC Learning English）
-- NPR Short Wave、NPR Planet Money
-- TED Talks Daily（自动跳过歌曲表演和其他节目的串台）
-- BBC In Our Time（没有原文）
+- 日常生活：NPR Life Kit（🇺🇸，有原文）、All Ears English（🇺🇸）、BBC The Archers（🇬🇧 广播剧）
+- 职场：Business English Pod（开会、面试、电话、谈判等场景对话）
+- 话题 / 科普：BBC 6 Minute English（🇬🇧，有原文）、NPR Short Wave、NPR Planet Money（🇺🇸，有原文）
+- 演讲 / 学术：TED Talks Daily（自动跳过歌曲表演和串台）、BBC In Our Time（🇬🇧，没有原文）
 
 ## 放到 GitHub Pages 上（一次性设置，约 10 分钟）
 

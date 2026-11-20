@@ -10,25 +10,34 @@
   const ETS = "https://www.ets.org/toefl/test-takers/ibt/prepare/practice-tests.html";
   const BBC6_HOME = "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english";
 
+  // accent + topic shown on each card
+  const SRC = {
+    bbc6: ["🇬🇧 英音", "话题对话"], lifekit: ["🇺🇸 美音", "生活实用"], shortwave: ["🇺🇸 美音", "科普"],
+    planetmoney: ["🇺🇸 美音", "经济"], ted: ["🌐 多种口音", "演讲"], inourtime: ["🇬🇧 英音", "学术讨论"],
+    allears: ["🇺🇸 美音", "日常 / 职场口语"], archers: ["🇬🇧 英音", "英国日常生活广播剧"], bep: ["🌐 多种口音", "职场对话"],
+  };
+
+  // Each day takes the next option in `int` and `ext` (rotation by study day), so US/UK and
+  // daily-life / work / academic content alternate. Long episodes are finished on consecutive days first.
   const PHASES = [
     { n: 1, from: 1, name: "阶段一 · 打基础", weeks: "第 1–4 周",
-      int: { src: "bbc6", how: "whole" },
-      ext: [{ src: "shortwave", maxDur: 17 * 60 }],
-      intText: "BBC 6 Minute English 全篇（约 6 分钟，语速稍慢，有原文）",
-      extText: "NPR Short Wave 科普节目（约 12–15 分钟，原速）",
-      goal: "习惯听英文的节奏，把常见的连读、弱读听出来；建立每天听的习惯。" },
+      int: [{ src: "bbc6", how: "whole" }, { src: "lifekit", how: "segment", seg: 4 }],
+      ext: [{ src: "allears", maxDur: 22 * 60 }, { src: "archers" }, { src: "shortwave", maxDur: 17 * 60 }],
+      intText: "轮换：BBC 6 Minute English 全篇（🇬🇧，约 6 分钟）/ NPR Life Kit 生活话题选 4 分钟（🇺🇸）。都有原文",
+      extText: "轮换：All Ears English 日常口语（🇺🇸）/ The Archers 英国生活剧（🇬🇧）/ NPR Short Wave 科普（🇺🇸）",
+      goal: "习惯真实语速和英美两种口音，把常见的连读、弱读听出来；建立每天听的习惯。" },
     { n: 2, from: 29, name: "阶段二 · 适应原速", weeks: "第 5–8 周",
-      int: { src: "shortwave", how: "segment", seg: 4, maxDur: 20 * 60 },
-      ext: [{ src: "ted", maxDur: 20 * 60 }, { src: "planetmoney" }],
-      intText: "NPR Short Wave 选一段 4 分钟（原速科普，有原文）",
-      extText: "TED 演讲 与 Planet Money 经济节目 交替（长节目分两天听完）",
-      goal: "原速下抓住主旨和细节；熟悉科普、社科类话题和词汇。" },
-    { n: 3, from: 57, name: "阶段三 · 托福讲座难度", weeks: "第 9 周起",
-      int: { src: "ted", how: "segment", seg: 5, maxDur: 25 * 60, needTranscript: true },
-      ext: [{ src: "inourtime" }],
-      intText: "TED 演讲选一段 5 分钟（有原文），边听边记笔记",
-      extText: "BBC In Our Time 学术讨论（每期约 50 分钟，分 3–4 天听完）",
-      goal: "接近托福讲座：长篇学术内容、边听边记笔记、抓结构和论点。" },
+      int: [{ src: "lifekit", how: "segment", seg: 4 }, { src: "bbc6", how: "whole" }, { src: "shortwave", how: "segment", seg: 4, maxDur: 20 * 60 }],
+      ext: [{ src: "bep", maxDur: 25 * 60 }, { src: "archers" }, { src: "allears", maxDur: 22 * 60 }, { src: "ted", maxDur: 20 * 60 }],
+      intText: "轮换：Life Kit（🇺🇸 生活）/ 6 Minute English（🇬🇧）/ Short Wave（🇺🇸 科普），各选 4 分钟左右精听",
+      extText: "轮换：Business English Pod 职场对话 / The Archers（🇬🇧）/ All Ears English（🇺🇸）/ TED 演讲",
+      goal: "原速下抓住主旨和细节；熟悉开会、面试、电话等职场场景的说法。" },
+    { n: 3, from: 57, name: "阶段三 · 托福难度", weeks: "第 9 周起",
+      int: [{ src: "ted", how: "segment", seg: 5, maxDur: 25 * 60, needTranscript: true }, { src: "lifekit", how: "segment", seg: 5 }],
+      ext: [{ src: "bep", maxDur: 25 * 60 }, { src: "archers" }, { src: "inourtime" }, { src: "planetmoney" }, { src: "allears", maxDur: 22 * 60 }],
+      intText: "轮换：TED 演讲 / Life Kit 各选 5 分钟（有原文），边听边记笔记",
+      extText: "轮换：职场对话 / The Archers / In Our Time 学术讨论（🇬🇧，分几天听完）/ Planet Money / All Ears English",
+      goal: "接近托福讲座和真实工作场景：长内容、边听边记笔记、抓结构和观点。" },
   ];
 
   const INT_STEPS = [
@@ -87,8 +96,8 @@
     if (fresh) return fresh;
     return items.slice().sort((a, b) => (S.used[a.id] < S.used[b.id] ? -1 : 1))[0];   // least recently used
   }
-  function makeInt(ph, date) {
-    const c = ph.int;
+  function makeInt(ph, date, studyDay) {
+    const c = ph.int[studyDay % ph.int.length];
     const ep = pickEp(c.src, (i) => (!c.maxDur || !i.dur || i.dur <= c.maxDur) && (!c.needTranscript || i.transcript));
     if (!ep) return { kind: "int", src: c.src, ep: null, done: false };
     S.used[ep.id] = date;
@@ -96,7 +105,8 @@
              steps: INT_STEPS.map(() => false), score: null, notes: "", pos: 0, a: null, b: null, done: false };
   }
   function makeExt(ph, date, studyDay) {
-    const opt = ph.ext[studyDay % ph.ext.length];
+    const going = ph.ext.find((o) => S.cont[o.src]);          // finish a multi-day episode first
+    const opt = going || ph.ext[studyDay % ph.ext.length];
     let ep, part = 1, parts = 1;
     const cont = S.cont[opt.src];
     if (cont && cont.part <= cont.parts) {
@@ -106,7 +116,7 @@
       if (!raw) return { kind: "ext", src: opt.src, ep: null, done: false };
       S.used[raw.id] = date;
       ep = snap(opt.src, raw);
-      parts = ep.dur ? Math.max(1, Math.ceil(ep.dur / (PART_MIN * 60) - 0.25)) : 1;
+      parts = ep.dur ? Math.max(1, Math.ceil(ep.dur / (PART_MIN * 60) - 0.5)) : 1;   // up to ~22 min stays in one go
     }
     if (part < parts) S.cont[opt.src] = { ep, part: part + 1, parts }; else delete S.cont[opt.src];
     const len = ep.dur ? ep.dur / parts : null;
@@ -120,7 +130,7 @@
     if (S.days[t] || !DATA) return S.days[t] || null;
     const studyDay = completedBefore(t) + 1;
     const ph = phaseFor(studyDay);
-    const tasks = [makeInt(ph, t)];
+    const tasks = [makeInt(ph, t, studyDay)];
     if (CHECKPOINTS.includes(studyDay)) {
       tasks.push({ kind: "chk", steps: [false], score: "", notes: "", done: false });
     } else {
@@ -301,6 +311,7 @@
       <div class="kind">${head}</div>
       <h3>${esc(e.title)}</h3>
       <div class="src">${esc(e.srcName)}${e.date ? " · " + e.date : ""}${e.dur ? " · 全长 " + fmt(e.dur) : ""}</div>
+      ${SRC[t.src] ? `<div><span class="pill">${SRC[t.src][0]}</span><span class="pill">${SRC[t.src][1]}</span></div>` : ""}
       ${e.desc ? `<p class="desc">${esc(e.desc)}</p>` : ""}
       ${linksHtml(t)}
       ${playerHtml(date, ti, t)}
@@ -435,6 +446,7 @@
     el.innerHTML = `<div class="panel"><h3>为什么这样练有效</h3>
         <p><b>精听</b>解决「听不出来」：反复听同一段、对照原文找出没听出来的地方（多半是连读、弱读，而不是生词），再跟读，让耳朵和嘴巴都熟悉真实语速。</p>
         <p><b>泛听</b>解决「反应慢、听不久」：每天原速听 15 分钟以上的完整内容，练习抓大意，也是在积累托福常考的科普、社科、学术话题。</p>
+        <p>材料每天在<b>美音和英音</b>、<b>日常生活、职场对话、科普和学术</b>之间轮换，既为日常和工作交流打基础，也覆盖托福常考话题。</p>
         <p>材料比现在的水平稍难一点，每天坚持，比偶尔听几个小时有效得多。一般坚持 6–8 周会明显感到原速英语变「慢」了。</p></div>
       <div class="panel"><h3>难度</h3>
         <div class="field"><label>阶段（默认按完成的学习日自动升级；觉得太难或太简单可以手动选）</label>

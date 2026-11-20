@@ -45,6 +45,26 @@ SOURCES = {
         "feed": "https://podcasts.files.bbci.co.uk/b006qykl.rss",
         "keep": 30,
     },
+    "lifekit": {
+        "name": "NPR Life Kit",
+        "feed": "https://feeds.npr.org/510338/podcast.xml",
+        "keep": 40,
+    },
+    "allears": {
+        "name": "All Ears English",
+        "feed": "https://feeds.megaphone.fm/allearsenglish",
+        "keep": 40,
+    },
+    "archers": {
+        "name": "BBC The Archers",
+        "feed": "https://podcasts.files.bbci.co.uk/b006qpgr.rss",
+        "keep": 40,
+    },
+    "bep": {
+        "name": "Business English Pod",
+        "feed": "https://www.businessenglishpod.com/feed/podcast/",
+        "keep": 60,
+    },
 }
 
 SKIP_TED = re.compile(
@@ -141,6 +161,8 @@ def parse_feed(key, cfg, extra):
         if audio.startswith("http://"):
             audio = "https://" + audio[len("http://"):]
         title = html.unescape(text(it, "title"))
+        if key == "archers":
+            title = "The Archers · " + title          # episode titles are just dates
         try:
             date = email.utils.parsedate_to_datetime(text(it, "pubDate")).date().isoformat()
         except Exception:
@@ -160,7 +182,7 @@ def parse_feed(key, cfg, extra):
             ep["skip"] = True      # music performances and cross-promoted shows: not useful for listening practice
         if key == "bbc6":
             ep["transcript"] = extra["bbc6"].get(norm_title(title))
-        elif key in ("shortwave", "planetmoney"):
+        elif key in ("shortwave", "planetmoney", "lifekit"):
             ep["transcript"] = npr_transcript(link)
         items.append(ep)
         if len(items) >= cfg["keep"]:

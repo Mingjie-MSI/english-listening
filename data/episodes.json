@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T07:08:18Z",
+ "updated": "2026-11-20T07:17:55Z",
  "sources": {
   "bbc6": {
    "name": "BBC 6 Minute English",
@@ -1799,6 +1799,1686 @@
      "dur": 3332,
      "link": "https://www.bbc.co.uk/programmes/m002wkhq",
      "desc": "Misha Glenny and guests discuss the group which came to be known as the Levellers and emerged during what would become arguably one of the bloodiest and most turbulent periods of English history. After the First English Civil War, the Levellers started calling for reforms to achieve legal and social equality. They pushed for a new constitution, extended franchise, popular sovereignty, and religiou…"
+    }
+   ]
+  },
+  "lifekit": {
+   "name": "NPR Life Kit",
+   "items": [
+    {
+     "id": "lifekit:07870728-0973-4d4b-a266-398a0103d9cb",
+     "title": "You’re probably not getting enough iron. Here’s how to tell.",
+     "date": "2026-11-19",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/4f8b7bdb-ce90-4896-86e4-794f6b77e8be/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=4f8b7bdb-ce90-4896-86e4-794f6b77e8be&feed=XkY2SBZJ&t=podcast&e=nx-s1-6046479&p=510338&d=1266&size=20262705",
+     "dur": 1266,
+     "link": "https://www.npr.org/2026/11/19/nx-s1-6046479/youre-probably-not-getting-enough-iron-heres-how-to-tell",
+     "desc": "Iron deficiency could be the culprit for a slew of symptoms: fatigue, dizziness, brain fog and more. And though it affects an estimated one in three people, few know what their iron levels are. This episode, Life Kit reporter Andee Tagle explains how to know if your iron levels are low and ways to boost them if so. Follow us on Instagram: @nprlifekit Sign up for our newsletter here. Have an episod…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6046479"
+    },
+    {
+     "id": "lifekit:28d107dc-2613-46b0-b791-fe1e0e6d9bed",
+     "title": "How to be an amazing auntie or uncle",
+     "date": "2026-11-17",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/9b068c12-298a-4174-ac25-d08427525c49/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=9b068c12-298a-4174-ac25-d08427525c49&feed=XkY2SBZJ&t=podcast&e=nx-s1-6043232&p=510338&d=1309&size=20951107",
+     "dur": 1309,
+     "link": "https://www.npr.org/2026/11/17/nx-s1-6043232/how-to-be-an-amazing-auntie-or-uncle",
+     "desc": "There is seemingly endless advice out there to help parents raise healthy, responsible children. But parents aren't the only people who help raise kids or invest in their well-being. On this episode, how to be a good auntie or uncle - or whichever name you go by. Reporter Mayowa Aina shares advice for building relationships, developing routines, and creating a safe space for the kids in your life.…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6043232"
+    },
+    {
+     "id": "lifekit:cfac444e-7036-4397-9f12-e9441421c50f",
+     "title": "How to switch off your work brain",
+     "date": "2026-11-16",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/af043cf5-e1d9-41cb-b719-e367098dffcd/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=af043cf5-e1d9-41cb-b719-e367098dffcd&feed=XkY2SBZJ&t=podcast&e=nx-s1-6040492&p=510338&d=1070&size=17130542",
+     "dur": 1070,
+     "link": "https://www.npr.org/2026/11/16/nx-s1-6040492/how-to-switch-off-your-work-brain",
+     "desc": "When you come home after a long day at work and replay the day's events in your head, chances are you're not dwelling on the highlights. Ruminating on negative experiences at work can increase stress, disrupt your sleep and eating habits, and make it harder to enjoy your time off. Psychologist Guy Winch, author of Mind Over Grind: How to Break Free When Work Hijacks Your Life , shares strategies f…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6040492"
+    },
+    {
+     "id": "lifekit:94b722c0-0d7e-4b01-bd70-5e5e9a99a0d7",
+     "title": "Life is easier with neighbors. Here’s how to get to know them",
+     "date": "2026-11-12",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/4433f11c-95df-4e64-971c-f6802d3386b9/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=4433f11c-95df-4e64-971c-f6802d3386b9&feed=XkY2SBZJ&t=podcast&e=nx-s1-6037839&p=510338&d=1145&size=18327137",
+     "dur": 1145,
+     "link": "https://www.npr.org/2026/11/12/nx-s1-6037839/life-is-easier-with-neighbors-heres-how-to-get-to-know-them",
+     "desc": "For some, being a good neighbor means staying quiet, picking up after your dog and keeping your lawn tidy. But David Burton, the founder of Missouri Good Neighbor Week, says that our neighbor relationships could and should be deeper. Neighbors can help us overcome social isolation, provide assistance during life's emergencies and even help us save money by sharing resources. And, Burton says, an e…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6037839"
+    },
+    {
+     "id": "lifekit:f807523d-469d-46dc-908b-654e114f53fb",
+     "title": "I got what I wanted. Why am I unhappy?",
+     "date": "2026-11-10",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/3267271c-7c17-46f9-a00a-63448aab0018/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=3267271c-7c17-46f9-a00a-63448aab0018&feed=XkY2SBZJ&t=podcast&e=nx-s1-6034949&p=510338&d=1024&size=16386133",
+     "dur": 1024,
+     "link": "https://www.npr.org/2026/11/10/nx-s1-6034949/i-got-what-i-wanted-why-am-i-unhappy",
+     "desc": "Sometimes achieving a goal is elating and feels like an accomplishment. Other times, it invites anxiety, deflation or even grief. Psychiatrist Pooja Lakshmin, author of the upcoming book Quantum Shifts: A Practical Framework for Navigating Life’s Biggest Changes , urges people to pay close attention to these feelings of grief. They might give you clarity on what you truly value in life. Follow us …",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6034949"
+    },
+    {
+     "id": "lifekit:1c109d72-166c-4f43-9c89-ca759fe828ee",
+     "title": "How to turn (almost) anything into a great soup",
+     "date": "2026-11-09",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/0af03b37-e7a3-40d0-9c58-bdd7552a6e95/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=0af03b37-e7a3-40d0-9c58-bdd7552a6e95&feed=XkY2SBZJ&t=podcast&e=nx-s1-6031995&p=510338&d=1079&size=17280191",
+     "dur": 1079,
+     "link": "https://www.npr.org/2026/11/09/nx-s1-6031995/how-to-turn-almost-anything-into-a-great-soup",
+     "desc": "Soup can be a flexible, cozy meal that allows you to experiment in the kitchen. But to make a delicious one you need to get some fundamentals down first. Chef Sohla El-Waylly offers her best tips on everything from creating a yummy broth to ensuring you get your cook time right. This episode originally published Oct. 30, 2023. Follow us on Instagram: @nprlifekit Sign up for our newsletter here. Ha…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6031995"
+    },
+    {
+     "id": "lifekit:3ce2013b-3030-4558-8228-5882682e46bf",
+     "title": "How to plan your workouts for the week",
+     "date": "2026-11-05",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/db8da660-02d6-4d92-b23f-ee0d1d944680/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=db8da660-02d6-4d92-b23f-ee0d1d944680&feed=XkY2SBZJ&t=podcast&e=nx-s1-6029822&p=510338&d=1340&size=21441393",
+     "dur": 1340,
+     "link": "https://www.npr.org/2026/11/05/nx-s1-6029822/how-to-plan-your-workouts-for-the-week",
+     "desc": "We all know we should be moving more, but how can we fit all that movement into a busy week? On this episode, tips from a physical therapist and a personal trainer on how to set up a week of workouts, when to focus on cardio versus strength training, and the importance of compound movements. Follow us on Instagram: @nprlifekit Sign up for our newsletter here. Have an episode idea or feedback you w…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6029822"
+    },
+    {
+     "id": "lifekit:4d985ce9-5201-4ddd-a360-c5d03fe9e3df",
+     "title": "How to reclaim joy without seeking out newness",
+     "date": "2026-11-03",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/f6c90179-0967-4a0c-b9ae-28e1bbf5f853/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=f6c90179-0967-4a0c-b9ae-28e1bbf5f853&feed=XkY2SBZJ&t=podcast&e=nx-s1-6023372&p=510338&d=1341&size=21465174",
+     "dur": 1341,
+     "link": "https://www.npr.org/2026/11/03/nx-s1-6023372/how-to-reclaim-joy-without-seeking-out-newness",
+     "desc": "New gadgets, new apps, new experiences, new restaurants — we're constantly being told (and sold) that newness will bring order and meaning to our lives. But that drive for newness can take up our time and money in ways that don't align with our values and prevent us from enjoying the familiar. In this episode of Life Kit, journalist Eric Athas shares tips from his recent book, Saying No to New: Wh…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6023372"
+    },
+    {
+     "id": "lifekit:eb34e2d7-9670-44fe-8ae0-f8d679ab18ee",
+     "title": "Anxious you're spending too much? Tips to help you cut back",
+     "date": "2026-11-02",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/2dbb3e5a-f217-4d2a-b1fa-a4bca2420650/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=2dbb3e5a-f217-4d2a-b1fa-a4bca2420650&feed=XkY2SBZJ&t=podcast&e=nx-s1-6022282&p=510338&d=1015&size=16244445",
+     "dur": 1015,
+     "link": "https://www.npr.org/2026/11/02/nx-s1-6022282/anxious-youre-spending-too-much-tips-to-help-you-cut-back",
+     "desc": "If you're looking for ways to curb your spending, we have tips to help you save at the grocery store, stop impulse shopping, avoid unnecessary fees, and more. This episode was originally published on Dec. 3, 2024. Follow us on Instagram: @nprlifekit Sign up for our newsletter here. Have an episode idea or feedback you want to share? Email us at lifekit@npr.org Support public media with NPR+ and en…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6022282"
+    },
+    {
+     "id": "lifekit:31ec22ec-be36-4955-b8c0-c5277859b64e",
+     "title": "Seasonal Affective Disorder is real. Here's how to get through it",
+     "date": "2026-10-29",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/9421e933-11ad-4c71-b364-1f73a42c1ce8/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=9421e933-11ad-4c71-b364-1f73a42c1ce8&feed=XkY2SBZJ&t=podcast&e=nx-s1-6017759&p=510338&d=1035&size=16573841",
+     "dur": 1035,
+     "link": "https://www.npr.org/2026/10/29/nx-s1-6017759/seasonal-affective-disorder-is-real-heres-how-to-get-through-it",
+     "desc": "As the days get shorter and temperatures drop, it's common to feel depressed and low on energy. In this episode, tips from the psychiatrist who first studied SAD on how to weather the colder, darker months ahead. This episode originally ran Oct 2020. Follow us on Instagram: @nprlifekit Sign up for our newsletter here. Have an episode idea or feedback you want to share? Email us at lifekit@npr.org …",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6017759"
+    },
+    {
+     "id": "lifekit:c34daca1-9947-4c31-90ad-1410a24f66a2",
+     "title": "Dear Life Kit: Why are they like this?!",
+     "date": "2026-10-27",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/22f99de8-2c93-403c-9a6c-6b23a73db132/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=22f99de8-2c93-403c-9a6c-6b23a73db132&feed=XkY2SBZJ&t=podcast&e=nx-s1-6018577&p=510338&d=883&size=14129198",
+     "dur": 883,
+     "link": "https://www.npr.org/2026/10/27/nx-s1-6018577/dear-life-kit-why-are-they-like-this",
+     "desc": "In this edition of Dear Life Kit, more wisdom from our vast archives to help you figure out: -Can you keep your group chat from descending into chaos? -Should you break up with your partner if they can't keep the house clean? -What to do if your friend never initiates plans? Follow us on Instagram: @nprlifekit Sign up for our newsletter here. Have an episode idea or feedback you want to share? Ema…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6018577"
+    },
+    {
+     "id": "lifekit:c63e590c-1827-441a-9538-b2d681680706",
+     "title": "How to DIY a clever (and low-budget) Halloween costume",
+     "date": "2026-10-26",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/f1540469-3f31-4ed9-93b0-4be6c143a6e3/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=f1540469-3f31-4ed9-93b0-4be6c143a6e3&feed=XkY2SBZJ&t=podcast&e=nx-s1-6014759&p=510338&d=1066&size=17068287",
+     "dur": 1066,
+     "link": "https://www.npr.org/2026/10/26/nx-s1-6014759/how-to-diy-a-clever-and-low-budget-halloween-costume",
+     "desc": "Halloween is nigh! Do you have your costume ready? Sophie Strauss, \"stylist for regular people\" and Halloween enthusiast, shares tips to DIY a costume without spending big bucks or a lot of time. This episode originally aired on Oct 17, 2023. Follow us on Instagram: @nprlifekit Sign up for our newsletter here. Have an episode idea or feedback you want to share? Email us at lifekit@npr.org Support …",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6014759"
+    },
+    {
+     "id": "lifekit:93729555-5746-4f8a-853c-aaa632e9c57a",
+     "title": "How honest should you really be? Tips for sharing good and bad news",
+     "date": "2026-10-22",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/74c696c7-baaa-491d-b7fa-1d1f68052d7a/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=74c696c7-baaa-491d-b7fa-1d1f68052d7a&feed=XkY2SBZJ&t=podcast&e=nx-s1-6010647&p=510338&d=1376&size=22030254",
+     "dur": 1376,
+     "link": "https://www.npr.org/2026/10/22/nx-s1-6010647/how-honest-should-you-really-be-tips-for-sharing-good-and-bad-news",
+     "desc": "Should you tell a colleague that you heard they might be fired? A stranger that they have spinach in their teeth? Your followers that you just won a big award? In this episode of Life Kit, reporter Andee Tagle speaks with social psychologist Vanessa Bohns, author of the new book Should I Say Something? The Science of What to Share — and What to Keep to Yourself. Bohns shares tips on when to be hon…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6010647"
+    },
+    {
+     "id": "lifekit:1885a632-a2a1-443d-bf63-076ab9ab0898",
+     "title": "Why you should take a 'say no' retreat",
+     "date": "2026-10-20",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/1d918a0f-d527-48ac-a92e-dcd113c379eb/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=1d918a0f-d527-48ac-a92e-dcd113c379eb&feed=XkY2SBZJ&t=podcast&e=nx-s1-6008141&p=510338&d=1259&size=20159469",
+     "dur": 1259,
+     "link": "https://www.npr.org/2026/10/20/nx-s1-6008141/why-you-should-take-a-say-no-retreat",
+     "desc": "If you often overextend yourself or struggle to uphold your boundaries, telling people \"no\" might not feel easy. But Caroline Sylge, author of the book, How to Retreat: A Guide to Stepping Away from the Everyday to Find Space for Your Self, says that learning to say \"no\" might just take some intentional practice. This episode, Sylge offers advice on saying \"no.\" And she makes the case for a \"say n…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6008141"
+    },
+    {
+     "id": "lifekit:b362ea92-849d-435c-9ddd-61af2c68362b",
+     "title": "Anxious about trying for a baby? Here's how to deal",
+     "date": "2026-10-19",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/7c7d9bcf-ced9-4366-b5e0-40fe87ad7af6/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=7c7d9bcf-ced9-4366-b5e0-40fe87ad7af6&feed=XkY2SBZJ&t=podcast&e=nx-s1-6005508&p=510338&d=1090&size=17451929",
+     "dur": 1090,
+     "link": "https://www.npr.org/2026/10/19/nx-s1-6005508/anxious-about-trying-for-a-baby-heres-how-to-deal",
+     "desc": "Trying to get pregnant can feel like being stuck on a stressful hamster wheel. Between monitoring your cycle, dealing with your family's probing questions and navigating medical ups and downs, conception is rarely straightforward and often anxiety-inducing. This episode, reporter Andee Tagle shares tips on dealing with conception anxiety no matter your pregnancy journey. Follow us on Instagram: @n…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6005508"
+    },
+    {
+     "id": "lifekit:19f0c833-d9d2-478b-93e0-cddb5357d43f",
+     "title": "How to find your flow state when you’ve lost it",
+     "date": "2026-10-15",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/93c1fecd-c82a-4db6-a131-a298cc61b5f1/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=93c1fecd-c82a-4db6-a131-a298cc61b5f1&feed=XkY2SBZJ&t=podcast&e=nx-s1-6002936&p=510338&d=1976&size=31630360",
+     "dur": 1976,
+     "link": "https://www.npr.org/2026/10/15/nx-s1-6002936/how-to-find-your-flow-state-when-youve-lost-it",
+     "desc": "Unlocking the \"flow state\" – that euphoric, effortless immersion in a challenging task – offers a powerful roadmap for finding purpose and momentum in midlife. In this episode from NPR's new midlife health podcast, Your Turn with Allison Aubrey , Aubrey explores the science and lived experience of “flow,” a psychological state where a person becomes fully absorbed in an activity, losing sense of s…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6002936"
+    },
+    {
+     "id": "lifekit:526f1b4a-96d5-4ad4-97dd-af149fc4e28d",
+     "title": "How to stock your medicine cabinet for cold and flu season",
+     "date": "2026-10-13",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/0769896e-be58-4e95-9223-59279fd575b6/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=0769896e-be58-4e95-9223-59279fd575b6&feed=XkY2SBZJ&t=podcast&e=nx-s1-5996845&p=510338&d=1249&size=19991492",
+     "dur": 1249,
+     "link": "https://www.npr.org/2026/10/13/nx-s1-5996845/how-to-stock-your-medicine-cabinet-for-cold-and-flu-season",
+     "desc": "We can't prevent you from getting sick this year, but we can help you prepare. In this episode, we talk to a doctor and a pharmacist about their medicine cabinet must-haves, how to read medicine labels, and when to treat an illness at home or see a doctor. An earlier version of this episode characterized honey and chest rubs made with eucalyptus as homeopathic remedies. Neither are homeopathic. Fo…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5996845"
+    },
+    {
+     "id": "lifekit:480e40be-a987-44d9-a038-26b3fc7581ea",
+     "title": "Overcoming romantic obsession",
+     "date": "2026-10-12",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/a8e116d8-1c8b-4c6c-abf7-d37e63f78187/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=a8e116d8-1c8b-4c6c-abf7-d37e63f78187&feed=XkY2SBZJ&t=podcast&e=nx-s1-5994408&p=510338&d=1327&size=21246207",
+     "dur": 1327,
+     "link": "https://www.npr.org/2026/10/12/nx-s1-5994408/overcoming-romantic-obsession",
+     "desc": "When a crush turns into a harmful obsession, you might experience limerence, romantic infatuation characterized by extreme emotional highs and lows, intrusive thoughts and idealization. In this episode, we talk to neuroscientist Tom Bellamy, author of the book Smitten , about how limerence works in the brain, what you can do to stop it, and how to replace limerence with healthier interests. This e…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5994408"
+    },
+    {
+     "id": "lifekit:db84a76a-a927-4f0e-9f01-4eee3e29f069",
+     "title": "It's fall. Let's get cozy!",
+     "date": "2026-10-08",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/93c2957b-d15e-492d-a54f-7ffe0f54d75c/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=93c2957b-d15e-492d-a54f-7ffe0f54d75c&feed=XkY2SBZJ&t=podcast&e=nx-s1-5993807&p=510338&d=1079&size=17273044",
+     "dur": 1079,
+     "link": "https://www.npr.org/2026/10/08/nx-s1-5993807/its-fall-lets-get-cozy",
+     "desc": "Shorter days, less sunshine, rain and snow ... the colder months can be a drag. But they don't have to be! In this episode, we share ideas to help you embrace the seasonal changes, whether you're a fan of the cold or not. We'll cover cozy rituals, dressing for the outdoors, ways to celebrate and gather, and how to use this reflective time of year for contemplation. Follow us on Instagram: @nprlife…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5993807"
+    },
+    {
+     "id": "lifekit:60d0d8eb-86d6-4f81-a9f1-e72f4e8c8948",
+     "title": "It's open enrollment season. Here's how to make the best decision for you",
+     "date": "2026-10-06",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/aa14b93f-e8d6-4a53-acdd-f6bed84656d7/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=aa14b93f-e8d6-4a53-acdd-f6bed84656d7&feed=XkY2SBZJ&t=podcast&e=nx-s1-5989666&p=510338&d=982&size=15713220",
+     "dur": 982,
+     "link": "https://www.npr.org/2026/10/06/nx-s1-5989666/its-open-enrollment-season-heres-how-to-make-the-best-decision-for-you",
+     "desc": "Picking a health insurance plan can be confusing and frustrating. There are endless acronyms and it's hard to predict what your health needs will be in six months. This episode, we break down some of the terms and share guided questions to help you choose the plan that's best for you. This episode was originally published Oct. 31, 2023. Follow us on Instagram: @nprlifekit Sign up for our newslette…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5989666"
+    },
+    {
+     "id": "lifekit:bdc31181-b3a9-4abf-8774-14c8348203aa",
+     "title": "How journaling can help you through hard moments",
+     "date": "2026-10-05",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/09063188-70ed-4d26-8b77-f43d3c6a836c/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=09063188-70ed-4d26-8b77-f43d3c6a836c&feed=XkY2SBZJ&t=podcast&e=nx-s1-5986286&p=510338&d=1190&size=19053550",
+     "dur": 1190,
+     "link": "https://www.npr.org/2026/10/05/nx-s1-5986286/how-journaling-can-help-you-through-hard-moments",
+     "desc": "For Suleika Jaouad, journaling has been a source of solace through life's ups and downs for as long as she can remember. Writing in her journal helps her process, reflect and make meaning from painful experiences. In her book, The Book of Alchemy: A Creative Practice for an Inspired Life , Jaouad shares writing prompts from writers, artists and thinkers, to help you put pen to paper (even when you…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5986286"
+    },
+    {
+     "id": "lifekit:50924f86-e085-40ed-8efb-04d39e15e2f3",
+     "title": "There's still time to reach your 2026 money goals",
+     "date": "2026-10-01",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/f211ba75-8972-426a-a27a-577509d04a6f/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=f211ba75-8972-426a-a27a-577509d04a6f&feed=XkY2SBZJ&t=podcast&e=nx-s1-5986354&p=510338&d=1152&size=18440403",
+     "dur": 1152,
+     "link": "https://www.npr.org/2026/10/01/nx-s1-5986354/theres-still-time-to-reach-your-2026-money-goals",
+     "desc": "Companies look at their financial picture on a quarterly basis. We can do the same for our personal finances. In this episode, how to do a financial check-in ahead of Q4. CBS News business analyst Jill Schlesinger says it's not too late to get back on track with your money goals and set yourself up for success in 2027. Follow us on Instagram: @nprlifekit Sign up for our newsletter here. Have an ep…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5986354"
+    },
+    {
+     "id": "lifekit:e745e5ce-7cd4-48bc-b55d-2a44104d8100",
+     "title": "Worried you’re being overcharged when shopping online? Listen to this",
+     "date": "2026-09-29",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/0942c6f1-f32a-43d0-976c-f60541028943/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=0942c6f1-f32a-43d0-976c-f60541028943&feed=XkY2SBZJ&t=podcast&e=nx-s1-5983674&p=510338&d=1390&size=22254698",
+     "dur": 1390,
+     "link": "https://www.npr.org/2026/09/29/nx-s1-5983674/worried-youre-being-overcharged-when-shopping-online-listen-to-this",
+     "desc": "When shopping online, you and another person could be buying the exact same item, and you'll pay more because of who you are, where you are and your purchase history. In this episode of Life Kit, author Lindsay Owens shares tips from her new book Gouged on how to avoid getting ripped off by surveillance pricing — and get a fair price. Follow us on Instagram: @nprlifekit Sign up for our newsletter …",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5983674"
+    },
+    {
+     "id": "lifekit:b391807f-2d3f-4866-8b4e-e083728a42d9",
+     "title": "A head-to-toe check in for your health",
+     "date": "2026-09-28",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/bcb8b7de-dfe5-4578-9e52-ade7ba295687/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=bcb8b7de-dfe5-4578-9e52-ade7ba295687&feed=XkY2SBZJ&t=podcast&e=nx-s1-5978933&p=510338&d=1374&size=21991802",
+     "dur": 1374,
+     "link": "https://www.npr.org/2026/09/28/nx-s1-5978933/a-head-to-toe-check-in-for-your-health",
+     "desc": "Fall is officially here. Why not use this new season as a chance to check in with your health? This episode of Life Kit, medical professionals share advice to help you care for your ears, eyes, teeth, feet and skin. We hope these tips leave you feeling healthy and strong. This episode was originally published on Sept. 4, 2025. Follow us on Instagram: @nprlifekit Sign up for our newsletter here. Ha…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5978933"
+    },
+    {
+     "id": "lifekit:bb868bf6-4419-4551-9b2a-da438d17e33a",
+     "title": "Beat performance anxiety with these quick tips",
+     "date": "2026-09-24",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/01b6c449-2b05-4f3c-85fc-86221e88f2f1/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=01b6c449-2b05-4f3c-85fc-86221e88f2f1&feed=XkY2SBZJ&t=podcast&e=nx-s1-5978750&p=510338&d=959&size=15360880",
+     "dur": 959,
+     "link": "https://www.npr.org/2026/09/23/nx-s1-5978750/beat-performance-anxiety-with-these-quick-tips",
+     "desc": "Whether it’s before a big race, during a job interview, or after meeting a new friend, performance anxiety can feel impossible to beat. So what if you talked to it instead? Certified mental performance coach and author of The Confidence Habit Cindra Kamphoff shares tips to tackle performance anxiety from within. Follow us on Instagram: @nprlifekit Sign up for our newsletter here. Have an episode i…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5978750"
+    },
+    {
+     "id": "lifekit:a2e087f5-3aa8-4116-b4a3-106d62361bac",
+     "title": "Is IVF actually right for you?",
+     "date": "2026-09-22",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/0d03ccfc-8ad4-4d0b-b472-8ffca88a9cf1/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=0d03ccfc-8ad4-4d0b-b472-8ffca88a9cf1&feed=XkY2SBZJ&t=podcast&e=nx-s1-5977062&p=510338&d=1455&size=23286222",
+     "dur": 1455,
+     "link": "https://www.npr.org/2026/09/22/nx-s1-5977062/is-ivf-actually-right-for-you",
+     "desc": "Interested in having a baby outside of the bedroom? In vitro fertilization is just one of many options on the reproductive technology table. This episode, Life Kit reporter Andee Tagle shares how to choose the right conception method for you -- from planning out your timeline to the financial and legal questions you should ask. Follow us on Instagram: @nprlifekit Sign up for our newsletter here. H…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5977062"
+    },
+    {
+     "id": "lifekit:e5198063-a32e-4fbd-94c9-2c73e3dcd81b",
+     "title": "Dear Life Kit: How much advice is too much advice?",
+     "date": "2026-09-21",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/1c5e9a84-8d04-49e1-b834-055e056dc5e7/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=1c5e9a84-8d04-49e1-b834-055e056dc5e7&feed=XkY2SBZJ&t=podcast&e=nx-s1-5973311&p=510338&d=833&size=13338837",
+     "dur": 833,
+     "link": "https://www.npr.org/2026/09/21/nx-s1-5973311/dear-life-kit-how-much-advice-is-too-much-advice",
+     "desc": "In this edition of Dear Life Kit, more wisdom from our vast archives to help you figure out: -Can you bug your friends to do something they're avoiding? -If your partner has a boundary, do you need to go along with it? -Do you need to be on the same page with your partner about junk food? Follow us on Instagram: @nprlifekit Sign up for our newsletter here. Have an episode idea or feedback you want…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5973311"
+    },
+    {
+     "id": "lifekit:8d8f5051-3ca7-4270-99c9-a074a42e078c",
+     "title": "No, it's not too early to start saving for the holidays",
+     "date": "2026-09-17",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/f2a1a587-680e-417b-85c0-dd8c79a696fb/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=f2a1a587-680e-417b-85c0-dd8c79a696fb&feed=XkY2SBZJ&t=podcast&e=nx-s1-5971269&p=510338&d=1019&size=16315081",
+     "dur": 1019,
+     "link": "https://www.npr.org/2026/09/17/nx-s1-5971269/no-its-not-too-early-to-start-saving-for-the-holidays",
+     "desc": "Holiday spending can sneak up on you. From endless gift shopping to expensive flights home, it's easy to lose track of your long-term goals in this season of financial obligations. This episode, Life Kit experts share tips on making a holiday spending plan so you can enjoy the winter festivities guilt-free. Follow us on Instagram: @nprlifekit Sign up for our newsletter here. Have an episode idea o…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5971269"
+    },
+    {
+     "id": "lifekit:b43d9495-e780-4433-bb7f-795f34b72443",
+     "title": "Feeling insecure? Try this memory-update exercise",
+     "date": "2026-09-15",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/9d325fc9-f6a4-4460-ba6b-31237c1b01dc/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=9d325fc9-f6a4-4460-ba6b-31237c1b01dc&feed=XkY2SBZJ&t=podcast&e=nx-s1-5968658&p=510338&d=1055&size=16891865",
+     "dur": 1055,
+     "link": "https://www.npr.org/2026/09/15/nx-s1-5968658/feeling-insecure-try-this-memory-update-exercise",
+     "desc": "Memories from your past can affect your self worth in the present. Marisa Franco, psychologist and author of the book Worth: The New Science of Self-Esteem and Secure Attachment , shares a memory-updating technique you can use daily to boost your self-esteem and feel more secure. Follow us on Instagram: @nprlifekit Sign up for our newsletter here. Have an episode idea or feedback you want to share…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5968658"
+    },
+    {
+     "id": "lifekit:93bfc646-b992-4daa-9aff-a40cc37357b2",
+     "title": "Quitting is sometimes the right decision. Here's how to know when to walk away",
+     "date": "2026-09-14",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/8730cacb-1102-4870-ae9f-004bae5a4374/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=8730cacb-1102-4870-ae9f-004bae5a4374&feed=XkY2SBZJ&t=podcast&e=nx-s1-5965755&p=510338&d=1045&size=16727189",
+     "dur": 1045,
+     "link": "https://www.npr.org/2026/09/14/nx-s1-5965755/quitting-is-sometimes-the-right-decision-heres-how-to-know-when-to-walk-away",
+     "desc": "Quitting is often associated with failure. But choosing to walk away from a goal can help you save time, identify what you truly want and create space for other pursuits. This episode, how to evaluate your goal, figure out its cost and know when it's time to throw in the towel. This episode was originally published on Aug. 18, 2025. Show notes: Read a comic version of this episode here . Follow us…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5965755"
+    },
+    {
+     "id": "lifekit:2217eceb-e4ef-47b0-80e2-bea9e6d402a9",
+     "title": "How to jumpstart your child's financial future",
+     "date": "2026-09-10",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/670629b2-d466-4435-9dee-661a0ff7b8a8/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=670629b2-d466-4435-9dee-661a0ff7b8a8&feed=XkY2SBZJ&t=podcast&e=nx-s1-5963879&p=510338&d=1135&size=18176297",
+     "dur": 1135,
+     "link": "https://www.npr.org/2026/09/10/nx-s1-5963879/how-to-jumpstart-your-childs-financial-future",
+     "desc": "If you're a new or soon-to-be parent, free time is at a premium. And sorting through different investment account options is confusing and time-consuming. On this episode, Life Kit reporter Andee Tagle walks you through different savings methods, from the new Trump accounts, to classic 529 plans, to custodial brokerage accounts, and will help you prioritize which method to use. Follow us on Instag…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5963879"
+    },
+    {
+     "id": "lifekit:af8f7a77-b237-4965-b8e9-3b07862498af",
+     "title": "Want more intimacy in your relationships? Conflict could help",
+     "date": "2026-09-08",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/d883dd42-ebca-4734-90ad-3aac1e9ecbda/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=d883dd42-ebca-4734-90ad-3aac1e9ecbda&feed=XkY2SBZJ&t=podcast&e=nx-s1-5958495&p=510338&d=1276&size=20426127",
+     "dur": 1276,
+     "link": "https://www.npr.org/2026/09/08/nx-s1-5958495/want-more-intimacy-in-your-relationships-conflict-could-help",
+     "desc": "Conflict is not necessarily a bad thing. In fact, it’s necessary for close, authentic relationships, says Priya Parker, a conflict resolution facilitator and the author of a new book, The Art of Fighting . But sometimes it can be hard to know if it's worth getting in the weeds with someone. In this episode of Life Kit, Parker shares questions to ask yourself before you bring up an issue, how to ha…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5958495"
+    },
+    {
+     "id": "lifekit:2d001861-9e35-414e-aef6-d61ebc26f5f1",
+     "title": "Boost your mood in 15 minutes",
+     "date": "2026-09-07",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/8db5926e-902d-4f75-bd2f-a4910eefd61c/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=8db5926e-902d-4f75-bd2f-a4910eefd61c&feed=XkY2SBZJ&t=podcast&e=nx-s1-5955675&p=510338&d=1382&size=22119740",
+     "dur": 1382,
+     "link": "https://www.npr.org/2026/09/07/nx-s1-5955675/boost-your-mood-in-15-minutes",
+     "desc": "Sometimes you're just feeling blah: maybe the weather's bad, you can't get out of bed and you're struggling to shake off that listlessness. In these moments, the solution is often simpler than we think. This episode, NPR's Science desk and Life Kit staff present research-backed mood boosters to instantly shake yourself out of a slump and turn your day around. This episode originally published Sept…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5955675"
+    },
+    {
+     "id": "lifekit:e6968d8d-66f6-4fc7-8ce5-02ac0c70bf96",
+     "title": "5 rituals to reclaim that back-to-school buzz",
+     "date": "2026-09-03",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/58cafedd-fafe-4356-8a4c-0ff64e9f9cbf/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=58cafedd-fafe-4356-8a4c-0ff64e9f9cbf&feed=XkY2SBZJ&t=podcast&e=nx-s1-5954204&p=510338&d=916&size=14662889",
+     "dur": 916,
+     "link": "https://www.npr.org/2026/09/03/nx-s1-5954204/5-rituals-to-reclaim-that-back-to-school-buzz",
+     "desc": "Meal prep. Refresh your wardrobe. Make a new friend. You don't have to be headed to a classroom to harness the back-to-school buzz. In this episode of Life Kit, we bring you tactics and tips that will help you break old habits or start new ones — and reclaim the excitement of a new school year. Show notes: How to use avocados (or onions) to dye clothes Play Styles Quiz from the National Institute …",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5954204"
+    },
+    {
+     "id": "lifekit:9c91e81b-1d5c-45a1-bbc1-198addb5b8e9",
+     "title": "The reasons you procrastinate -- and how to finally stop",
+     "date": "2026-09-01",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/24899179-c7d0-4e72-9320-ba68bc97bdf3/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=24899179-c7d0-4e72-9320-ba68bc97bdf3&feed=XkY2SBZJ&t=podcast&e=nx-s1-5950582&p=510338&d=948&size=15182872",
+     "dur": 948,
+     "link": "https://www.npr.org/2026/08/31/nx-s1-5950582/the-reasons-you-procrastinate-and-how-to-finally-stop",
+     "desc": "Want to finally stop doomscrolling and actually do the thing you've been putting off? Itamar Shatz, author of the book Solving Procrastination, explains the evolutionary reason we avoid difficult tasks and the research-backed methods that can help you take action. Follow us on Instagram: @nprlifekit Sign up for our newsletter here. Have an episode idea or feedback you want to share? Email us at li…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5950582"
+    },
+    {
+     "id": "lifekit:8c038c48-6819-42f4-8819-93b03c824d1b",
+     "title": "Find your lost keys faster with these techniques",
+     "date": "2026-08-31",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/e81498ea-349a-47af-93c8-fd63d2144aec/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=e81498ea-349a-47af-93c8-fd63d2144aec&feed=XkY2SBZJ&t=podcast&e=nx-s1-5946731&p=510338&d=1078&size=17256743",
+     "dur": 1078,
+     "link": "https://www.npr.org/2026/08/31/nx-s1-5946731/find-your-lost-keys-faster-with-these-techniques",
+     "desc": "Finding missing items isn't a matter of \"looking harder.\" There's an art and a science to it. The next time you misplace your wedding ring, try these strategies to hunt it down. They'll make your search process faster, smoother and calmer. Life Kit digital editor Malaka Gharib talks with visual search experts, a metal detector enthusiast and a detective about their best tricks for finding what's l…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5946731"
+    },
+    {
+     "id": "lifekit:80c075d8-eaa6-4db0-ac8a-99dbf384d135",
+     "title": "How to stop fixating on your body in the era of GLP-1s",
+     "date": "2026-08-27",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/6e1c4f30-1ca7-4784-8895-079c6e783e89/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=6e1c4f30-1ca7-4784-8895-079c6e783e89&feed=XkY2SBZJ&t=podcast&e=nx-s1-5945735&p=510338&d=1295&size=20723297",
+     "dur": 1295,
+     "link": "https://www.npr.org/2026/08/27/nx-s1-5945735/how-to-stop-fixating-on-your-body-in-the-era-of-glp-1s",
+     "desc": "It can be difficult to love how your body looks, or even like it. But what if you could expand the way you think about your body? This episode, psychologist Diana Hill shares how to practice body image flexibility and appreciate all of the ways your body allows you to experience the world. She gives mental exercises that help you fixate less on your appearance in an image-obsessed culture. Follow …",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5945735"
+    },
+    {
+     "id": "lifekit:65889aac-c5ba-4083-a0c1-561565b08471",
+     "title": "Mom needs a moment! How to pause parental rage",
+     "date": "2026-08-25",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/12c45358-871a-4303-b1c5-d411230a3dfd/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=12c45358-871a-4303-b1c5-d411230a3dfd&feed=XkY2SBZJ&t=podcast&e=nx-s1-5943603&p=510338&d=1298&size=20772659",
+     "dur": 1298,
+     "link": "https://www.npr.org/2026/08/25/nx-s1-5943603/mom-needs-a-moment-how-to-pause-parental-rage",
+     "desc": "Parenthood is exhausting. When a kid asks for snack for the millionth time while you're running on little sleep and trying to make dinner, it's easy to snap. Licensed marriage and family therapist Cassidy Freitas says the key is to find refuge in what she calls \"the margins.\" In this episode, Freitas shares tools from her book Mom Needs A Moment: How to Stop Your Reaction Before It Starts and Beco…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5943603"
+    },
+    {
+     "id": "lifekit:02906b78-8405-4959-976c-2400400d7efa",
+     "title": "5 questions that can save you from a bad purchase",
+     "date": "2026-08-24",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/ab3f7bd4-869f-41b4-bf24-ceb83b756953/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=ab3f7bd4-869f-41b4-bf24-ceb83b756953&feed=XkY2SBZJ&t=podcast&e=nx-s1-5940640&p=510338&d=1054&size=16879744",
+     "dur": 1054,
+     "link": "https://www.npr.org/2026/08/24/nx-s1-5940640/5-questions-that-can-save-you-from-a-bad-purchase",
+     "desc": "Sometimes we buy things that we later regret: a new sweater that's already falling apart, or a thrifted \"vintage\" vase that turns out to be a mass-produced dupe. In the moment, it's difficult to resist the temptation of making a purchase. But with a few pointed questions, you can make sure you've done your due diligence. This episode, financial experts offer a framework to help you decide whether …",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5940640"
+    },
+    {
+     "id": "lifekit:2e70d6d0-39fb-45e8-b94b-87d0da701cee",
+     "title": "Dear Life Kit: Should I put my life on hold for my partner?",
+     "date": "2026-08-20",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/471d185e-25b8-4b37-ae06-839873b05c9b/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=471d185e-25b8-4b37-ae06-839873b05c9b&feed=XkY2SBZJ&t=podcast&e=nx-s1-5938808&p=510338&d=1001&size=16020881",
+     "dur": 1001,
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5938808/dear-life-kit-should-i-put-my-life-on-hold-for-my-partner",
+     "desc": "In this edition of Dear Life Kit, more wisdom from our vast archives to help you figure out: -Whether you can refuse a gift -If you should move in with your partner if they're not ready -How to feel like an actual \"graduated\" grown-up Send us your own Dear Life Kit questions at npr.org/dearlifekit Follow us on Instagram: @nprlifekit Sign up for our newsletter here. Have an episode idea or feedback…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5938808"
+    }
+   ]
+  },
+  "allears": {
+   "name": "All Ears English",
+   "items": [
+    {
+     "id": "allears:79db8fcc-d274-11f1-96ec-931cfdec9aef",
+     "title": "AEE 2725: Kiss Your Sarcasm Struggles Goodbye!",
+     "date": "2026-11-19",
+     "audio": "https://traffic.megaphone.fm/ALLE5072602419.mp3",
+     "dur": 1290,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:aacbdd90-d273-11f1-a59a-936273d70622",
+     "title": "AEE 2724: Don’t Crash Out Over English Slang",
+     "date": "2026-11-18",
+     "audio": "https://traffic.megaphone.fm/ALLE2378645383.mp3",
+     "dur": 1057,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:df5bf762-d272-11f1-a94f-677e44598e80",
+     "title": "AEE 2723: Puzzling Prepositions Part 1: On or With?",
+     "date": "2026-11-17",
+     "audio": "https://traffic.megaphone.fm/ALLE1573000811.mp3",
+     "dur": 965,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:229ab000-d272-11f1-9512-874a12fcd5d5",
+     "title": "AEE 2722: We Wager You’ll Love This Episode!",
+     "date": "2026-11-16",
+     "audio": "https://traffic.megaphone.fm/ALLE1111210925.mp3",
+     "dur": 947,
+     "link": "https://www.allearsenglish.com/",
+     "desc": "Learn more about your ad choices. Visit podcastchoices.com/adchoices"
+    },
+    {
+     "id": "allears:4f2a2392-d11b-11f1-a47e-87d5cae448df",
+     "title": "AEE: Once You Get It, You Got It!",
+     "date": "2026-11-14",
+     "audio": "https://traffic.megaphone.fm/ALLE1767234297.mp3",
+     "dur": 1128,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:29d8dc28-d11b-11f1-8184-332a0f26691a",
+     "title": "AEE 2721: Fancy Schmancy Phrases with Ben Grossblatt from Everybody ESL",
+     "date": "2026-11-12",
+     "audio": "https://traffic.megaphone.fm/ALLE4343005544.mp3",
+     "dur": 1041,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:0a7cf9c2-d11b-11f1-a28a-d79820cd68d1",
+     "title": "AEE 2720: Are You Spiteful? How to Discuss Revenge in English",
+     "date": "2026-11-11",
+     "audio": "https://traffic.megaphone.fm/ALLE8451433385.mp3",
+     "dur": 1148,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:ebd9a0f6-d11a-11f1-b232-9fc3a1041e89",
+     "title": "AEE 2719: How Tanning Culture is Changing in the U.S.",
+     "date": "2026-11-10",
+     "audio": "https://traffic.megaphone.fm/ALLE4909828738.mp3",
+     "dur": 1240,
+     "link": "https://www.allearsenglish.com/",
+     "desc": "Learn more about your ad choices. Visit podcastchoices.com/adchoices"
+    },
+    {
+     "id": "allears:13444ac0-d11a-11f1-8231-374595115eb7",
+     "title": "AEE 2718: Dicey English Vocabulary for Precarious Situations",
+     "date": "2026-11-09",
+     "audio": "https://traffic.megaphone.fm/ALLE3258258693.mp3",
+     "dur": 1137,
+     "link": "https://www.allearsenglish.com/",
+     "desc": "Learn more about your ad choices. Visit podcastchoices.com/adchoices"
+    },
+    {
+     "id": "allears:c6cd6bc2-cabb-11f1-9927-93a5be7305c3",
+     "title": "AEE: Beware of the Loaded Pause",
+     "date": "2026-11-07",
+     "audio": "https://traffic.megaphone.fm/ALLE4067129412.mp3",
+     "dur": 1191,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:90ef2be4-cabb-11f1-9558-13c8c2a31f3b",
+     "title": "AEE 2717: Are These English Phrases Condescending?",
+     "date": "2026-11-05",
+     "audio": "https://traffic.megaphone.fm/ALLE2580221597.mp3",
+     "dur": 1590,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:d41b97f0-cab5-11f1-aac7-ff4501a63172",
+     "title": "AEE 2716: This is Us Breaking Down English Grammar",
+     "date": "2026-11-04",
+     "audio": "https://traffic.megaphone.fm/ALLE3455647051.mp3",
+     "dur": 1113,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:11b283f6-cab3-11f1-815b-0f86da34f552",
+     "title": "AEE 2715: Giving Up on English? Hang on Now!",
+     "date": "2026-11-03",
+     "audio": "https://traffic.megaphone.fm/ALLE5623637822.mp3",
+     "dur": 1119,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:ef20a02a-cab2-11f1-9d1f-73d2d6d147ed",
+     "title": "AEE 2714: Have You Learned English From a Beloved Teacher?",
+     "date": "2026-11-02",
+     "audio": "https://traffic.megaphone.fm/ALLE6466342240.mp3",
+     "dur": 1156,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:483f8e30-c5e2-11f1-bace-bb5b7a1a39b5",
+     "title": "AEE: Are You Making This Common Native Speaker Error?",
+     "date": "2026-10-31",
+     "audio": "https://traffic.megaphone.fm/ALLE5890308423.mp3",
+     "dur": 1526,
+     "link": "https://www.allearsenglish.com/business",
+     "desc": "The Business English Course is available for a special price this week only! Speak up with confidence in meetings, impress your colleagues on your next conference call, and build real connections at the office in English. For a limited time, get the course for $199 (regularly $249), or choose Personal Coach for $299 (regularly $399) to get teacher feedback on 12 exercises plus our Live Weekly Q+A.…"
+    },
+    {
+     "id": "allears:235c6c50-c5e2-11f1-8f87-73710dd9efb4",
+     "title": "AEE 2713: Take a Crack at These English Phrases",
+     "date": "2026-10-29",
+     "audio": "https://traffic.megaphone.fm/ALLE4384641420.mp3",
+     "dur": 992,
+     "link": "https://www.allearsenglish.com/business",
+     "desc": "The Business English Course is available for a special price this week only! Speak up with confidence in meetings, impress your colleagues on your next conference call, and build real connections at the office in English. For a limited time, get the course for $199 (regularly $249), or choose Personal Coach for $299 (regularly $399) to get teacher feedback on 12 exercises plus our Live Weekly Q+A.…"
+    },
+    {
+     "id": "allears:05ae3a58-c5e2-11f1-9cc0-37cb5e415e3f",
+     "title": "AEE 2712: Confused By English Vocabulary? What Now?",
+     "date": "2026-10-28",
+     "audio": "https://traffic.megaphone.fm/ALLE7429305941.mp3",
+     "dur": 1300,
+     "link": "https://www.allearsenglish.com/business",
+     "desc": "The Business English Course is available for a special price this week only! Speak up with confidence in meetings, impress your colleagues on your next conference call, and build real connections at the office in English. For a limited time, get the course for $199 (regularly $249), or choose Personal Coach for $299 (regularly $399) to get teacher feedback on 12 exercises plus our Live Weekly Q+A.…"
+    },
+    {
+     "id": "allears:daf68d4c-c5e1-11f1-9dda-43a961b9fef9",
+     "title": "AEE 2711: Should You Say “B as in Bravo” or “B as in Boy?”",
+     "date": "2026-10-27",
+     "audio": "https://traffic.megaphone.fm/ALLE3729011241.mp3",
+     "dur": 1466,
+     "link": "https://www.allearsenglish.com/business",
+     "desc": "The Business English Course is available for a special price this week only! Speak up with confidence in meetings, impress your colleagues on your next conference call, and build real connections at the office in English. For a limited time, get the course for $199 (regularly $249), or choose Personal Coach for $299 (regularly $399) to get teacher feedback on 12 exercises plus our Live Weekly Q+A.…"
+    },
+    {
+     "id": "allears:d636879c-cd6d-11f1-97d9-0333dab23c89",
+     "title": "AEE: Working Async? How to Set Yourself Up for Success",
+     "date": "2026-10-27",
+     "audio": "https://traffic.megaphone.fm/ALLE6420944141.mp3",
+     "dur": 1220,
+     "link": "https://www.allearsenglish.com/business",
+     "desc": "The Business English Course is available for a special price this week only! Speak up with confidence in meetings, impress your colleagues on your next conference call, and build real connections at the office in English. For a limited time, get the course for $199 (regularly $249), or choose Personal Coach for $299 (regularly $399) to get teacher feedback on 12 exercises plus our Live Weekly Q+A.…"
+    },
+    {
+     "id": "allears:babe5014-c5e1-11f1-9467-638c814ad3b9",
+     "title": "AEE 2710: Should You Tell Someone They're Aging Like a Fine Wine?",
+     "date": "2026-10-26",
+     "audio": "https://traffic.megaphone.fm/ALLE6050537930.mp3",
+     "dur": 1571,
+     "link": "https://www.allearsenglish.com/business",
+     "desc": "The Business English Course is available for a special price this week only! Speak up with confidence in meetings, impress your colleagues on your next conference call, and build real connections at the office in English. For a limited time, get the course for $199 (regularly $249), or choose Personal Coach for $299 (regularly $399) to get teacher feedback on 12 exercises plus our Live Weekly Q+A.…"
+    },
+    {
+     "id": "allears:6b8a94f6-bbf7-11f1-b94c-939c8b8544f5",
+     "title": "AEE: Can You Use “Yet” With Past Simple Tense?",
+     "date": "2026-10-24",
+     "audio": "https://traffic.megaphone.fm/ALLE4579081506.mp3",
+     "dur": 1187,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:48dbee0a-bbf7-11f1-a38b-ff41c7f1bc6c",
+     "title": "AEE 2709: When Ugly Doesn’t Mean What You Think it Means",
+     "date": "2026-10-22",
+     "audio": "https://traffic.megaphone.fm/ALLE1487441236.mp3",
+     "dur": 1111,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:2a44fdba-bbf7-11f1-a0af-db152e3a3e8b",
+     "title": "AEE 2708: Honestly, You’ll Be Happy About These Pronunciation Tips",
+     "date": "2026-10-21",
+     "audio": "https://traffic.megaphone.fm/ALLE2088457638.mp3",
+     "dur": 1010,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:0cd2282a-bbf7-11f1-8de3-33d4b3e96517",
+     "title": "AEE 2707: Worried, Nervous, or Anxious? What’s the Difference?",
+     "date": "2026-10-20",
+     "audio": "https://traffic.megaphone.fm/ALLE6731011294.mp3",
+     "dur": 1159,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:eeef1a02-bbf6-11f1-b648-f3e42f94814c",
+     "title": "AEE 2706: When to Use \"That\" in English",
+     "date": "2026-10-19",
+     "audio": "https://traffic.megaphone.fm/ALLE1838463876.mp3",
+     "dur": 1288,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:7cac1b9c-bb07-11f1-b06e-4b45aff1f8f0",
+     "title": "AEE: Can Movies Make You More Excited to Read?",
+     "date": "2026-10-17",
+     "audio": "https://traffic.megaphone.fm/ALLE8466926854.mp3",
+     "dur": 1111,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:511eb6a6-bb07-11f1-94a5-73c736c4e72f",
+     "title": "AEE 2705: Could Have, Should Have or Must Have?",
+     "date": "2026-10-16",
+     "audio": "https://traffic.megaphone.fm/ALLE5084205021.mp3",
+     "dur": 1083,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:0442d272-bb07-11f1-b28e-d3f11b441d1b",
+     "title": "AEE 2704: Are You Giving Fluency?",
+     "date": "2026-10-14",
+     "audio": "https://traffic.megaphone.fm/ALLE5548745138.mp3",
+     "dur": 1034,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:e1e22f5c-bb06-11f1-a51c-b72e5e075629",
+     "title": "AEE 2703: A More Interesting Way to Say You're Interested",
+     "date": "2026-10-13",
+     "audio": "https://traffic.megaphone.fm/ALLE2049564324.mp3",
+     "dur": 866,
+     "link": "https://www.allearsenglish.com/",
+     "desc": "Learn more about your ad choices. Visit podcastchoices.com/adchoices"
+    },
+    {
+     "id": "allears:ab8c190e-bb06-11f1-a7b8-839410de6b8c",
+     "title": "AEE 2702: Have the Last Laugh With These English Idioms",
+     "date": "2026-10-12",
+     "audio": "https://traffic.megaphone.fm/ALLE2494556127.mp3",
+     "dur": 1076,
+     "link": "https://www.allearsenglish.com/",
+     "desc": "Learn more about your ad choices. Visit podcastchoices.com/adchoices"
+    },
+    {
+     "id": "allears:90f502e4-b238-11f1-89bf-9be592f3c61d",
+     "title": "AEE: What is Lookism and What Can We Do About It?",
+     "date": "2026-10-10",
+     "audio": "https://traffic.megaphone.fm/ALLE1779391053.mp3",
+     "dur": 1210,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:67c4ad48-b238-11f1-a86a-63d016c5adfe",
+     "title": "AEE 2701: Us Neither or We Neither? Would you Believe… Neither!",
+     "date": "2026-10-08",
+     "audio": "https://traffic.megaphone.fm/ALLE4503754130.mp3",
+     "dur": 991,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:3d38372a-b238-11f1-a4d2-a31a959f4446",
+     "title": "AEE 2700: What Would You Do for a Million Dollars?",
+     "date": "2026-10-07",
+     "audio": "https://traffic.megaphone.fm/ALLE9806597345.mp3",
+     "dur": 1107,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:0f9344e0-b238-11f1-8bfc-b3624c885bae",
+     "title": "AEE 2699: When to Avoid the Word Regurgitate in English",
+     "date": "2026-10-06",
+     "audio": "https://traffic.megaphone.fm/ALLE5202990616.mp3",
+     "dur": 1098,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:ec9e4d0e-b237-11f1-8aff-9bba86627a6a",
+     "title": "AEE 2698: In a While or For a While? Tricky English Grammar Explained",
+     "date": "2026-10-05",
+     "audio": "https://traffic.megaphone.fm/ALLE8524391248.mp3",
+     "dur": 997,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:0281c200-af2b-11f1-a078-0b87c22adbdc",
+     "title": "AEE: Do Aliens Exist? How to Connect Over Extraterrestrial Life",
+     "date": "2026-10-03",
+     "audio": "https://traffic.megaphone.fm/ALLE3029322814.mp3",
+     "dur": 1126,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:d94a5ffa-af2a-11f1-8dab-bf96ff62253f",
+     "title": "AEE 2697: Do You Follow the Five-Second Rule?",
+     "date": "2026-10-01",
+     "audio": "https://traffic.megaphone.fm/ALLE3399385833.mp3",
+     "dur": 1343,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:b1a35e0c-af2a-11f1-8338-abc765ad05f9",
+     "title": "AEE 2696: Hate Homework? How to Connect About it in English",
+     "date": "2026-09-30",
+     "audio": "https://traffic.megaphone.fm/ALLE4355080507.mp3",
+     "dur": 1317,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:7b2a1a6e-af2a-11f1-9e9e-4b5eb1d48983",
+     "title": "AEE 2695:  Running on Fumes? Idioms for Expressing Exhaustion",
+     "date": "2026-09-29",
+     "audio": "https://traffic.megaphone.fm/ALLE8814617115.mp3",
+     "dur": 1080,
+     "link": "https://www.allearsenglish.com/fluencyscore",
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+    },
+    {
+     "id": "allears:b669e8d4-af25-11f1-a28a-d3801f9aa289",
+     "title": "AEE 2694: We're Ahead of Schedule With Michelle's Exciting News",
+     "date": "2026-09-28",
+     "audio": "https://traffic.megaphone.fm/ALLE6087923171.mp3",
+     "dur": 1125,
+     "link": "https://www.allearsenglish.com/",
+     "desc": "Learn more about your ad choices. Visit podcastchoices.com/adchoices"
+    }
+   ]
+  },
+  "archers": {
+   "name": "BBC The Archers",
+   "items": [
+    {
+     "id": "archers:urn:bbc:podcast:m00349t7",
+     "title": "The Archers · 19/11/2026",
+     "date": "2026-11-19",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pmgsh3.mp3",
+     "dur": 785,
+     "link": "https://www.bbc.co.uk/programmes/m00349t7",
+     "desc": "Kirsty has something to get off her chest, and Rex attempts to prevent a friend from making a mistake."
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m00349ss",
+     "title": "The Archers · 18/11/2026",
+     "date": "2026-11-18",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pmfvpd.mp3",
+     "dur": 789,
+     "link": "https://www.bbc.co.uk/programmes/m00349ss",
+     "desc": "Outside the shop, Harrison bumps into Azra and says he thinks Zainab will be a brilliant PCSO and they must be proud she’s chosen such an important career. Azra awkwardly raises their reservations due to past behaviour in the police. When they are interrupted by Alan, Azra leaves the men talking about the bell and how they’re still short of cash. Alan invites Harrison to St Stephen’s to chat later…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m00349g9",
+     "title": "The Archers · 17/11/2026",
+     "date": "2026-11-17",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pmfg29.mp3",
+     "dur": 777,
+     "link": "https://www.bbc.co.uk/programmes/m00349g9",
+     "desc": "Denise calls Pip about the concerns with Lower Loxley’s Cotswold sheep. Pip arrives at the rare breeds to the good news that only two sheep are affected and just need antibiotic spray. Denise tries to subtly ask if Brookfield are considering ending the contract with Lovell James. Pip admits that they are checking with other vets after the price hike. Fallon arrives for work and checks if everythin…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m00349fx",
+     "title": "The Archers · 16/11/2026",
+     "date": "2026-11-16",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pmdqmk.mp3",
+     "dur": 790,
+     "link": "https://www.bbc.co.uk/programmes/m00349fx",
+     "desc": "Beth is keeping Vince company as she talks about Elizabeth and tells Vince he has a keeper. The pair of them visited the spinal centre and liked it, but Vince just wants a date to move. All of Vince’s daughters are there for him but it helps having Elizabeth too. He asks about Beth’s time in Canada. Beth asks if he’s going to sue over the tree. Vince takes his fourth work call as he confesses Fred…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m00349my",
+     "title": "The Archers · 15/11/2026",
+     "date": "2026-11-15",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pm3k86.mp3",
+     "dur": 778,
+     "link": "https://www.bbc.co.uk/programmes/m00349my",
+     "desc": "As people assemble for church, Rex pulls over to talk to Natasha. Martyn Gisbon has revealed the tree was Rewilding’s responsibility to Kirsty who was fuming and knocking on doors. Natasha offers to help talk to her. Alan is happy with the turnout of supporters today. Whilst Alan goes to sort prayer books, Natasha asks what’s the truth as she’s heard rumours she wants to correct. Harrison simply s…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m00342ln",
+     "title": "The Archers · 13/11/2026",
+     "date": "2026-11-13",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pm1fb4.mp3",
+     "dur": 786,
+     "link": "https://www.bbc.co.uk/programmes/m00342ln",
+     "desc": "At St Stephen’s, Lynda pitches an art exhibition to Alan. She is conscious they need something to pull the village together at Christmas. Lynda realises Alan’s been looking at the Ambridge community page and at the comments written about him. Usha and Neil arrive catching half a comment, Alan tells Usha not to worry. Neil tells Alan off for allowing kids inside the church unchaperoned. Alan points…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m003418l",
+     "title": "The Archers · 12/11/2026",
+     "date": "2026-11-12",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pm0xpf.mp3",
+     "dur": 773,
+     "link": "https://www.bbc.co.uk/programmes/m003418l",
+     "desc": "Early at Lower Loxley, Elizabeth bumps into Freddie who is leaving for work. She makes a comment about Vince’s experienced staff which bristles Freddie. At the Abattoir, Donal is looking for a solution to their excess meat from Freddie who has only left messages with a local procurement manager. Later, Freddie calls Vince with the good news, his idea has worked and Freddie has got a new contract t…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0033zgv",
+     "title": "The Archers · 11/11/2026",
+     "date": "2026-11-11",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0plf52h.mp3",
+     "dur": 788,
+     "link": "https://www.bbc.co.uk/programmes/m0033zgv",
+     "desc": "Alan spots Eddie in the community orchard, it’s looking better after the village’s help. Eddie confesses he can’t see the orchard getting back up to what it was. Alan tries to comfort him. Lynda spots them and says it’s good to see them hard at work. Alan is impressed with Eddie literally bolting a branch back together. Lynda laments the poetry readings Alan organised falling through. Alan leaves …"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0033z5z",
+     "title": "The Archers · 10/11/2026",
+     "date": "2026-11-10",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pldm11.mp3",
+     "dur": 791,
+     "link": "https://www.bbc.co.uk/programmes/m0033z5z",
+     "desc": "At The Stables, Harrison is trying to find a clean bowl and questions if it annoys Lily that neither of her flatmates can use a dishwasher. Lily says Grey Gables are asking when she’ll be back, but she’s still needed at Lower Loxley. Harrison says the milk is off and invites Lily over to his. Lily is not comfortable, even with Fallon out working. Josh emerges half-dressed from the lounge to their …"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0033z2h",
+     "title": "The Archers · 09/11/2026",
+     "date": "2026-11-09",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pl977b.mp3",
+     "dur": 766,
+     "link": "https://www.bbc.co.uk/programmes/m0033z2h",
+     "desc": "Lynda is pitching all the changes her dog field would require to Martyn Gibson. As much as he loves the idea, it’s a business venture and BL will require a share of the profits, and a monthly rent. Lynda is taken back as this wasn’t the plan. Freddie tries to revive his school meals idea from before the attack last year to a very busy Donal. Donal says until Vince says that he wants to do it, he’s…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0033yv2",
+     "title": "The Archers · 08/11/2026",
+     "date": "2026-11-08",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pl7znx.mp3",
+     "dur": 791,
+     "link": "https://www.bbc.co.uk/programmes/m0033yv2",
+     "desc": "At Lower Loxley, the staff prepare for the two-minute silence as Lily says everyone is really excited about the reopening. When Elizabeth says she’s not visiting Vince today, Lily becomes concerned. Freddie swings by the office to ask if there’s anything he could do to help. Lily starts talking about all the insurance paperwork, losing Freddie. He moves onto his ideas for the abattoir and how he w…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0033s7y",
+     "title": "The Archers · 06/11/2026",
+     "date": "2026-11-06",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0phlyjk.mp3",
+     "dur": 780,
+     "link": "https://www.bbc.co.uk/programmes/m0033s7y",
+     "desc": "Elizabeth is visiting her dad’s grave when she bumps into Alan, who asks after Vince. In the hospital, Vince won’t stop messaging Freddie, but Elizabeth says he can’t run the abattoir from his hospital bed. She asks if he’s heard more about the rehabilitation centre. Vince is tired and asks her about Lower Loxley. When Vince shifts uncomfortably, he snaps at her questions asking for her to get a n…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0033pf7",
+     "title": "The Archers · 05/11/2026",
+     "date": "2026-11-05",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0phly7z.mp3",
+     "dur": 780,
+     "link": "https://www.bbc.co.uk/programmes/m0033pf7",
+     "desc": "The celebration at the Orchard is getting into the swing as Alistair helps clear space for Susan’s Malvern pudding. He asks where Neil and Alan are and Denise says she doesn’t blame Alan staying away. They start to question Susan until she’s saved by Esme who wants to thank the vets for their kindness. Later, Josh is telling anecdotes from Patagonia and watching the World Cup. Esme is disappointed…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0033pdr",
+     "title": "The Archers · 04/11/2026",
+     "date": "2026-11-04",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0phlxty.mp3",
+     "dur": 791,
+     "link": "https://www.bbc.co.uk/programmes/m0033pdr",
+     "desc": "Anna is meeting Helen at the Tearoom. The auction valuer came round to Glebe cottage and her Dad’s Georgian furniture isn’t worth much as no one wants brown furniture. They move onto the complaint against Alan. Anna says there wasn’t enough evidence to prosecute so the complaint was all she could do. Fallon interrupts the conversation saying she doesn’t believe Alan is taking advantage of anyone v…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0033r7z",
+     "title": "The Archers · 03/11/2026",
+     "date": "2026-11-03",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0phlwzf.mp3",
+     "dur": 775,
+     "link": "https://www.bbc.co.uk/programmes/m0033r7z",
+     "desc": "Alistair and Denise are inspecting a wounded cow. Esme says they got injured in the storm. She confesses the cost of a call out put her off but the cow started lying down a lot. Alistair calmly explains unfortunately it’s too late, the kindest option is to put her down. Esme apologies for not staying till the end. Alistair says the cow felt nothing. Esme laments about the costs, she should have ca…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0033p8s",
+     "title": "The Archers · 02/11/2026",
+     "date": "2026-11-02",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0phlwvw.mp3",
+     "dur": 785,
+     "link": "https://www.bbc.co.uk/programmes/m0033p8s",
+     "desc": "Lily catches her mum leaving to visit the hospital. Lily says she’s coming, everything is under control with Lower Loxley. At the hospital, Vince is upbeat and starts praising Lily for all the work she’s done to help Elizabeth. He asks about how all the repairs are going. Lily is hopeful they will reopen soon, but Elizabeth has her doubts. Vince suddenly has a twinge and suggests Elizabeth goes an…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0033p85",
+     "title": "The Archers · 01/11/2026",
+     "date": "2026-11-01",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0phlwny.mp3",
+     "dur": 772,
+     "link": "https://www.bbc.co.uk/programmes/m0033p85",
+     "desc": "Alan is just trying to get through his Sunday duties. Usha laments how much of people’s time will be wasted before the formal complaint against Alan is dismissed. Alan says he hopes it will be dismissed, but talking about it won’t speed it up. He’s just grateful he can still do his job. As Alan gets into his cassock, he chats to Neil who has arrived to chaperone him. Alan knows Neil has been given…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0033f3r",
+     "title": "The Archers · 30/10/2026",
+     "date": "2026-10-30",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pgt9nr.mp3",
+     "dur": 779,
+     "link": "https://www.bbc.co.uk/programmes/m0033f3r",
+     "desc": "Returning to Ambridge, Jazzer and Tracy look at all the damage the storm has caused. Tracy becomes emotional at the spot where the tree nearly injured Chelsea. At least Pip and Stella were able to go on their honeymoon. They’re unloading their suitcases when Helen approaches. She asks how their holiday was, before pointing out that a couple of fence panels have blown across the garden damaging som…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0033f33",
+     "title": "The Archers · 29/10/2026",
+     "date": "2026-10-29",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pgt9f2.mp3",
+     "dur": 780,
+     "link": "https://www.bbc.co.uk/programmes/m0033f33",
+     "desc": "George arrives at Little Grange to check if Keira has gone to school. He offers to give her a lift, but Keira says the bus is fine. George says it is if she was actually going to school. Keira says all that time in A&E tired her out, and George points out they couldn’t find anything actually wrong with her. George makes her a cup of tea and forces her to talk. She says he’s being horrible. He argu…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0033g2k",
+     "title": "The Archers · 28/10/2026",
+     "date": "2026-10-28",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pgt8zn.mp3",
+     "dur": 789,
+     "link": "https://www.bbc.co.uk/programmes/m0033g2k",
+     "desc": "Zainab thinks her dad is avoiding her. Azra says he’s just on a plumbing job in Penny Hassett. Zainab says she can protect herself and that she’s already dealt with racism, recently from Lawrence at the golf club. Azra says she might have to arrest people she’s sympathetic to, but Zainab says she’s hardly the first Muslim woman to join the police. Azra says she would be the first in the family, to…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0033dn0",
+     "title": "The Archers · 27/10/2026",
+     "date": "2026-10-27",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pgt8wh.mp3",
+     "dur": 788,
+     "link": "https://www.bbc.co.uk/programmes/m0033dn0",
+     "desc": "Ed calls Storm a “little bruiser” whilst George recounts some of Will’s storm puns. Keira pulls a face at having to go to catch-up classes during half term. Storm then needs changing, getting them off the topic of school. As Ed double checks Keira has everything, she becomes teary and begs not to go. Keira says she’s getting flashbacks and can’t be around people. She pleads for one more day at hom…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0033dmk",
+     "title": "The Archers · 26/10/2026",
+     "date": "2026-10-26",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pgt8t5.mp3",
+     "dur": 788,
+     "link": "https://www.bbc.co.uk/programmes/m0033dmk",
+     "desc": "There’s chaos in the kitchen at No. 1 The Green with baby things everywhere. Ed and Will discuss baby Storm’s name. Will says he’d be besotted even if the baby was called Donut. Akram proposes a family breakfast as Azra doesn’t have work until lunchtime, but Zainab says she wants to talk to them both. She has been thinking about her future, and she wants to help people for a career. Akram keeps in…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0033dv1",
+     "title": "The Archers · 25/10/2026",
+     "date": "2026-10-25",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pgt8nv.mp3",
+     "dur": 786,
+     "link": "https://www.bbc.co.uk/programmes/m0033dv1",
+     "desc": "Eddie and George are trying to rescue a turkey. George refers to the turkey as Stormzy as they slowly catch him. When George says he and Amber will be coming to the community orchard later, Eddie doubts anyone will turn up. The Maliks are heading down to the orchard after Akram takes down his broken greenhouse at the allotment. Zainab offers to help but Akram is feeling sentimental. Elizabeth knoc…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m00333sx",
+     "title": "The Archers · 23/10/2026",
+     "date": "2026-10-23",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pg8ryh.mp3",
+     "dur": 773,
+     "link": "https://www.bbc.co.uk/programmes/m00333sx",
+     "desc": "Pip and Josh catch up on the way to visit Vince in hospital. Pip can’t believe Josh wound them all up, pretending he wouldn’t be coming back for the wedding. Josh doesn’t yet know if he’ll return to Patagonia. At Lower Loxley, Elizabeth admits to Lily that a long sleep and food have put her in a better place. She feels up to catching up with some work before visiting Vince. Lily admits that she re…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m00333cw",
+     "title": "The Archers · 22/10/2026",
+     "date": "2026-10-22",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pg8r60.mp3",
+     "dur": 785,
+     "link": "https://www.bbc.co.uk/programmes/m00333cw",
+     "desc": "Zainab thinks she’s seen Joy’s missing cat Ena on the roof of a neighbour’s house. She borrows a pet carrier from the vets while Harrison fetches a ladder, and they work together to get it down. Harrison is hesitant – not because he’s afraid of heights, but because he doesn’t like handling cats. Joy is delighted - she’ll get Ena fed and checked over and let the cat chat know she’s been found. Eliz…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m00333bx",
+     "title": "The Archers · 21/10/2026",
+     "date": "2026-10-21",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pg8qjt.mp3",
+     "dur": 786,
+     "link": "https://www.bbc.co.uk/programmes/m00333bx",
+     "desc": "Keira and Eddie are surveying the damaged trees at the Community Orchard the day after the storm. Many trees have been destroyed and there are hundreds of apples to collect before they start to rot. Keira’s glad to have mild injuries, enough to allow her off school for the day. Eddie comments on how the storm is good for the tree surgery business. After half an hour of collecting apples they’ve st…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0033367",
+     "title": "The Archers · 20/10/2026",
+     "date": "2026-10-20",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pg8mg0.mp3",
+     "dur": 782,
+     "link": "https://www.bbc.co.uk/programmes/m0033367",
+     "desc": "The storm continues into the early evening of Sunday. At Lower Loxley, David approaches Elizabeth with the news of Vince’s accident and that the ambulance can’t get through. Pip and Stella want to help and remember they have the tractor and front loader. As Chelsea and Josh wait for the ambulance, Chelsea praises unconscious Vince for saving her life by pushing her out of the way of the tree. As t…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m00331p4",
+     "title": "The Archers · 19/10/2026",
+     "date": "2026-10-19",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pg8ks8.mp3",
+     "dur": 791,
+     "link": "https://www.bbc.co.uk/programmes/m00331p4",
+     "desc": "It’s still Sunday and Ben and Ruth are enjoying the buffet and looking forward to the brides’ first dance. Ruth wishes Josh was there to be part of it – he shouldn’t be missing his own sister’s wedding over a girl he’s just met. Out in the storm, Vince finally regains consciousness encouraged by Chelsea. She doesn’t want to move him, and can’t raise the alarm on either of their phones, which are t…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m00331nt",
+     "title": "The Archers · 18/10/2026",
+     "date": "2026-10-18",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pfp82t.mp3",
+     "dur": 790,
+     "link": "https://www.bbc.co.uk/programmes/m00331nt",
+     "desc": "At Brookfield bungalow, Chelsea is hurricane-proofing Pip’s hair with extra spray when Stella comes in. The brides admire each other’s beauty – they’ve decided not to follow the bad luck superstitions of not seeing each other before the wedding. David arrives with the tractor decorated with fairy lights and Stella drives Pip to Lower Loxley in the pouring rain. Clarrie and Eddie are ready to leave…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0032rdm",
+     "title": "The Archers · 16/10/2026",
+     "date": "2026-10-16",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pfmnyb.mp3",
+     "dur": 783,
+     "link": "https://www.bbc.co.uk/programmes/m0032rdm",
+     "desc": "Officially finished work to concentrate on Sunday’s wedding, Pip and Stella visit Lower Loxley to hear Elizabeth’s wet weather contingency plans. The brides-to-be are upbeat and confident. They’re determined to make the most of it, whatever the weather. Stella reveals to Pip that she and David have possibly fallen out over her comments about Josh. David joins them with an apology about his outburs…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0032r5l",
+     "title": "The Archers · 15/10/2026",
+     "date": "2026-10-15",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pf8j5w.mp3",
+     "dur": 764,
+     "link": "https://www.bbc.co.uk/programmes/m0032r5l",
+     "desc": "After two days of being ignored by Khalil, Keira has had enough and confronts him on the bus to school. He thinks she should know why he’s not talking to her, but she is adamant that she hasn’t got a clue. Later, Khalil reveals to Henry that Keira broke her promise, telling Henry about Khalil’s childhood cancer. Henry reveals that he actually found out online via a fundraising page featuring an ol…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0032r53",
+     "title": "The Archers · 14/10/2026",
+     "date": "2026-10-14",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pf8j39.mp3",
+     "dur": 774,
+     "link": "https://www.bbc.co.uk/programmes/m0032r53",
+     "desc": "At Berrow Farm, Martyn Gibson is concerned about costs in their challenging pig industry and warns Jazzer that they’ll need to make hefty savings. Jazzer fishes for information – does he mean job losses? Martyn assures him that Jazzer's job at least is safe. Jazzer is worried. Hannah’s put an offer in for her first house – and what about Neil? After talking about the stormy forecast for the weddin…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0032sb7",
+     "title": "The Archers · 13/10/2026",
+     "date": "2026-10-13",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pf8hp4.mp3",
+     "dur": 775,
+     "link": "https://www.bbc.co.uk/programmes/m0032sb7",
+     "desc": "Keira and Henry wish Khalil a happy 16th birthday and promise him a treat at the school shop. Keira is looking forward to dancing and celebrating with the boys at the wedding, however she’s less impressed at having to go to school over half term for catch up lessons. Waiting in the shop queue, Henry almost lets slip that he knows about Khalil’s childhood cancer and covers himself, however Khalil i…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0032qp7",
+     "title": "The Archers · 12/10/2026",
+     "date": "2026-10-12",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pf8hd3.mp3",
+     "dur": 771,
+     "link": "https://www.bbc.co.uk/programmes/m0032qp7",
+     "desc": "Pip and David discuss AI in farming, which they think can’t be ignored. Pip tells David that Stella’s mum is still coming to the wedding but won’t be walking Stella down the aisle. David offers his services instead of Stella’s mum. The weather forecast still isn’t good for the wedding and Josh messages to say he won’t be back from Patagonia in time. Ruth wonders to David and Pip if Azra will keep …"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0032qnt",
+     "title": "The Archers · 11/10/2026",
+     "date": "2026-10-11",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pf8h83.mp3",
+     "dur": 777,
+     "link": "https://www.bbc.co.uk/programmes/m0032qnt",
+     "desc": "Pip and Stella are in wedding planning mode and discuss their first dance, practicing lifting each other. On a more serious note, Pip is worried about the lack of silage stored for their pasture-fed herd. They’re running low even before the cows come inside for the winter. They’re interrupted by a message – Stella’s mum’s in A&E. Nothing is broken but she has a bad sprain and won’t be able to walk…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0032fmc",
+     "title": "The Archers · 09/10/2026",
+     "date": "2026-10-09",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pblgws.mp3",
+     "dur": 785,
+     "link": "https://www.bbc.co.uk/programmes/m0032fmc",
+     "desc": "At the Rewilding site, people gather on a beautiful day for Carol Tregorran’s send off. Fallon makes a fond joke about Carol. Jolene’s pleased to see her daughter laughing again, especially after seeing Harrison apparently move on so fast, with Lily. Fallon needs a blank canvas and Jolene suggests legal advice about Woodbine cottage. Fallon comforts emotional Anna, who’s ignoring calls from Alan. …"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0032flv",
+     "title": "The Archers · 08/10/2026",
+     "date": "2026-10-08",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pblgvf.mp3",
+     "dur": 784,
+     "link": "https://www.bbc.co.uk/programmes/m0032flv",
+     "desc": "Helen complains to Alistair about Lovell James’ price hikes and the impact on her and other farmers. At Alistair’s lack of conviction, Helen vows to take the fight on herself, by writing a letter to the company for others to sign. She’s cheered on by Paul, to Alistair’s annoyance. Later Alistair admits that while he supports Helen, he’s worried about how it looks for them. Paul states that Alistai…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0032fr1",
+     "title": "The Archers · 07/10/2026",
+     "date": "2026-10-07",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pblgrg.mp3",
+     "dur": 778,
+     "link": "https://www.bbc.co.uk/programmes/m0032fr1",
+     "desc": "At the cider party for Amber and George’s baby, Eddie remarks on how the baby heralds the new generation of Grundys. Clarrie basks in how different things feel from a year ago, when George was still in prison. Clarrie notes how good Keira is with the baby, and how nice it is to see Keira and Amber getting on. Driving, Anne Marie is sober as Bill gets drunk on strong cider. Anne Marie tells Amber i…"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0032gpx",
+     "title": "The Archers · 06/10/2026",
+     "date": "2026-10-06",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pblgkx.mp3",
+     "dur": 786,
+     "link": "https://www.bbc.co.uk/programmes/m0032gpx",
+     "desc": "Anna feels she should have been more present for Carol, and Alan reassures Anna, praising her ideas for Carol’s Celebration of Life. They discuss the lovely Green Burial site, service plans, and Alan’s role. Harrison shares his condolences, and Anna’s full of praise for Alan’s way with Carol. Harrison’s invited with Fallon to the ceremony at Rewilding for Carol, and he explains that he and Fallon …"
+    },
+    {
+     "id": "archers:urn:bbc:podcast:m0032gjh",
+     "title": "The Archers · 05/10/2026",
+     "date": "2026-10-05",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pblg4y.mp3",
+     "dur": 787,
+     "link": "https://www.bbc.co.uk/programmes/m0032gjh",
+     "desc": "Keira has a horrible toothache, and Clarrie manages to get her an emergency appointment. Eddie takes Keira, after a brief stop to see the baby. The health visitor confirms all’s ok - Amber’s so relieved, having had concerns about feeding, and lets Keira have a hold of the baby. Amber feels silly for being so emotional but is reassured, as the health visitor offers support with pain and comfort – a…"
+    }
+   ]
+  },
+  "bep": {
+   "name": "Business English Pod",
+   "items": [
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24862",
+     "title": "BEP 83c – Interview in English: Previous Experience",
+     "date": "2026-11-08",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP083c-Previous-Experience.mp3",
+     "dur": 1070,
+     "link": "https://www.businessenglishpod.com/2026/11/08/bep-83c-interview-in-english-previous-experience/",
+     "desc": "https://traffic.libsyn.com/secure/bizpod/BEP083c-Previous-Experience.mp3 Welcome back to Business English Pod for today’s lesson on discussing your previous experience during a job interview in English . Job interviews in English can be incredibly stressful. It’s not something you do regularly, so you may not have a lot of practice with it. And if you’re like many people, it may simply feel uncomf…"
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24842",
+     "title": "Skills 360 – Emotional Intelligence (2)",
+     "date": "2026-10-25",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/360.112-Emotional-Intelligence-2.mp3",
+     "dur": 390,
+     "link": "https://www.businessenglishpod.com/2026/10/25/skills-360-emotional-intelligence-2/",
+     "desc": "https://traffic.libsyn.com/secure/bizpod/360.112-Emotional-Intelligence-2.mp3 Welcome back to the Business English Skills 360 podcast as we continue our look at emotional intelligence and how it helps people work effectively with others. Emotions can sometimes seem like barriers to productivity, leading people to ignore or hide their feelings. However, understanding emotions is important for build…"
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24829",
+     "title": "Skills 360 – Emotional Intelligence (1)",
+     "date": "2026-10-11",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/360.111-Emotional-Intelligence-1.mp3",
+     "dur": 384,
+     "link": "https://www.businessenglishpod.com/2026/10/11/skills-360-emotional-intelligence-1/",
+     "desc": "https://traffic.libsyn.com/secure/bizpod/360.111-Emotional-Intelligence-1.mp3 Welcome back to the Business English Skills 360 podcast as we look at emotional intelligence. Ask most people what skills or attributes you need to succeed in business, and they’ll likely name a set of crucial hard skills. Things like financial acumen, analytical abilities, problem-solving, digital competence, and strate…"
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24814",
+     "title": "BEP 425 – English for Marketing 3: Developing a Campaign Strategy",
+     "date": "2026-09-27",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP425-Marketing-3.mp3",
+     "dur": 1346,
+     "link": "https://www.businessenglishpod.com/2026/09/27/bep-425-marketing-3-developing-a-campaign-strategy/",
+     "desc": "https://traffic.libsyn.com/secure/bizpod/BEP425-Marketing-3.mp3 Welcome back to Business English Pod for the third lesson in our series on English for marketing . We’ve been looking at planning and presenting market research. In today’s lesson, we’ll focus on how to use the research to develop a campaign strategy. Great businesses understand markets and customers. It’s not enough to have a product…"
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24798",
+     "title": "BEP 424 – English for Marketing 2: Analyzing Market Research",
+     "date": "2026-09-13",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP424-Marketing-2.mp3",
+     "dur": 1331,
+     "link": "https://www.businessenglishpod.com/2026/09/13/bep-424-english-for-marketing-2-analyzing-market-research/",
+     "desc": "https://traffic.libsyn.com/secure/bizpod/BEP424-Marketing-2.mp3 Welcome back to Business English Pod for the second lesson in our series on English for marketing . In today’s lesson, we’ll focus on presenting and analyzing market research. Today, we are swimming in data. We have access to an unprecedented amount of information about pretty much anything we care to investigate. The problem is: what…"
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24785",
+     "title": "BEP 423 – English for Marketing 1: Planning Market Research",
+     "date": "2026-08-30",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP423-Marketing-1.mp3",
+     "dur": 1395,
+     "link": "https://www.businessenglishpod.com/2026/08/30/bep-423-english-marketing-1-market-research/",
+     "desc": "https://traffic.libsyn.com/secure/bizpod/BEP423-Marketing-1.mp3 Welcome back to Business English Pod for the first lesson in our series on English for marketing . Throughout this series we’ll look at different stages in the marketing process. This includes everything from market research to planning and executing an advertising campaign. In today’s lesson, we’ll focus on market research. Even the …"
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24769",
+     "title": "Business English News 62 – Quantum Computing",
+     "date": "2026-08-16",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEN62-Quantum-Computing.mp3",
+     "dur": 391,
+     "link": "https://www.businessenglishpod.com/2026/08/16/business-english-news-62-quantum-computing/",
+     "desc": "https://traffic.libsyn.com/secure/bizpod/BEN62-Quantum-Computing.mp3 In this Business English News lesson on quantum computing, we look at business English vocabulary related to technology . Quantum computing is emerging as a promising technology alongside AI. Unlike traditional computers, quantum computers use qubits, which can exist in multiple states at once. This allows them to solve certain c…"
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24704",
+     "title": "BEP 119c – Telephone English: Making an Appointment",
+     "date": "2026-07-26",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP119c-Telephone-Appointment.mp3",
+     "dur": 897,
+     "link": "https://www.businessenglishpod.com/2026/07/26/bep-119c-telephone-english-making-an-appointment/",
+     "desc": "https://traffic.libsyn.com/secure/bizpod/BEP119c-Telephone-Appointment.mp3 Welcome back to Business English Pod for today’s lesson on making an appointment over the telephone . Despite the many options for communication, the telephone is still the fastest and easiest way to do get some things done. This is true in business as much as it is in personal life. There are many reasons to skip the back …"
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24683",
+     "title": "BEP 89c – Telephone English: Making Arrangements",
+     "date": "2026-07-12",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP089c-Telephone-Arrangements.mp3",
+     "dur": 1001,
+     "link": "https://www.businessenglishpod.com/2026/07/12/bep-89c-telephone-english-arrangements/",
+     "desc": "https://traffic.libsyn.com/secure/bizpod/BEP089c-Telephone-Arrangements.mp3 Welcome back to Business English Pod for today’s lesson on making arrangements on the telephone . Communication can be hard enough with a person who’s right in front of you. It gets even harder when you’re on the telephone and you can’t see the person. And if it’s all in a language other than your native language, well let…"
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24656",
+     "title": "BEP 164c – Football Idioms (Part 2)",
+     "date": "2026-06-21",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP-164c-Football-Idioms-2.mp3",
+     "dur": 1257,
+     "link": "https://www.businessenglishpod.com/2026/06/21/bep-164c-football-idioms-part-2/",
+     "desc": "https://traffic.libsyn.com/secure/bizpod/BEP-164c-Football-Idioms-2.mp3 Welcome back to Business English Pod. With the World Cup underway, we’re taking another look at one of our lessons on English idioms related to football . People have been competing in and watching some form of sports for thousands of years. Sports enduring popularity has helped it grow into a $2.3 trillion a year industry. An…"
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24636",
+     "title": "BEP 163c – Football Idioms (Part 1)",
+     "date": "2026-06-07",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP-163c-Football-Idioms-1.mp3",
+     "dur": 1179,
+     "link": "https://www.businessenglishpod.com/2026/06/07/bep-163c-football-idioms-1/",
+     "desc": "Learn English idioms related to football. >>> The post BEP 163c – Football Idioms (Part 1) first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24626",
+     "title": "Skills 360 – Strategic Planning (2)",
+     "date": "2026-05-31",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/360.110-Strategic-Planning-2.mp3",
+     "dur": 415,
+     "link": "https://www.businessenglishpod.com/2026/05/31/skills-360-strategic-planning-2/",
+     "desc": "Learn how to develop a strategic plan. >>> The post Skills 360 – Strategic Planning (2) first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24596",
+     "title": "Skills 360 – Strategic Planning (1)",
+     "date": "2026-05-24",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/360.109-Strategic-Planning-1.mp3",
+     "dur": 450,
+     "link": "https://www.businessenglishpod.com/2026/05/24/skills-360-strategic-planning-1/",
+     "desc": "Learn how to develop a strategic plan. >>> The post Skills 360 – Strategic Planning (1) first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24585",
+     "title": "BEP 422 – English for Logistics 3: Duty, Tariffs and Costs",
+     "date": "2026-05-10",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP422-Logistics-3.mp3",
+     "dur": 1192,
+     "link": "https://www.businessenglishpod.com/2026/05/10/bep-422-english-for-logistics-3-duty-tariffs-costs/",
+     "desc": "Learn English for logistics in this lesson on duties, tariffs, and other cost factors. >>> The post BEP 422 – English for Logistics 3: Duty, Tariffs and Costs first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24529",
+     "title": "BEP 421 – English for Logistics 2: Routing and Capacity",
+     "date": "2026-04-26",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP421-Logistics-2.mp3",
+     "dur": 1134,
+     "link": "https://www.businessenglishpod.com/2026/04/26/bep-421-english-for-logistics-2-routing-and-capacity/",
+     "desc": "Learn English for logistics and discussing routing and capacity. >>> The post BEP 421 – English for Logistics 2: Routing and Capacity first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24492",
+     "title": "BEP 420 – English for Logistics 1: Transport Modes and Incoterms",
+     "date": "2026-04-12",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP420-Logistics-1.mp3",
+     "dur": 1074,
+     "link": "https://www.businessenglishpod.com/2026/04/12/bep-420-english-logistics-1-transport-modes-incoterms/",
+     "desc": "Learn English for logistics and discussing the supply chain, transport options and incoterms. >>> The post BEP 420 – English for Logistics 1: Transport Modes and Incoterms first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24486",
+     "title": "Meeting Essentials eBook – New Edition",
+     "date": "2026-04-08",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/Meetings-eBook-2026-Intro.mp3",
+     "dur": 314,
+     "link": "https://www.businessenglishpod.com/2026/04/08/meeting-essentials-ebook-new-edition/",
+     "desc": "Learn business English for meetings with our new Meetings Essentials audio eBook. >>> The post Meeting Essentials eBook – New Edition first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24344",
+     "title": "Presentation Essentials eBook – New Edition Now Available",
+     "date": "2026-03-31",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/Presentations-eBook-2026-Intro.mp3",
+     "dur": 287,
+     "link": "https://www.businessenglishpod.com/2026/03/31/presentation-essentials-ebook/",
+     "desc": "Learn business English for presentations with our new Presentations Essentials eBook. >>> The post Presentation Essentials eBook – New Edition Now Available first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24120",
+     "title": "BEP 116c – Charts and Trends 3: Analyzing Trends",
+     "date": "2026-03-15",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP116c-Charts-3.mp3",
+     "dur": 1103,
+     "link": "https://www.businessenglishpod.com/2026/03/15/bep-116c-charts-and-trends-3-analyzing-trends/",
+     "desc": "Learn how to analyze trends during a presentation. >>> The post BEP 116c – Charts and Trends 3: Analyzing Trends first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24087",
+     "title": "BEP 115c – Charts and Trends 2: Describing Trends",
+     "date": "2026-03-01",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP115c-Charts-2.mp3",
+     "dur": 1077,
+     "link": "https://www.businessenglishpod.com/2026/03/01/bep-115c-presentations-charts-and-trends-2-describing-trends/",
+     "desc": "Learn how to use visuals during a presentation to describe trends in a graph. >>> The post BEP 115c – Charts and Trends 2: Describing Trends first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24027",
+     "title": "Business English News 61 – Data Centers",
+     "date": "2026-02-15",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEN61-Data-Centers.mp3",
+     "dur": 366,
+     "link": "https://www.businessenglishpod.com/2026/02/15/business-english-news-61-data-centers/",
+     "desc": "Learn business English vocabulary related to technology and energy supply. >>> The post Business English News 61 – Data Centers first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24008",
+     "title": "BEP 103c – English Presentations Charts and Trends 1: Visuals",
+     "date": "2026-02-01",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP103c-Charts-1.mp3",
+     "dur": 1004,
+     "link": "https://www.businessenglishpod.com/2026/02/01/bep-103c-presentation-charts-trends-1-visuals/",
+     "desc": "Learn how to use visuals and describe charts and trends in a presentation. >>> The post BEP 103c – English Presentations Charts and Trends 1: Visuals first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23966",
+     "title": "Skills 360 – Developing Good Habits (2)",
+     "date": "2026-01-18",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/360.108-Habits-2.mp3",
+     "dur": 377,
+     "link": "https://www.businessenglishpod.com/2026/01/18/skills-360-developing-good-habits-2/",
+     "desc": "Learn how to help others to develop good habits at work. >>> The post Skills 360 – Developing Good Habits (2) first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23905",
+     "title": "Skills 360 – Developing Good Habits (1)",
+     "date": "2026-01-04",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/360.107-Habits-1.mp3",
+     "dur": 394,
+     "link": "https://www.businessenglishpod.com/2026/01/04/skills-360-developing-good-habits-1/",
+     "desc": "Learn how to develop good habits for success at work. >>> The post Skills 360 – Developing Good Habits (1) first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23870",
+     "title": "BEP 81c – Meeting English: Action Points and Wrapping Up",
+     "date": "2025-12-14",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP081c-Meetings-Finishing.mp3",
+     "dur": 835,
+     "link": "https://www.businessenglishpod.com/2025/12/14/bep-81c-meeting-english-action-points-and-wrapping-up/",
+     "desc": "Learn how to finish a meeting by wrapping up nd covering action points. >>> The post BEP 81c – Meeting English: Action Points and Wrapping Up first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23839",
+     "title": "BEP 68c – English for Meetings: Dealing with Interruptions",
+     "date": "2025-11-30",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP068c-Interruptions.mp3",
+     "dur": 1043,
+     "link": "https://www.businessenglishpod.com/2025/11/30/bep-68c-english-for-meetings-dealing-with-interruptions/",
+     "desc": "Learn how to deal with interruptions during a meeting. >>> The post BEP 68c – English for Meetings: Dealing with Interruptions first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23816",
+     "title": "BEP 419 – English for Projects:  Managing Conflict with Contractors 2",
+     "date": "2025-11-16",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP419-Contractors-2.mp3",
+     "dur": 1362,
+     "link": "https://www.businessenglishpod.com/2025/11/16/bep-419-english-for-project-managing-conflict-with-contractors-2/",
+     "desc": "Learn English for project managers in this lesson on dealing with conflicts with subcontractors. >>> The post BEP 419 – English for Projects: Managing Conflict with Contractors 2 first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23802",
+     "title": "BEP 418 – English for Projects:  Managing Conflict with Contractors 1",
+     "date": "2025-11-06",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP418-Contractors-1.mp3",
+     "dur": 1257,
+     "link": "https://www.businessenglishpod.com/2025/11/06/bep-418-english-for-projects-managing-conflict-with-contractors-1/",
+     "desc": "Learn English for project management in this lesson on dealing with conflict with subcontractors. >>> The post BEP 418 – English for Projects: Managing Conflict with Contractors 1 first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23745",
+     "title": "Skills 360 – Developing a Persuasive Approach (2)",
+     "date": "2025-10-12",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/360.106-Persuasion-2.mp3",
+     "dur": 391,
+     "link": "https://www.businessenglishpod.com/2025/10/12/skills-360-developing-a-persuasive-approach-2/",
+     "desc": "Learn how to use a persuasive approach in business. >>> The post Skills 360 – Developing a Persuasive Approach (2) first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23728",
+     "title": "Skills 360 – Developing a Persuasive Approach (1)",
+     "date": "2025-09-28",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/360.105-Persuasion-1.mp3",
+     "dur": 424,
+     "link": "https://www.businessenglishpod.com/2025/09/28/skills-360-developing-a-persuasive-approach-1/",
+     "desc": "Learn how to develop a persuasive approach in business. >>> The post Skills 360 – Developing a Persuasive Approach (1) first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23700",
+     "title": "BEP 417 – English for Accounting: Discussing an Audit (2)",
+     "date": "2025-09-14",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP-417-Audit-2.mp3",
+     "dur": 1566,
+     "link": "https://www.businessenglishpod.com/2025/09/14/bep-417-accounting-english-discussing-an-audit-2/",
+     "desc": "Learn financial English collocations for discussing the findings of an audit. >>> The post BEP 417 – English for Accounting: Discussing an Audit (2) first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23677",
+     "title": "BEP 416 – English for Accounting: Discussing an Audit (1)",
+     "date": "2025-08-31",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP-416-Audit-1.mp3",
+     "dur": 1422,
+     "link": "https://www.businessenglishpod.com/2025/08/31/bep-416-accounting-english-discussing-audit-1/",
+     "desc": "Learn English collocations for discussing an audit with an accountant. >>> The post BEP 416 – English for Accounting: Discussing an Audit (1) first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23656",
+     "title": "Business English News 60 – Tariffs: Rewiring Global Trade",
+     "date": "2025-08-17",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEN60-Tariffs.mp3",
+     "dur": 295,
+     "link": "https://www.businessenglishpod.com/2025/08/17/business-english-news-60-tariffs-rewiring-global-trade/",
+     "desc": "Learn business English vocabulary in this lesson on the effects of tariffs on global trade. >>> The post Business English News 60 – Tariffs: Rewiring Global Trade first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23620",
+     "title": "BEP 45c – Socializing: Keeping a Conversation Going",
+     "date": "2025-07-27",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP045c-Maintaining-Conversation.mp3",
+     "dur": 855,
+     "link": "https://www.businessenglishpod.com/2025/07/27/bep-45c-socializing-keeping-a-conversation-going/",
+     "desc": "Learn how to keep a conversation in English going while socializing at work. >>> The post BEP 45c – Socializing: Keeping a Conversation Going first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23589",
+     "title": "BEP 44c – Socializing: Starting a Conversation in English",
+     "date": "2025-07-06",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP044c-Starting-Conversation.mp3",
+     "dur": 1006,
+     "link": "https://www.businessenglishpod.com/2025/07/06/bep-44c-socializing-starting-conversation-english/",
+     "desc": "Learn how to start a conversation in English. >>> The post BEP 44c – Socializing: Starting a Conversation in English first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23556",
+     "title": "BEP 43c – Meeting English: Managing the Discussion",
+     "date": "2025-06-22",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP043c-Meetings-Managing.mp3",
+     "dur": 1091,
+     "link": "https://www.businessenglishpod.com/2025/06/22/bep-43c-meeting-english-managing-discussion/",
+     "desc": "Welcome back to Business English Pod for today’s lesson on how to manage the discussion during a meeting in English. Bad meetings can waste time and leave everyone confused. But a well-run meeting can help create new ideas, solve problems, and move a project forward. Running a great meeting is about more than just following […] >>> The post BEP 43c – Meeting English: Managing the Discussion first …"
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23470",
+     "title": "BEP 42c – Meeting in English: Starting a Meeting",
+     "date": "2025-06-08",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP042c-Meetings-Starting.mp3",
+     "dur": 916,
+     "link": "https://www.businessenglishpod.com/2025/06/08/bep-42c-meeting-in-english-starting/",
+     "desc": "Learn how to start a meeting in English. >>> The post BEP 42c – Meeting in English: Starting a Meeting first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23454",
+     "title": "Skills 360 – Fostering a Culture of Collaboration (2)",
+     "date": "2025-05-25",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/360.104-Collaboration-2.mp3",
+     "dur": 425,
+     "link": "https://www.businessenglishpod.com/2025/05/25/skills-360-fostering-a-culture-of-collaboration-2/",
+     "desc": "Learn how to build a culture of collaboration in the workplace. >>> The post Skills 360 – Fostering a Culture of Collaboration (2) first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23423",
+     "title": "Skills 360 – Fostering a Culture of Collaboration (1)",
+     "date": "2025-05-11",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/360.103-Collaboration-1.mp3",
+     "dur": 406,
+     "link": "https://www.businessenglishpod.com/2025/05/11/skills-360-fostering-collaboration-1/",
+     "desc": "Learn how to foster a culture of collaboration in the workplace. >>> The post Skills 360 – Fostering a Culture of Collaboration (1) first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23389",
+     "title": "BEP 415 – Purchasing 6: Managing Purchase Orders",
+     "date": "2025-04-27",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP-415-Purchasing-6.mp3",
+     "dur": 1397,
+     "link": "https://www.businessenglishpod.com/2025/04/27/bep-415-purchasing-6-managing-purchase-orders/",
+     "desc": "Learn how to manage contracts and purchase orders as part of the purchasing process. >>> The post BEP 415 – Purchasing 6: Managing Purchase Orders first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23315",
+     "title": "BEP 414 – Purchasing 5: Evaluating Vendor Proposals",
+     "date": "2025-04-13",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP-414-Purchasing-5.mp3",
+     "dur": 1288,
+     "link": "https://www.businessenglishpod.com/2025/04/13/bep-414-purchasing-5-evaluating-vendor-proposals/",
+     "desc": "Learn English for purchasing in this lesson that looks at evaluating proposals from vendors. >>> The post BEP 414 – Purchasing 5: Evaluating Vendor Proposals first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23299",
+     "title": "BEP 41c – Interview English: First-Round Job Interviews (2)",
+     "date": "2025-03-30",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP041c-First-Round-Interview-2.mp3",
+     "dur": 1197,
+     "link": "https://www.businessenglishpod.com/2025/03/30/bep-41c-interview-english-first-round-job-interviews-2/",
+     "desc": "Learn key skills for first-round job interviews. >>> The post BEP 41c – Interview English: First-Round Job Interviews (2) first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23273",
+     "title": "BEP 40c – Interview English: First-Round Job Interviews (1)",
+     "date": "2025-03-16",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP040c-First-Round-Interview-1.mp3",
+     "dur": 1161,
+     "link": "https://www.businessenglishpod.com/2025/03/16/bep-40c-interview-english-first-round-job-interview-1/",
+     "desc": "Learn Interview English skills for first-round job interviews. >>> The post BEP 40c – Interview English: First-Round Job Interviews (1) first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23211",
+     "title": "Business English News 59 – DeepSeek",
+     "date": "2025-03-02",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEN59-DeepSeek.mp3",
+     "dur": 407,
+     "link": "https://www.businessenglishpod.com/2025/03/02/business-english-news-59-deepseek/",
+     "desc": "Learn business English vocabulary related to technology in this lesson on DeepSeek. >>> The post Business English News 59 – DeepSeek first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23171",
+     "title": "BEP 413 – Business English Idioms about Technology (2)",
+     "date": "2025-02-16",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP-413-Technology-Idioms-2.mp3",
+     "dur": 1435,
+     "link": "https://www.businessenglishpod.com/2025/02/16/bep-413-business-english-idioms-about-technology-2/",
+     "desc": "Learn English idioms related to technology. >>> The post BEP 413 – Business English Idioms about Technology (2) first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23125",
+     "title": "BEP 412 – Business English Idioms about Technology (1)",
+     "date": "2025-02-02",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP-412-Technology-Idioms-1.mp3",
+     "dur": 1431,
+     "link": "https://www.businessenglishpod.com/2025/02/02/bep-412-business-english-idioms-about-technology-1/",
+     "desc": "Learn business English idioms related to technology and IT. >>> The post BEP 412 – Business English Idioms about Technology (1) first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23088",
+     "title": "Skills 360 – Advanced Interview Skills for Effective Hiring (2)",
+     "date": "2025-01-19",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/360.102-Interview-Skills-2.mp3",
+     "dur": 388,
+     "link": "https://www.businessenglishpod.com/2025/01/19/skills-360-advanced-interview-skills-for-effective-hiring-2/",
+     "desc": "Learn advanced interview skills for hiring the best people. >>> The post Skills 360 – Advanced Interview Skills for Effective Hiring (2) first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=23018",
+     "title": "Skills 360 – Advanced Interview Skills for Effective Hiring (1)",
+     "date": "2025-01-05",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/360.101-Interview-Skills-1.mp3",
+     "dur": 427,
+     "link": "https://www.businessenglishpod.com/2025/01/05/skills-360-advanced-interview-skills-for-effective-hiring-1/",
+     "desc": "Learn advanced interview skills for hiring the right people. >>> The post Skills 360 – Advanced Interview Skills for Effective Hiring (1) first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=22953",
+     "title": "BEP 39c – English for Project Management: Reporting on Progress",
+     "date": "2024-12-08",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP039c-Reporting-Progress.mp3",
+     "dur": 903,
+     "link": "https://www.businessenglishpod.com/2024/12/08/bep-39c-english-for-project-management-reporting-on-progress/",
+     "desc": "Learn project management English in this lesson on reporting on progress of a project. >>> The post BEP 39c – English for Project Management: Reporting on Progress first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=22932",
+     "title": "BEP 411 – Mergers: Discussing an Integration Plan (2)",
+     "date": "2024-11-24",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP411-Integration-2.mp3",
+     "dur": 1334,
+     "link": "https://www.businessenglishpod.com/2024/11/24/bep-411-mergers-discussing-an-integration-plan-2/",
+     "desc": "Learn how discuss different aspects of integrating the operations of two companies. >>> The post BEP 411 – Mergers: Discussing an Integration Plan (2) first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=22901",
+     "title": "BEP 410 – Mergers: Discussing an Integration Plan (1)",
+     "date": "2024-11-10",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP410-Integration-1.mp3",
+     "dur": 1284,
+     "link": "https://www.businessenglishpod.com/2024/11/10/bep-410-mergers-discussing-an-integration-plan-1/",
+     "desc": "Learn how to discuss the integration of two companies during a merger. >>> The post BEP 410 – Mergers: Discussing an Integration Plan (1) first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=22799",
+     "title": "Business English News 58 – HR: Hiring Trends",
+     "date": "2024-10-20",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEN58-Hiring-Trends.mp3",
+     "dur": 352,
+     "link": "https://www.businessenglishpod.com/2024/10/20/ben-58-hr-hiring-trends/",
+     "desc": "Learn vocabulary related to HR and recent trends in hiring practices. >>> The post Business English News 58 – HR: Hiring Trends first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=22726",
+     "title": "BEP 37c – English for Presentations: Questions and Answers (2)",
+     "date": "2024-10-06",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP037c-Presentations-QA-2.mp3",
+     "dur": 1018,
+     "link": "https://www.businessenglishpod.com/2024/10/06/bep-37c-english-for-presentations-questions-and-answers-2/",
+     "desc": "Learn English for presentations and how to answer questions at the end of a presentation. >>> The post BEP 37c – English for Presentations: Questions and Answers (2) first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=22645",
+     "title": "BEP 36c – English for Presentations: Questions and Answers (1)",
+     "date": "2024-09-22",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP036c-Presentations-QA-1.mp3",
+     "dur": 1108,
+     "link": "https://www.businessenglishpod.com/2024/09/22/bep-36c-english-for-presentations-questions-and-answers-1/",
+     "desc": "Learn how to deal with the question and answer session at the end of a presentation. >>> The post BEP 36c – English for Presentations: Questions and Answers (1) first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=22586",
+     "title": "Skills 360 – Problem-Solving 2: The Problem-Solving Process",
+     "date": "2024-09-08",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/360.100-Problem-Solving-2.mp3",
+     "dur": 419,
+     "link": "https://www.businessenglishpod.com/2024/09/08/skills-360-problem-solving-2-the-problem-solving-process/",
+     "desc": "Learn how to solve problems using a 5-step approach. >>> The post Skills 360 – Problem-Solving 2: The Problem-Solving Process first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=22539",
+     "title": "Skills 360 – Problem-Solving 1: Developing the Right Skills",
+     "date": "2024-08-25",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/360.99-Problem-Solving-1.mp3",
+     "dur": 415,
+     "link": "https://www.businessenglishpod.com/2024/08/25/skills-360-problem-solving-1-developing-the-right-skills/",
+     "desc": "Learn essential problem-solving skills. >>> The post Skills 360 – Problem-Solving 1: Developing the Right Skills first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=22467",
+     "title": "BEN 57 – Robots: Back to the Future",
+     "date": "2024-07-28",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEN57-Robots.mp3",
+     "dur": 391,
+     "link": "https://www.businessenglishpod.com/2024/07/28/ben-57-robots-back-to-the-future/",
+     "desc": "Learn business English vocabulary for discussing robotics and tech. >>> The post BEN 57 – Robots: Back to the Future first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=22417",
+     "title": "BEP 409 – Quality Control 2: Customer Service",
+     "date": "2024-07-07",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP409-Quality-Control-2.mp3",
+     "dur": 1459,
+     "link": "https://www.businessenglishpod.com/2024/07/07/bep-409-quality-control-2-customer-service/",
+     "desc": "Learn English collocations related to quality control, particularly the service aspect. >>> The post BEP 409 – Quality Control 2: Customer Service first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=22386",
+     "title": "BEP 408 – Quality Control 1: Manufacturing",
+     "date": "2024-06-23",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEP408-Quality-Control-1.mp3",
+     "dur": 1443,
+     "link": "https://www.businessenglishpod.com/2024/06/23/bep-408-quality-control-1-manufacturing/",
+     "desc": "Learn English collocations for discussing quality control in the manufacturing process. >>> The post BEP 408 – Quality Control 1: Manufacturing first appeared on Business English Pod :: Learn Business English Online ."
+    },
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=22251",
+     "title": "Skills 360 – How to Overcome Cognitive Bias",
+     "date": "2024-06-09",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/360.98-Cognitive-Bias-2.mp3",
+     "dur": 449,
+     "link": "https://www.businessenglishpod.com/2024/06/09/skills-360-how-to-overcome-cognitive-bias/",
+     "desc": "Learn how to overcome the cognitive biases that may impact decision-making. >>> The post Skills 360 – How to Overcome Cognitive Bias first appeared on Business English Pod :: Learn Business English Online ."
     }
    ]
   }
