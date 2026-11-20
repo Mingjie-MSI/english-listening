@@ -1,0 +1,1806 @@
+{
+ "updated": "2026-11-20T06:48:25Z",
+ "sources": {
+  "bbc6": {
+   "name": "BBC 6 Minute English",
+   "items": [
+    {
+     "id": "bbc6:urn:bbc:podcast:p0pnt62q",
+     "title": "Are microplastics harming us?",
+     "date": "2026-11-19",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0pnsz8p.mp3",
+     "dur": 403,
+     "link": "https://www.bbc.co.uk/programmes/p0pnt62q",
+     "desc": "How much plastic do you use on a daily basis? And how much of it is used to package or prepare food? Recently, scientists are becoming increasingly concerned that microplastics, tiny bits of plastic invisible to the naked eye, are entering our bodies through these food sources... but it is unclear exactly what the long-term health effects will be. Becca and Phil discuss this and teach you some new…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261119"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0pmkr5c",
+     "title": "Learning from different generations",
+     "date": "2026-11-12",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0pmkqml.mp3",
+     "dur": 411,
+     "link": "https://www.bbc.co.uk/programmes/p0pmkr5c",
+     "desc": "When you were younger, did you have a special bond with your grandparents? Many of us develop particularly close attachments with older family members, but did you know that this ability for the oldest and youngest of our society to get along in a friendly way is not limited to families? In fact, there are some projects which pair together nurseries and retirement homes, to help reduce feelings of…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261122"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0pldm3h",
+     "title": "Could vaccines cure cancer?",
+     "date": "2026-11-05",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0pldlfg.mp3",
+     "dur": 399,
+     "link": "https://www.bbc.co.uk/programmes/p0pldm3h",
+     "desc": "When was the last time you had a vaccination, and what was it for? Many of us get vaccinations when we are children or when we go travelling, but did you know that scientists have been developing vaccines that can be personalised to help your body keep itself clear of some specific cancer types? Georgie and Phil discuss this and teach you some new vocabulary. 6 Minute English now has a VIDEO VERSI…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261105"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0pk7d0p",
+     "title": "Is aircon the answer to a heating world?",
+     "date": "2026-10-29",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0pk7c8b.mp3",
+     "dur": 379,
+     "link": "https://www.bbc.co.uk/programmes/p0pk7d0p",
+     "desc": "Do you ever feel it is too hot to sleep? With climate change gradually increasing world temperatures, people across the world are becoming increasingly affected by hot weather. In many locations, air conditioning is used to help cool down homes and workplaces, but not everyone has access to this. And it isn't just about getting a good night's sleep – extremely hot weather can be a serious health r…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261029"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0phz9z7",
+     "title": "What should you eat for a better night’s sleep?",
+     "date": "2026-10-22",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0phyzz9.mp3",
+     "dur": 423,
+     "link": "https://www.bbc.co.uk/programmes/p0phz9z7",
+     "desc": "Have you ever had the feeling of lying awake at night, unable to get to sleep? Many of us know what it is like to struggle with sleep, especially if we have drunk too much tea or coffee before bed! But did you know that your sleep quality can be affected by other parts of your diet too? Georgie and Phil discuss this and teach you some new vocabulary. Get a free transcript and quiz at bbclearningen…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261022"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0pgs2w6",
+     "title": "Why has gold got so expensive?",
+     "date": "2026-10-15",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0pgs15w.mp3",
+     "dur": 419,
+     "link": "https://www.bbc.co.uk/programmes/p0pgs2w6",
+     "desc": "Many of us own jewellery or other items that are gold coloured, but do you own anything that is made from real gold? Gold is a precious metal, which means that there is a limited supply in the world. This not only makes it expensive, but also means that it holds a relatively stable value. So, why are investors interested in it, and should the rest of us start buying more of it? Georgie and Phil di…",
+     "transcript": null
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0pflmn5",
+     "title": "Are people drinking less alcohol?",
+     "date": "2026-10-08",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0pfllv6.mp3",
+     "dur": 409,
+     "link": "https://www.bbc.co.uk/programmes/p0pflmn5",
+     "desc": "In recent generations many people have chosen to stop drinking alcohol. Surveys from the UK suggest that 16 to 24-year-olds are more likely to be non-drinkers than the older generations. Many people are sharing their experience of drinking less alcohol or being completely sober on social media. Some people have been saying that they want to go out more to drink and have fun with friends, but they …",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261008"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0pdc9cq",
+     "title": "Why does heartbreak hurt so much?",
+     "date": "2026-10-01",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0pdc7mz.mp3",
+     "dur": 393,
+     "link": "https://www.bbc.co.uk/programmes/p0pdc9cq",
+     "desc": "Anyone who has had their heart broken will know how horrible it feels. But did you know that the pain you feel is not just imaginary – it registers in the same part of the brain that processes physical pain. So, why do we feel this pain? And if it feels so bad, what is the point of being in love in the first place? Neil and Georgie discuss this and teach you some new vocabulary. 6 Minute English n…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261001"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0pc61lm",
+     "title": "Why do we itch?",
+     "date": "2026-09-24",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0pc618w.mp3",
+     "dur": 382,
+     "link": "https://www.bbc.co.uk/programmes/p0pc61lm",
+     "desc": "Feeling itchy is unpleasant, and the feeling of finally scratching that itch can be very satisfying! But why do we feel itchy in the first place? And is it possible to catch an itch from someone else? Neil and Georgie discuss this and teach you some new vocabulary. 6 Minute English now has a VIDEO VERSION! 6 Minute English now comes with a video! It's the same programme that you know and love, but…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260924"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0pb0rd0",
+     "title": "Is rejection good for us?",
+     "date": "2026-09-17",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0pb0qlf.mp3",
+     "dur": 381,
+     "link": "https://www.bbc.co.uk/programmes/p0pb0rd0",
+     "desc": "How would you feel about going up to a stranger on the street and asking them for a cheeky favour? If the idea makes you nervous, then don't worry – you are not alone! But recently, some people have been filming themselves doing this, as part of a social media trend called 'rejection therapy'. It's not an officially recognised form of therapy, but some have found that it improves their confidence.…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260917"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0p8w5sh",
+     "title": "Can apps teach you a language?",
+     "date": "2026-09-10",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0p8w5by.mp3",
+     "dur": 397,
+     "link": "https://www.bbc.co.uk/programmes/p0p8w5sh",
+     "desc": "Have you ever used Duolingo, Babbel, Busuu or perhaps another language-learning app? How did you get on? Some people love the convenience of these apps – you can learn on the go, like during your commute to work, rather than committing to a certain time each week, like learning in a class. But are they teaching the languages effectively? Neil and Pippa discuss this and teach you some new vocabular…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260910"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0p7p9b8",
+     "title": "Climate change and extreme weather",
+     "date": "2026-09-03",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0p7p91r.mp3",
+     "dur": 396,
+     "link": "https://www.bbc.co.uk/programmes/p0p7p9b8",
+     "desc": "Every year we see damage, death and destruction caused by hurricanes, cyclones and typhoons - tropical storms. Is climate change making this impact worse? Climate change may be making this destruction worse. Phil is joined by BBC weather presenter and meteorologist Sarah Keith-Lucas to learn more about this and teach you some new vocabulary. Get a free worksheet, quiz and transcript for this episo…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260903"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0p6j3xx",
+     "title": "How do we describe smells?",
+     "date": "2026-08-27",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0p6j2hz.mp3",
+     "dur": 397,
+     "link": "https://www.bbc.co.uk/programmes/p0p6j3xx",
+     "desc": "What is the worst smell in the world? And what is the best smell? Are there any smells that you like, but that your friends or family hate? Smells are all around us all the time, but the English language is often quite general in the way it describes smells, as opposed to other senses like sounds or tastes. But why is this? Neil and Georgie discuss this and teach you some new vocabulary. Get a fre…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260827"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0p5h8tg",
+     "title": "Sharing the road with driverless cars",
+     "date": "2026-08-20",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0p5h6cg.mp3",
+     "dur": 397,
+     "link": "https://www.bbc.co.uk/programmes/p0p5h8tg",
+     "desc": "Imagine crossing a road and turning to see a car heading towards you... without a driver! While this might seem scary, driverless cars are already operating safely in many cities around the world. These autonomous cars contain huge amounts of technology to help them drive alongside other road users carefully. But will humans behave as carefully around them? Can we communicate clearly with these 'r…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260820"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0p478fw",
+     "title": "Who does the housework?",
+     "date": "2026-08-13",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0p4779b.mp3",
+     "dur": 395,
+     "link": "https://www.bbc.co.uk/programmes/p0p478fw",
+     "desc": "Unloading the dishwasher, mopping the floor, cleaning the loo... what is your most hated household chore? We all know there are jobs around the house which have to be done regularly, even if they are sometimes boring or unpleasant. But who tends to do the most amount of jobs in your household? And is there anyone who isn't pulling their weight...? Pippa and Neil discuss this and teach you some new…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260813"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0p2yh63",
+     "title": "How do climate scientists make predictions?",
+     "date": "2026-08-06",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0p2ygrc.mp3",
+     "dur": 399,
+     "link": "https://www.bbc.co.uk/programmes/p0p2yh63",
+     "desc": "Across the world, climate change is already beginning to change the way we live our lives. But how big will that change be and what kinds of change will occur? These are the kinds of questions that scientists have been asking for decades. So, how exactly do they try to find answers to such complex questions about the future? Understanding where we are heading might help humanity prepare for the co…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260806"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0p1qc9j",
+     "title": "The Enhanced Games",
+     "date": "2026-07-30",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0p1q8ns.mp3",
+     "dur": 397,
+     "link": "https://www.bbc.co.uk/programmes/p0p1qc9j",
+     "desc": "What would the world of athletics look like if athletes were allowed to take drugs? Pippa and Neil discuss the Enhanced Games. Learn English from authentic BBC programme clips. Get a free worksheet, quiz and transcript for this episode: https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260730 Practise your listening with The Listening Room here: https://www.bbc.co.uk/…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260730"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0ny2k8s",
+     "title": "Children in warzones",
+     "date": "2026-07-23",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0ny2jn5.mp3",
+     "dur": 404,
+     "link": "https://www.bbc.co.uk/programmes/p0ny2k8s",
+     "desc": "The most recent figure from 2024 says that 520 million children are living in conflict zones. That's about one in every five children worldwide. Some of the discussions in this episode will be about death and trauma. Neil and Becca hear from a journalist who has spent some time with children in warzones and discuss the topic in simpler English. Get a free worksheet, quiz and transcript for this ep…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260723"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0ny2bm8",
+     "title": "What's in a footballer's brain?",
+     "date": "2026-07-16",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0ny289g.mp3",
+     "dur": 389,
+     "link": "https://www.bbc.co.uk/programmes/p0ny2bm8",
+     "desc": "Football players are faster than ever before. But in a game where every tiny decision counts, elite clubs are turning to neuroscience to understand how players can think, decide and perform even faster. Neil and Georgie discuss this and teach you some new vocabulary. Get a free worksheet, quiz and transcript for this episode: https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260716"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0nxqs31",
+     "title": "Should we cycle more?",
+     "date": "2026-07-09",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nxqqhc.mp3",
+     "dur": 373,
+     "link": "https://www.bbc.co.uk/programmes/p0nxqs31",
+     "desc": "When did you learn to ride a bike? Perhaps you learnt as a child and have not cycled for a long time. Well don't worry, you can pick it up again quickly – it's just like riding a bike! And if you have never cycled, it's not too late to start. With new cycle tracks and electric bikes, cycling is becoming more and more accessible. Neil and Becca discuss this and teach you some new vocabulary. Get a …",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260709"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0nwb7hm",
+     "title": "Rude emails",
+     "date": "2026-07-02",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nwb722.mp3",
+     "dur": 394,
+     "link": "https://www.bbc.co.uk/programmes/p0nwb7hm",
+     "desc": "What is the rudest email you have ever received? We all deal with emails on a daily basis, but sometimes people can write them too quickly, without thinking enough about how it makes the other person feel. Is there anything that people write in emails which you find impolite? And have you ever sent a rude email yourself...? Phil and Becca discuss this and teach you some new vocabulary. Get a free …",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260702"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0ntzwl0",
+     "title": "Stress-free family meals",
+     "date": "2026-06-25",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0ntzw6q.mp3",
+     "dur": 405,
+     "link": "https://www.bbc.co.uk/programmes/p0ntzwl0",
+     "desc": "Are you a fussy eater? Many of us remember foods that we used to hate as children – some of us still do hate those foods! But what can parents do to help encourage their children to eat a healthy diet, without turning every dinner into disaster? Neil and Georgie discuss this and teach you some new vocabulary. Get a free worksheet, quiz and transcript for this episode: https://www.bbc.co.uk/learnin…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260625"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0nsp28m",
+     "title": "Limiting screen time for children",
+     "date": "2026-06-18",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nsp04k.mp3",
+     "dur": 407,
+     "link": "https://www.bbc.co.uk/programmes/p0nsp28m",
+     "desc": "Many parents worry that their children spend too much time on screens. Governments around the world, such as in the UK, Australia and China, are introducing online safety measures to limit the amount of screen time for children or prevent them accessing social media. Neil and Becca talk about their own screen time and teach you some new vocabulary. Get a free worksheet, quiz and transcript for thi…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260618"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0nrcjdn",
+     "title": "How advertisers make us spend money",
+     "date": "2026-06-11",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nrcdc1.mp3",
+     "dur": 395,
+     "link": "https://www.bbc.co.uk/programmes/p0nrcjdn",
+     "desc": "What was the last thing you bought? And can you remember why you bought that particular thing, rather than something else? We all like to think we make rational, independent choices when we buy things, but advertisers are constantly trying different strategies to influence us to behave differently. Pippa and Phil discuss this and teach you some new vocabulary. Listen to natural English conversatio…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260611"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0nq06hm",
+     "title": "The power of poetry",
+     "date": "2026-06-04",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nq04vv.mp3",
+     "dur": 395,
+     "link": "https://www.bbc.co.uk/programmes/p0nq06hm",
+     "desc": "Do you like to read poetry? When was the last time you heard someone recite a poem? Some people may just think of poetry as something they studied at school, but for many people it has a powerful presence in their lives. Poetry can help you connect with others, come to terms with personal emotions, or even spread the word about important global events. If you think poetry is not for you, perhaps y…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260604"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0nnpsqf",
+     "title": "Living with debt",
+     "date": "2026-05-28",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nnpnyn.mp3",
+     "dur": 397,
+     "link": "https://www.bbc.co.uk/programmes/p0nnpsqf",
+     "desc": "Many people have to borrow money to make big purchases, like buying a house or a car. When you do this, you have to pay the money back over time – the money you owe is a debt. With the current cost of living getting increasingly high, some people are having to borrow money even for everyday purchases like bills and food. Sometimes this debt can get out of control, which causes anxiety and stress. …",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260528"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0nmg0q1",
+     "title": "Making cities feel quieter",
+     "date": "2026-05-21",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nmfyjw.mp3",
+     "dur": 397,
+     "link": "https://www.bbc.co.uk/programmes/p0nmg0q1",
+     "desc": "What do you prefer – the sounds of birdsong and wind rustling in the trees, or the hum of traffic and chatter of people passing by? Some people like the quiet of the countryside and others love the noise of the city, but did you know that constant exposure to loud noise has been found to increase anxiety? That's why some people have been trying to find ways to make our cities feel quieter. Neil an…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260521"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0nl4mwz",
+     "title": "How reading shapes your brain",
+     "date": "2026-05-14",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nl4l5w.mp3",
+     "dur": 395,
+     "link": "https://www.bbc.co.uk/programmes/p0nl4mwz",
+     "desc": "Do you remember what it was like before you learnt to read? It's hard to think back that far! Scientific research has shown that learning to read changes the way our brains work. Not only that, but depending on the language you are reading, your brain changes in different ways. Becca and Georgie discuss this and teach you some new vocabulary. Find a transcript and worksheet at: https://www.bbc.co.…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260514"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0njsn2d",
+     "title": "Searching for life on another planet",
+     "date": "2026-05-07",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0njskv5.mp3",
+     "dur": 396,
+     "link": "https://www.bbc.co.uk/programmes/p0njsn2d",
+     "desc": "Will we ever be able to live on a planet that isn't Earth? A science and space journalist explainss the latest research and data collected from planet TRAPPIST-1e. Neil and Becca teach you some new language to understand this potentially habitable planet. Find a transcript and worksheet at: https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260507 Practise your listeni…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260507"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0nhfvyw",
+     "title": "Should we eat ultra-processed food?",
+     "date": "2026-04-30",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nhfvh9.mp3",
+     "dur": 402,
+     "link": "https://www.bbc.co.uk/programmes/p0nhfvyw",
+     "desc": "What is your ultra-processed guilty pleasure? Many of us love home-cooked food, but when we're in a rush, it's often more convenient to eat snacks, or to buy quick, easy meals from the supermarket which we simply have to heat up. These are often ultra-processed forms of food, which recent studies have linked to poor health. Phil and Pippa discuss this and teach you some new vocabulary. Find a tran…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260430"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0ng2d84",
+     "title": "Why are we all so stressed?",
+     "date": "2026-04-23",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0ng2c3n.mp3",
+     "dur": 402,
+     "link": "https://www.bbc.co.uk/programmes/p0ng2d84",
+     "desc": "Worrying about exams, work or climate change in the news. It's no wonder modern life is stressful. Becca and Neil hear from a presenter and psychologist about managing stress. Learn some tips to help with worrying and stress, as well as some new vocabulary and phrases! Find a transcript and worksheet at: https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260423 Learn l…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260423"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0ndq0lv",
+     "title": "Love the foods you hate",
+     "date": "2026-04-16",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0ndpzkz.mp3",
+     "dur": 401,
+     "link": "https://www.bbc.co.uk/programmes/p0ndq0lv",
+     "desc": "Are there some foods that you just hate? Have you ever hated a food in the past but started liking it? We hear from a food expert and a dietitian about why there are some foods we just hate and even fear, and whether it's possible to learn to love them. Neil and Becca discuss this, learn some tips for loving the foods you hate, and teach you some new vocabulary. Find a transcript and worksheet at:…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260416"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0nccgt3",
+     "title": "The future of food",
+     "date": "2026-04-09",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nccg0b.mp3",
+     "dur": 407,
+     "link": "https://www.bbc.co.uk/programmes/p0nccgt3",
+     "desc": "Many of us are trying to be more careful with our food choices, both for our personal health and for the health of the planet in general. But did you know that the food we buy is closely linked to national security? Neil and Pippa hear from climate reporter and a chief executive of the UK's Climate Change Committee, and teach you some new vocabulary.",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260409"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0nb6y5v",
+     "title": "Are saunas good for you?",
+     "date": "2026-04-02",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nb6w9d.mp3",
+     "dur": 394,
+     "link": "https://www.bbc.co.uk/programmes/p0nb6y5v",
+     "desc": "How do you feel about being in a small room heated to a temperature of 80°C? Believe it or not, some people love it! There might be some health benefits to this hot habit too! Georgie and Neil hear from a BBC reporter and a professor from BBC Radio 4 programme Inside Health. You'll also learn some useful language! Read along with this podcast with the free transcript, and practise the vocabulary u…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260402"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0n8vl35",
+     "title": "Weight loss drugs",
+     "date": "2026-03-26",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0n8vh7b.mp3",
+     "dur": 391,
+     "link": "https://www.bbc.co.uk/programmes/p0n8vl35",
+     "desc": "Weight loss drugs like Ozempic and Mounjaro are modified versions of natural hormones which make us feel full when released into the body. Prof Giles Yeo explains how the drugs, which were originally used to treat diabetes, are now being used for weight loss. Georgie and Neil teach you some useful vocabulary. Read along with this podcast with the free transcript, and practise the vocabulary using …",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260326"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0n7j4vf",
+     "title": "How do we adapt to the cold?",
+     "date": "2026-03-19",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0n7j0wx.mp3",
+     "dur": 406,
+     "link": "https://www.bbc.co.uk/programmes/p0n7j4vf",
+     "desc": "Where is the coldest place you have ever been? Did you enjoy the experience? Some people don't seem to mind the cold, whereas other people seem to feel it much more strongly and keep themselves wrapped up in as many layers as possible. But why do we feel it in different ways? Phil and Becca discuss this and teach you some new vocabulary. Read along with this podcast with the free transcript, and p…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260319"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0n63cwm",
+     "title": "Should we pay more for chocolate?",
+     "date": "2026-03-12",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0n63bjf.mp3",
+     "dur": 381,
+     "link": "https://www.bbc.co.uk/programmes/p0n63cwm",
+     "desc": "How often do you eat chocolate? It's one of the most loved sweet treats in Europe, but a new EU law could make chocolate more expensive. A business owner, who has small cocoa farms in these places, shares their thoughts and concerns about the new law. We also hear from chocolate lovers about whether they would pay more for their favourite chocolate, and about whether they looked at where their cho…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260312"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0n4qt65",
+     "title": "Why are some animals black and white?",
+     "date": "2026-03-05",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0n4qrq1.mp3",
+     "dur": 397,
+     "link": "https://www.bbc.co.uk/programmes/p0n4qt65",
+     "desc": "How many animals can you think of that are black and white? Zebras, penguins, orcas, snow leopards… there are loads! But have you ever wondered why these animals have developed such unique and striking appearances? Neil and Becca discuss this and teach you some new vocabulary. As always, find a free transcript, worksheet and quiz for this episode on our website: ✔️ https://www.bbc.co.uk/learningen…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260305"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0n3bs52",
+     "title": "The power of pepper",
+     "date": "2026-02-26",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0n3bp8v.mp3",
+     "dur": 406,
+     "link": "https://www.bbc.co.uk/programmes/p0n3bs52",
+     "desc": "How often do you use pepper? It's one of the most common spices to add to food, so common in fact that many of us don't just use it when cooking, but also place it on our dinner tables to add extra flavour! But how much do we really know about pepper? There are hundreds of different varieties worldwide and they all have the power to add that special something to our food. Neil and Becca discuss th…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260226"
+    },
+    {
+     "id": "bbc6:urn:bbc:podcast:p0n1zykf",
+     "title": "Dreaming of being a chef",
+     "date": "2026-02-19",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0n1zt73.mp3",
+     "dur": 403,
+     "link": "https://www.bbc.co.uk/programmes/p0n1zykf",
+     "desc": "What did you have for dinner last night? And did you cook it yourself? Many people cook at home regularly, for themselves and for others, but have you ever thought about cooking professionally? Working in a restaurant can be tough, but for some people, becoming a top chef is a dream job. Neil and Becca discuss this and teach you some new vocabulary. ✔️ Find a free worksheet, transcript and interac…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260219"
+    }
+   ]
+  },
+  "shortwave": {
+   "name": "NPR Short Wave",
+   "items": [
+    {
+     "id": "shortwave:d45ca6a9-2a9b-4364-9269-649b1b515894",
+     "title": "How a viral video gave a huge boost to new gene therapy",
+     "date": "2026-11-18",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/8d27e9f5-844d-4899-89e9-99a92c6c96bd/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=8d27e9f5-844d-4899-89e9-99a92c6c96bd&feed=F0qJcgXZ&t=podcast&e=nx-s1-6034426&p=510351&d=893&size=14293830",
+     "dur": 893,
+     "link": "https://www.npr.org/2026/11/18/nx-s1-6034426/sanfilippo-syndrome-gene-therapy",
+     "desc": "Sanfilippo syndrome is a rare and degenerative disease that can be fatal by the time someone reaches their teens. So the O’Neill family knew they didn’t have much time after learning their 4-year old daughter, Eliza, had it. At the time no treatment existed, and the world of drug development had its eyes on more common illnesses. So the family took an all hands on deck, unusual approach to directl…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6034426"
+    },
+    {
+     "id": "shortwave:684dc6f6-c5df-447f-bcbc-4f61228a6d76",
+     "title": "How bird poop and manta rays sustain a pristine coral reef",
+     "date": "2026-11-17",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/d844d8cb-7b7c-41d8-aa78-4d05df7f85fa/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=d844d8cb-7b7c-41d8-aa78-4d05df7f85fa&feed=F0qJcgXZ&t=podcast&e=nx-s1-5988269&p=510351&d=834&size=13345085",
+     "dur": 834,
+     "link": "https://www.npr.org/2026/11/17/nx-s1-5988269/coral-reefs-pacific-island-conservation",
+     "desc": "Coral reefs are at risk around the world . So how do they stay so healthy on the remote Pacific islands of Palmyra Atoll? The answer might be in bird poop, manta rays and tree saws. NPR’s Lauren Sommer recently visited the islands and takes Short Wave on a tour of its conservation secrets and lessons for the rest of the world. Interested in more science in the news? Email us your question at short…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5988269"
+    },
+    {
+     "id": "shortwave:45a781a3-0127-4272-80ad-71d3b6b971c9",
+     "title": "Are your body clocks off? Meet ‘circadian depression’",
+     "date": "2026-11-16",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/57726724-7480-485d-96ac-abe063f256ef/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=57726724-7480-485d-96ac-abe063f256ef&feed=F0qJcgXZ&t=podcast&e=nx-s1-6035777&p=510351&d=703&size=11258193",
+     "dur": 703,
+     "link": "https://www.npr.org/2026/11/16/nx-s1-6035777/depression-daylight-sleep-circadian-rhythm",
+     "desc": "What if depression is sometimes linked to your body’s internal sense of time? That’s what researchers from the University of Sydney’s Brain and Mind Centre wanted to know. In a new study, they surveyed patients with depression whose symptoms may reflect problems with their circadian rhythms – like their sleep schedule, how tired they feel in the morning and whether they’re a night owl. They found …",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6035777"
+    },
+    {
+     "id": "shortwave:ec511269-9bc7-496b-a940-f7131a3cf1b4",
+     "title": "AI could help hospitals diagnose PTSD in real time",
+     "date": "2026-11-13",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/ad3c40b1-8a86-451d-8129-cc901ffaf09b/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=ad3c40b1-8a86-451d-8129-cc901ffaf09b&feed=F0qJcgXZ&t=podcast&e=nx-s1-6031981&p=510351&d=742&size=11879280",
+     "dur": 742,
+     "link": "https://www.npr.org/2026/11/13/nx-s1-6031981/ai-ptsd-trauma-prediction-er",
+     "desc": "Every year, millions of people in the United States develop PTSD from a traumatic event—like a car crash, an assault or freak accident. A lot of those people end up in the ER answering the same question: “What brought you to the emergency department today?” Now, a research team in New York has an AI model that can use patients’ answers and demographics to spit out one number that tells medical sta…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6031981"
+    },
+    {
+     "id": "shortwave:7e6299d2-8a48-4cf8-9e4f-d244880a840c",
+     "title": "Can scientists reverse your age?",
+     "date": "2026-11-11",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/c11a4fcd-bae3-4e66-ae53-c01e33212a58/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=c11a4fcd-bae3-4e66-ae53-c01e33212a58&feed=F0qJcgXZ&t=podcast&e=nx-s1-5971828&p=510351&d=864&size=13838673",
+     "dur": 864,
+     "link": "https://www.npr.org/2026/11/11/nx-s1-5971828/age-reverse-longevity-disease-eye",
+     "desc": "Reversing aging may sound like science fiction, but scientists have already found a way to do it—at least, theoretically. Based on a 2012 Nobel-prize winning discovery, researchers are testing whether they can revert diseased cells in the eye back to young and healthy ones. They gave people a drug this year. If it works, it’ll open the door to curing and possibly preventing other age-related disea…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5971828"
+    },
+    {
+     "id": "shortwave:28b2c912-add6-4722-966f-aa541bc950ef",
+     "title": "How this year's record El Niño could hit your wallet",
+     "date": "2026-11-10",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/11d9e8b7-05a7-4f76-9816-b788ccf9decb/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=11d9e8b7-05a7-4f76-9816-b788ccf9decb&feed=F0qJcgXZ&t=podcast&e=nx-s1-6011189&p=510351&d=587&size=9403289",
+     "dur": 587,
+     "link": "https://www.npr.org/2026/11/10/nx-s1-6011189/super-el-nino-2026-fish-market",
+     "desc": "Peru’s anchovy industry, the largest single-species fishery in the world, is being rocked by the ongoing El Niño . It’s not the first time the fishery has been impacted by the natural weather phenomenon — El Niño gets its name from Peruvian fishermen. And it’s a stark reminder of the reverberating economic consequences of El Niño events, which can cost the global economy trillions of dollars . Int…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6011189"
+    },
+    {
+     "id": "shortwave:1750ca3b-507f-4cfa-a546-d93fb64bafe1",
+     "title": "An ‘Ozempic baby boom’? The GLP-1 pregnancy plot twist",
+     "date": "2026-11-09",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/0d99d962-f901-4f83-8f26-403789a8e0bd/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=0d99d962-f901-4f83-8f26-403789a8e0bd&feed=F0qJcgXZ&t=podcast&e=nx-s1-6023369&p=510351&d=730&size=11687061",
+     "dur": 730,
+     "link": "https://www.npr.org/2026/11/09/nx-s1-6023369/glp1-ozempic-babies-pregnancy",
+     "desc": "The explosion of GLP-1 drugs has created a gray zone for pregnancy. That recently prompted the American College of Obstetricians and Gynecologists to issue its first ever guidance on the topic. In a twist, the drugs may boost fertility for some, leading to more pregnancies – a phenomenon known on social media as “Ozempic babies”. But doctors caution against using the drugs during pregnancy itself.…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6023369"
+    },
+    {
+     "id": "shortwave:0bfa2ee5-7877-4b6c-963d-91d768091a28",
+     "title": "Predicting elections is getting harder. What did the midterms teach us?",
+     "date": "2026-11-05",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/1a710728-6a1a-479d-bca3-655f02b631ef/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=1a710728-6a1a-479d-bca3-655f02b631ef&feed=F0qJcgXZ&t=podcast&e=nx-s1-6026649&p=510351&d=763&size=12208675",
+     "dur": 763,
+     "link": "https://www.npr.org/2026/11/05/nx-s1-6026649/us-midterm-election-poll-results",
+     "desc": "Famously, polls got the 2016 election wrong. And they’d been off for multiple elections since. So, Monday night, political scientist Jack Rametta nervously refreshed his Senate forecasting model for the final time. Would it be right this time? Or would it yet again cast doubt on whether modeling, statistics and forecasting can still help us understand what motivates people to vote? Now that the re…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6026649"
+    },
+    {
+     "id": "shortwave:86324f14-4579-4a02-b1f3-71836d827859",
+     "title": "AI is changing mathematics -- but not how you think",
+     "date": "2026-11-04",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/973df2af-52b7-47fb-bbd0-b48aa71b3372/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=973df2af-52b7-47fb-bbd0-b48aa71b3372&feed=F0qJcgXZ&t=podcast&e=nx-s1-6010471&p=510351&d=833&size=13339254",
+     "dur": 833,
+     "link": "https://www.npr.org/2026/11/04/nx-s1-6010471/ai-math-navier-stokes-mathematicians-openai",
+     "desc": "Math has created some of humanity's oldest intellectual challenges. And AI is completely changing the game. This year AI solved one of math’s most difficult problems. Since then, OpenAI published hundreds of new math results. So is this the end for the people who’ve dedicated their careers to pushing forward math? We get into it with NPR science correspondent Geoff Brumfel, who weighs the risks an…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6010471"
+    },
+    {
+     "id": "shortwave:6a99e4b4-5bcb-4adb-8144-6e7d4f33d43a",
+     "title": "OpenAI whistleblowers on the fight over AI safety | Machine Gods",
+     "date": "2026-11-03",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/e6a3cb83-f129-4f9b-9427-4b5da3a023e7/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=e6a3cb83-f129-4f9b-9427-4b5da3a023e7&feed=F0qJcgXZ&t=podcast&e=nx-s1-6023241&p=510351&d=1935&size=30970444",
+     "dur": 1935,
+     "link": "https://www.npr.org/2026/11/03/nx-s1-6023241/machinegods-ai-openai-podcast",
+     "desc": "Check out NPR’s newest podcast, Machine Gods. It’s the official podcast of the singularity, meaning — the hypothetical future when machines will outpace our own intelligence…and our control. Whether you think that future is coming or not, hosts Kevin Roose and Casey Newton are here to help you understand the people trying to build it… and how their technology works. On this episode, listen to thei…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6023241"
+    },
+    {
+     "id": "shortwave:c3a7622f-41d2-43ef-b312-d1b65f961a24",
+     "title": "Could virtual reality speed up learning?",
+     "date": "2026-11-02",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/7d51a63f-30fe-4e81-8d89-ec27653bd40f/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=7d51a63f-30fe-4e81-8d89-ec27653bd40f&feed=F0qJcgXZ&t=podcast&e=nx-s1-6023397&p=510351&d=587&size=9399110",
+     "dur": 587,
+     "link": "https://www.npr.org/2026/11/02/nx-s1-6023397/body-learning-virtual-reality-vr",
+     "desc": "Does swinging a lightsaber help us learn? New research from Florida Atlantic University and Brown University found that movement dramatically helps with certain kinds of complex learning. The research was published in the journal Science Advances . Interested in more science involving video games? Email us your question at shortwave@npr.org . Support public media with NPR+ and enjoy perks for over…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6023397"
+    },
+    {
+     "id": "shortwave:601f7f49-7916-45ab-9aa8-b7a746d15d9c",
+     "title": "Is your favorite crime show rooted in fake science?",
+     "date": "2026-10-30",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/c488ad83-c8c1-4f05-b858-2ac40457211a/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=c488ad83-c8c1-4f05-b858-2ac40457211a&feed=F0qJcgXZ&t=podcast&e=nx-s1-6012302&p=510351&d=881&size=14110347",
+     "dur": 881,
+     "link": "https://www.npr.org/2026/10/30/nx-s1-6012302/police-court-true-crime-forensics-science",
+     "desc": "If you’ve ever seen a crime show, you probably know how the plot unfolds: A victim is found, an investigation ensues and police conduct a high-stakes search for the culprit. Detectives and crime lab techs collect hair, examine bullet casings and photograph bloodstains. But just how reliable are these clues – and does science back them up? Well, today on the show, with the help of legal expert Chri…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6012302"
+    },
+    {
+     "id": "shortwave:17bd2e16-04e5-4dcb-a6c0-e50f3c3ea02a",
+     "title": "MAHA’s midterm report card",
+     "date": "2026-10-28",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/2bf6bac2-afdd-49fb-9fa0-9d8d47785793/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=2bf6bac2-afdd-49fb-9fa0-9d8d47785793&feed=F0qJcgXZ&t=podcast&e=nx-s1-6018272&p=510351&d=788&size=12608662",
+     "dur": 788,
+     "link": "https://www.npr.org/2026/10/28/nx-s1-6018272/food-health-trump-wellness-maha-rfk-jr",
+     "desc": "It’s been just over two years since the rise of Make America Healthy Again, or MAHA. The movement united a coalition of moms, wellness influencers and voters across the political spectrum over concerns about chronic illness and childhood diseases. And when Robert F. Kennedy Jr. took over as Secretary of Health and Human Services, it seemed like MAHA would be front and center in Washington. But as …",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6018272"
+    },
+    {
+     "id": "shortwave:e053234b-84ff-44e9-b3ae-a7bf89194ad3",
+     "title": "You Can See Everything and the science of spotting liars",
+     "date": "2026-10-27",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/05754ca5-c0c0-4149-8aff-1271295182dc/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=05754ca5-c0c0-4149-8aff-1271295182dc&feed=F0qJcgXZ&t=podcast&e=nx-s1-6012707&p=510351&d=825&size=13207973",
+     "dur": 825,
+     "link": "https://www.npr.org/2026/10/27/nx-s1-6012707/elizabeth-holmes-nathan-fielder-documentary-analysis",
+     "desc": "It feels like everyone we know is talking about the new documentary You Can See Everything. It tracks the effort of comedian and documentarian Nathan Fielder to suss out how deceptive Elizabeth Holmes, disgraced founder of the company Theranos, is. And after watching the film, we all left the theater wondering -- what could we see? How possible is it to ever really spot someone lying? So we of cou…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6012707"
+    },
+    {
+     "id": "shortwave:2996d45d-b1d9-4f9d-8969-0342b3beece4",
+     "title": "The battle between matter and antimatter",
+     "date": "2026-10-26",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/264d2592-5591-455b-b334-1f1bb38b1eb6/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=264d2592-5591-455b-b334-1f1bb38b1eb6&feed=F0qJcgXZ&t=podcast&e=nx-s1-6005516&p=510351&d=677&size=10842324",
+     "dur": 677,
+     "link": "https://www.npr.org/2026/10/26/nx-s1-6005516/space-matter-universe-neutrino",
+     "desc": "At the beginning of our universe, in addition to matter, there was also an equal amount of antimatter , matter's opposite. But today, there's lots more matter than antimatter. So how did that happen? Well, the answer might have to do with neutrinos, a very mysterious, elusive particle. They're incredibly difficult to catch and study because they don't really interact with anything. But a group of …",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6005516"
+    },
+    {
+     "id": "shortwave:706a5fd2-0061-4311-be6a-6762da9b64a5",
+     "title": "The dormant viruses in all of us may help explain long COVID",
+     "date": "2026-10-23",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/70d14efb-5797-4acd-b8aa-a16f9e9963b9/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=70d14efb-5797-4acd-b8aa-a16f9e9963b9&feed=F0qJcgXZ&t=podcast&e=nx-s1-5985807&p=510351&d=865&size=13842477",
+     "dur": 865,
+     "link": "https://www.npr.org/2026/10/23/nx-s1-5985807/dormant-viruses-stress-immune-covid",
+     "desc": "Virtually every human on Earth has a slew of different types of dormant viruses in our bodies. They are remnants of past infections and are—generally—harmless. Unless they wake up, which can be triggered by extreme stress or something that severely compromises the immune system. But now, through a unique study on the immune systems of astronauts, scientists are considering broadening their ideas a…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5985807"
+    },
+    {
+     "id": "shortwave:20bf1a4f-9c8e-4317-aa09-d1c1ffbef44e",
+     "title": "Can planting more trees make allergies worse?",
+     "date": "2026-10-21",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/db22198b-4a47-40fd-a9eb-cfb7ae81f1b3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=db22198b-4a47-40fd-a9eb-cfb7ae81f1b3&feed=F0qJcgXZ&t=podcast&e=nx-s1-5953066&p=510351&d=700&size=11201394",
+     "dur": 700,
+     "link": "https://www.npr.org/2026/10/21/nx-s1-5953066/fall-allergies-pollen-trees-asthma",
+     "desc": "Trees provide shade and clean air in congested cities, so planting more of them seems like a straightforward solution. But trees also produce a natural pollutant— pollen. In this episode, producer Juan Diego Ramirez reports on the link between growing urban canopies and allergy exposure, and what you can do to protect yourself. Interested in more health stories? Email us your question at shortwave…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5953066"
+    },
+    {
+     "id": "shortwave:ac157442-53ea-4afb-b5f8-8800fec6d29d",
+     "title": "What are the odds we're not alone in the universe?",
+     "date": "2026-10-20",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/22d170a0-3466-44ca-831b-70ca1b0d34c3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=22d170a0-3466-44ca-831b-70ca1b0d34c3&feed=F0qJcgXZ&t=podcast&e=nx-s1-5991784&p=510351&d=895&size=14325596",
+     "dur": 895,
+     "link": "https://www.npr.org/2026/10/20/nx-s1-5991784/alien-life-space-planets-nasa",
+     "desc": "There are hundreds of billions of stars in the galaxy we live in. Many of them have their own exoplanets. So why haven’t we found proof of alien life yet? And what’s the probability of us contacting or being contacted anyway? That’s exactly what a famous math formula called the Drake Equation tries to answer. It takes into account a whole variety of factors, including the rate at which stars like …",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5991784"
+    },
+    {
+     "id": "shortwave:fed667a4-5fd5-467c-af59-f6ad91ea6b0a",
+     "title": "What the world's leading researchers think about saunas",
+     "date": "2026-10-19",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/84701610-9737-4496-b60f-4033560b4473/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=84701610-9737-4496-b60f-4033560b4473&feed=F0qJcgXZ&t=podcast&e=nx-s1-5995406&p=510351&d=826&size=13216793",
+     "dur": 826,
+     "link": "https://www.npr.org/2026/10/19/nx-s1-5995406/saunas-health-wellness-thermal",
+     "desc": "Saunas have gone from a Scandinavian tradition to a global wellness phenomenon. But how long should a person endure heat? Do saunas actually work? And if so, what are their benefits? NPR health reporter Will Stone goes as deep as the science will let him to explore the sauna hype waves and find out what happens to our bodies when we step in them. Interested in more about thermal physiology? Email …",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5995406"
+    },
+    {
+     "id": "shortwave:d8c1af25-0b11-4233-90e6-e06e4e7a7e15",
+     "title": "The terrifying physics of prehistoric sea monsters",
+     "date": "2026-10-16",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/09bed82e-04a2-420b-8de9-17db2b9dd0e3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=09bed82e-04a2-420b-8de9-17db2b9dd0e3&feed=F0qJcgXZ&t=podcast&e=nx-s1-5994381&p=510351&d=560&size=8975299",
+     "dur": 560,
+     "link": "https://www.npr.org/2026/10/16/nx-s1-5994381/dinosaur-predator-mosasaur-physics-ocean",
+     "desc": "While dinosaurs roamed the earth, giant monsters roamed the sea. Mosasaurs were like the deadly T-rexes of the ocean: They grew up to the size of a bus and chased down their smaller prey. A recent study in the journal Current Biology details just how exactly they might have done that. And the answer is fast – way faster than humans can swim – and sneakily . Interested in more animal or paleontolog…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5994381"
+    },
+    {
+     "id": "shortwave:b5f3f8f7-7848-423e-a853-1830e3625ffa",
+     "title": "What's at stake if we can't regrow our forests",
+     "date": "2026-10-15",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/336a9530-e802-4e39-a713-f6181cd4d6a0/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=336a9530-e802-4e39-a713-f6181cd4d6a0&feed=F0qJcgXZ&t=podcast&e=nx-s1-5983821&p=510351&d=815&size=13048355",
+     "dur": 815,
+     "link": "https://www.npr.org/2026/10/15/nx-s1-5983821/reforestation-seed-bombing-drones-trees",
+     "desc": "In 2022, parachutist Luigi Cani dropped 100 million seeds over the Amazon rainforest while skydiving. He did it to raise awareness about deforestation and help regrow the forest. But there has been little scientific follow up to see whether it worked. So, today, we talk to restoration ecologist Pedro Brancalion about the surprising complexity involved in regrowing a forest, and when dropping seeds…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5983821"
+    },
+    {
+     "id": "shortwave:683e5330-7dac-4e3d-a764-25e5636551f0",
+     "title": "What Flock cameras really see – and how",
+     "date": "2026-10-14",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/b3ca7f8b-a12d-4e9e-b005-342705c0c001/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=b3ca7f8b-a12d-4e9e-b005-342705c0c001&feed=F0qJcgXZ&t=podcast&e=nx-s1-5984956&p=510351&d=936&size=14982209",
+     "dur": 936,
+     "link": "https://www.npr.org/2026/10/14/nx-s1-5984956/flock-camera-ring-police-ice-video",
+     "desc": "Police departments across the U.S. are installing Flock cameras, saying the surveillance devices help deter theft and solve crimes, like helping find stolen property and missing people. But as the technology and its use by federal agencies expands, a handful of people have taken matters into their own hands . A hacker collective ripped down a Flock camera and made a copy of the software inside for…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5984956"
+    },
+    {
+     "id": "shortwave:7a22960b-5109-498f-8bb3-26cae630c57e",
+     "title": "The sound of fear: Why so many animals scream",
+     "date": "2026-10-13",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/48714ab6-e8c4-47b4-9c26-a4f4795bd8f4/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=48714ab6-e8c4-47b4-9c26-a4f4795bd8f4&feed=F0qJcgXZ&t=podcast&e=nx-s1-5999956&p=510351&d=800&size=12812582",
+     "dur": 800,
+     "link": "https://www.npr.org/2026/10/13/nx-s1-5999956/the-sound-of-fear-why-so-many-animals-scream",
+     "desc": "It's Halloween season — and what better way to celebrate October 13th than to explore the haunting sound of fear? That's exactly what we do in this episode, where host Regina G. Barber and NPR science correspondent Nate Rott dive into the science behind the sound of fear. Along the way, they find out what marmot shrieks, baby cries and horror movie soundtracks have in common — and what all of this…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5999956"
+    },
+    {
+     "id": "shortwave:7301e268-8d8e-4329-993d-a1da3108d8b9",
+     "title": "One of the toughest parts of ADHD is left out of the diagnosis",
+     "date": "2026-10-09",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/60ac9a5d-7083-4c69-b86b-fb316b73c8d6/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=60ac9a5d-7083-4c69-b86b-fb316b73c8d6&feed=F0qJcgXZ&t=podcast&e=nx-s1-5978061&p=510351&d=729&size=11665745",
+     "dur": 729,
+     "link": "https://www.npr.org/2026/10/09/nx-s1-5978061/rejection-sensitive-dysphoria-adhd",
+     "desc": "ADHD diagnoses are on the rise in the United States, but what if professionals are missing a key part of the disorder? In the 1970s, some clinicians recognized a lot of their ADHD patients had trouble with emotional regulation. But because it was easier to measure behavior rather than emotions, the criteria eventually fell off the radar. Today in the U.S., emotional dysregulation is not a part of …",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5978061"
+    },
+    {
+     "id": "shortwave:926ca7a2-c6b6-47c4-9a3e-579656508af3",
+     "title": "What's missing from the lethal injection conversation",
+     "date": "2026-10-07",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/e9fc1098-721b-4467-94ac-a5db479e0598/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=e9fc1098-721b-4467-94ac-a5db479e0598&feed=F0qJcgXZ&t=podcast&e=nx-s1-5991797&p=510351&d=878&size=14058102",
+     "dur": 878,
+     "link": "https://www.npr.org/2026/10/07/nx-s1-5991797/christa-pike-execution-injection-alive-dead",
+     "desc": "You might have seen the news that Christa Pike, a convicted murderer in Tennessee, did not die from the injections given to her as part of her death penalty sentence last week. After her failed execution, she was hospitalized, where she continues to receive critical medical care, according to her attorneys. Her survival is singular, but her mishandled execution is not. A review of executions carri…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5991797"
+    },
+    {
+     "id": "shortwave:92d02b9b-6031-408c-9b04-2bd4205eee79",
+     "title": "Science-backed guidance for healthy screen time",
+     "date": "2026-10-06",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/71f5f934-6833-415a-a4c0-65656d4ca5fb/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=71f5f934-6833-415a-a4c0-65656d4ca5fb&feed=F0qJcgXZ&t=podcast&e=nx-s1-5954067&p=510351&d=771&size=12339078",
+     "dur": 771,
+     "link": "https://www.npr.org/2026/10/06/nx-s1-5954067/algorithm-screentime-socialmedia-wellness",
+     "desc": "We’re all aware – and wary – of doomscrolling. Lots of screen time can be bad for us. But what if that’s not always the case? We spoke with the author of a study that found a positive relationship between screen time and brain development in young people. This episode, we sort through what to actually worry about when it comes to screen time – and what guidelines already exist that can empower you…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5954067"
+    },
+    {
+     "id": "shortwave:ad5dcbc2-dafe-4502-99fc-07ebf9d812b4",
+     "title": "The genetic secret helping bats survive a deadly epidemic",
+     "date": "2026-10-05",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/cbafe760-90f2-4241-b445-85b1e18f4311/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=cbafe760-90f2-4241-b445-85b1e18f4311&feed=F0qJcgXZ&t=podcast&e=nx-s1-5825878&p=510351&d=833&size=13330853",
+     "dur": 833,
+     "link": "https://www.npr.org/2026/10/05/nx-s1-5825878/bat-adaptation-mutation-genetic-halloween",
+     "desc": "We’re easing you into Halloween season with an episode about bats . There’s a silent serial killer decimating little brown bats as they hibernate. White nose syndrome has driven populations across the U.S. to almost the brink of extinction over the last decade. But recently, conservation biologist Giorgia Auteri and her team noticed several genetic mutations in the survivors. These mutations could…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5825878"
+    },
+    {
+     "id": "shortwave:cc3dd5d2-5e4f-4d47-83ca-5e3b9ea96a6d",
+     "title": "Eating alone may be secretly spiking your blood sugar",
+     "date": "2026-10-02",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/10b5b4d0-96df-4772-8f0f-1ca57f15c81d/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=10b5b4d0-96df-4772-8f0f-1ca57f15c81d&feed=F0qJcgXZ&t=podcast&e=nx-s1-5978037&p=510351&d=599&size=9593043",
+     "dur": 599,
+     "link": "https://www.npr.org/2026/10/02/nx-s1-5978037/blood-sugar-social-eating-alone",
+     "desc": "Being more social has a ton of benefits: lower stress, decreased inflammation – even living a longer life! Recently, some scientists have added lowering your blood sugar to the list. To figure it out, researchers had people break bread both in duos and alone. And they think the results could tell us something about the roots of our social nature. Consider it another reason to prioritize our social…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5978037"
+    },
+    {
+     "id": "shortwave:4b5861b9-e7fa-4087-a20a-81c769a28334",
+     "title": "How much of Earth's life is still undiscovered?",
+     "date": "2026-09-30",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/5bc17927-1be6-4514-bc2c-308925959415/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=5bc17927-1be6-4514-bc2c-308925959415&feed=F0qJcgXZ&t=podcast&e=nx-s1-5978106&p=510351&d=829&size=13276100",
+     "dur": 829,
+     "link": "https://www.npr.org/2026/09/30/nx-s1-5978106/new-cat-penguin-species-discovery-biodiversity-genetics",
+     "desc": "If you, like us, clicked on the cute cat photos posted everywhere recently, announcing the discovery of the first new cat species in more than a century, you might have wondered how rare it is to find a new species. Turns out, it’s not! We live in an era of “unprecedented” discovery, says John Wiens , a professor of ecology and evolutionary biology at the University of Arizona. And scientists say …",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5978106"
+    },
+    {
+     "id": "shortwave:53721718-7aa5-4eb6-a2cd-51250064b225",
+     "title": "What social media gets wrong about inflammation",
+     "date": "2026-09-29",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/aa8093c3-ee49-44b4-848b-39593ad7df9c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=aa8093c3-ee49-44b4-848b-39593ad7df9c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5958510&p=510351&d=872&size=13968240",
+     "dur": 872,
+     "link": "https://www.npr.org/2026/09/29/nx-s1-5958510/health-medical-inflammation-chronic-acute",
+     "desc": "Inflammation is all over our feeds. Influencers claim it’s the reason you're bloated or fatigued, the source of digestive problems and the cause of more serious illnesses like Alzheimer's or cardiovascular disease. But how much of that is scientifically backed, and how viable are the solutions you see on social media? Short Wave talks to immunologist Shruti Naik to separate the health from the hyp…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5958510"
+    },
+    {
+     "id": "shortwave:9011c1ae-c12f-4f3b-9f90-e82b26ca9b7a",
+     "title": "A fall mystery: why do only certain leaves turn red?",
+     "date": "2026-09-28",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/fe8e85b1-c0f6-4c58-9a28-0cb35fdd706d/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=fe8e85b1-c0f6-4c58-9a28-0cb35fdd706d&feed=F0qJcgXZ&t=podcast&e=nx-s1-5980105&p=510351&d=839&size=13435760",
+     "dur": 839,
+     "link": "https://www.npr.org/2026/09/28/nx-s1-5980105/a-fall-mystery-why-do-only-certain-leaves-turn-red",
+     "desc": "Leaves turn yellow in the fall because Chlorophyll breaks down, revealing the yellow pigment that was there all along. But why red? Red is a different story altogether. Leaves have to make a new pigment to turn red. Why would a dying leaf go an extra mile to do that? Scientists don’t really know. NPR science correspondent Nell Greenfieldboyce reports on the leading hypotheses out there. Read more …",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5980105"
+    },
+    {
+     "id": "shortwave:789e05a2-e656-4d61-960d-dc615acf8aa6",
+     "title": "'Super' El Niño is coming. What should you expect?",
+     "date": "2026-09-25",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/4a7dd3ff-a325-45f0-9ddb-183108a64806/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=4a7dd3ff-a325-45f0-9ddb-183108a64806&feed=F0qJcgXZ&t=podcast&e=nx-s1-5953022&p=510351&d=751&size=12017624",
+     "dur": 751,
+     "link": "https://www.npr.org/2026/09/25/nx-s1-5953022/weather-super-rain-climate-extreme-godzilla-el-nino",
+     "desc": "The world is bracing for the worst effects of a Super El Niño. Or a Godzilla El Niño. But what does that really even mean? For millennia El Niño has shaped weather across the globe, fueling flooding in parts of the U.S., droughts and wildfires in Australia and Indonesia, and disrupting fisheries across the Pacific. Scientists have long wondered if human activities — chiefly the burning of fossil f…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5953022"
+    },
+    {
+     "id": "shortwave:ba4f38a3-1e49-4e5b-8540-3790122a8547",
+     "title": "Vaccinated or not, we’re on the brink of a measles epidemic",
+     "date": "2026-09-23",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/042f306b-3241-4610-838c-bfa3ce7a1b55/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=042f306b-3241-4610-838c-bfa3ce7a1b55&feed=F0qJcgXZ&t=podcast&e=nx-s1-5974052&p=510351&d=858&size=13743377",
+     "dur": 858,
+     "link": "https://www.npr.org/2026/09/23/nx-s1-5974052/measles-outbreak-epidemic-vaccination-rfk",
+     "desc": "Measles is making a comeback. Ongoing outbreaks in Pennsylvania, South Carolina, Texas, and Utah have documented hundreds of cases, mostly among unvaccinated people. And while local and federal politicians debate the definitions and impact of those measles-associated deaths, health experts worry that we’re overlooking the real problem: the threat of a full-scale epidemic. Today, we talk to one of …",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5974052"
+    },
+    {
+     "id": "shortwave:be3f5f24-7bc3-42c3-a973-2fbaa7bb2410",
+     "title": "The science of self-worth (and how to boost yours)",
+     "date": "2026-09-22",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/b86ef78d-e61d-4d89-822d-f0b1147d9341/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=b86ef78d-e61d-4d89-822d-f0b1147d9341&feed=F0qJcgXZ&t=podcast&e=nx-s1-5968850&p=510351&d=765&size=12244576",
+     "dur": 765,
+     "link": "https://www.npr.org/2026/09/22/nx-s1-5968850/self-worth-science-memory-reconsolidation",
+     "desc": "Your self-worth today can be affected by your memories. But you have power over those memories – when you re-experience them. By doing that, you can reshape your self-esteem for the better and change your perspective. That idea and the broader science of self-worth are at the heart of Marisa Franco’s new book Worth. It’s so intriguing to us, we couldn’t pass up the chance to share it with you. Tha…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5968850"
+    },
+    {
+     "id": "shortwave:65f05bfb-0f95-46cf-8a06-2690c6d92c53",
+     "title": "Why we should all be 'bookmaxxing'",
+     "date": "2026-09-19",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/280cc23f-b5ca-41af-9ec4-8f51101ca6fb/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=280cc23f-b5ca-41af-9ec4-8f51101ca6fb&feed=F0qJcgXZ&t=podcast&e=nx-s1-5968677&p=510351&d=658&size=10541017",
+     "dur": 658,
+     "link": "https://www.npr.org/2026/09/18/nx-s1-5968677/reading-fun-brain-science",
+     "desc": "Remember your mom, dad and teachers telling you to read because it’s good for you? Well, a compilation of the latest research shows they were right. “Reading is one of the simplest and most accessible activities for actually supporting cognitive performance, brain health, mental health, but also overall wellbeing throughout our lives,” said Christelle Langley, a cognitive neuroscientist at the Uni…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5968677"
+    },
+    {
+     "id": "shortwave:976afcf8-e274-4663-b6dd-47f7f158e163",
+     "title": "The latest on AI panic — and whether it's justified",
+     "date": "2026-09-18",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/75926fb0-6c54-49fb-a4f4-44901aa2fa69/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=75926fb0-6c54-49fb-a4f4-44901aa2fa69&feed=F0qJcgXZ&t=podcast&e=nx-s1-5971154&p=510351&d=898&size=14379093",
+     "dur": 898,
+     "link": "https://www.npr.org/2026/09/18/nx-s1-5971154/open-ai-anthropic-news-research-takeover",
+     "desc": "AI is in the news again – for its potential to end civilization. A researcher at Anthropic resigned very publicly last week, citing concerns about the accelerating capabilities of AI and what he called “irresponsible” behavior from major AI companies Anthropic and OpenAI. Following his resignation, the leaders of both companies called for an internationally cooperative, industry-wide slowdown on a…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5971154"
+    },
+    {
+     "id": "shortwave:48a1220e-8708-4204-866a-9f8f1a1cb598",
+     "title": "When batteries get a facelift, so does renewable energy",
+     "date": "2026-09-16",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/fb33d0f3-6b17-424d-946c-ef7a888099a4/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=fb33d0f3-6b17-424d-946c-ef7a888099a4&feed=F0qJcgXZ&t=podcast&e=nx-s1-5968717&p=510351&d=809&size=12958869",
+     "dur": 809,
+     "link": "https://www.npr.org/2026/09/16/nx-s1-5968717/when-batteries-get-a-facelift-so-does-renewable-energy",
+     "desc": "For years, renewable energy companies have faced a problem: How to store the mass amounts of energy they produce for later use. Batteries may be just the solution. In California, there's now enough grid-scale battery storage to power millions of homes for a few hours. Battery power is often the second largest source of energy on a given day in the state. So, we're revisiting the fast-growing techn…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5968717"
+    },
+    {
+     "id": "shortwave:aa982c7d-cf16-4341-87b4-a16c0b53569b",
+     "title": "Why you'll probably be misdiagnosed in your lifetime",
+     "date": "2026-09-15",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/8dda708c-7a0c-486e-b517-689d17d7c644/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=8dda708c-7a0c-486e-b517-689d17d7c644&feed=F0qJcgXZ&t=podcast&e=nx-s1-5847020&p=510351&d=805&size=12894084",
+     "dur": 805,
+     "link": "https://www.npr.org/2026/09/15/nx-s1-5847020/diagnosis-crisis-medical-error-patient",
+     "desc": "Nearly every person will experience at least one diagnostic error in their lifetime. That means either a delayed diagnosis, a wrong diagnosis – or no diagnosis at all. That’s according to a report by the National Academies of Sciences, Engineering and Medicine from 2015 on diagnostic error. Today on the show we talk to a physician who was personally affected by the crisis, and New York Times edito…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5847020"
+    },
+    {
+     "id": "shortwave:7671a285-d2b8-4368-8d06-e1b7ca410f76",
+     "title": "Should race affect BMI guidelines? Doctors are split",
+     "date": "2026-09-14",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f6ce454d-d6e7-4773-9b72-e18a40291170/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f6ce454d-d6e7-4773-9b72-e18a40291170&feed=F0qJcgXZ&t=podcast&e=nx-s1-5818478&p=510351&d=827&size=13238901",
+     "dur": 827,
+     "link": "https://www.npr.org/2026/09/14/nx-s1-5818478/health-body-medicine-doctor-fat-race",
+     "desc": "BMI is a quick, cheap way for doctors to estimate body fat and screen for conditions like heart disease and diabetes. But medicine has long known that BMI is problematic and unnuanced. By using it, groups of people have fallen through the cracks and conditions have been caught late. So, some doctors want to add nuance – to consider race when using BMI. But using race in medicine comes with its own…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5818478"
+    },
+    {
+     "id": "shortwave:9ad5fd17-7ac6-49a4-8312-4a3e989d1e3b",
+     "title": "How scientists discovered that animals are doctors, too",
+     "date": "2026-09-11",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f34f7f77-05f1-40a6-b682-7fbecfc5a522/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f34f7f77-05f1-40a6-b682-7fbecfc5a522&feed=F0qJcgXZ&t=podcast&e=nx-s1-5935588&p=510351&d=804&size=12877784",
+     "dur": 804,
+     "link": "https://www.npr.org/2026/09/11/nx-s1-5935588/medical-animal-doctor-science-bug",
+     "desc": "When people are sick, we seek out medications and treatments to help heal. For a long time, scientists thought that was a uniquely human ability. But it turns out, many other animals do a version of it too! And since the late 1980s, western researchers have been trying to get a peek behind the curtain. And aside from just cataloguing all the cool examples just to know, there’s a real hope that stu…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5935588"
+    }
+   ]
+  },
+  "planetmoney": {
+   "name": "NPR Planet Money",
+   "items": [
+    {
+     "id": "planetmoney:74bdb425-023b-4ef5-b70d-e3405c832b87",
+     "title": "Two ways big bets on data centers might affect you (Two Indicators)",
+     "date": "2026-11-18",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b19ce1fb-95ca-4339-9f74-93cd72d20032/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b19ce1fb-95ca-4339-9f74-93cd72d20032&feed=hvWWWzRv&t=podcast&e=nx-s1-6044772&p=510289&d=1108&size=17739090",
+     "dur": 1108,
+     "link": "https://www.npr.org/2026/11/18/nx-s1-6044772/data-center-debt-deals-investment",
+     "desc": "Your money might be fueling the AI boom … just as some AI data center bets are starting to look riskier. If you own stocks, that money is likely tied up in giant tech companies like Microsoft and Nvidia. And if your 401(k) has money invested in the US bond fund, you might be lending tech companies the money to build data centers. Today on the show, two stories from our short daily podcast The Indi…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6044772"
+    },
+    {
+     "id": "planetmoney:1d0454cc-1590-4928-8613-39678c23a5d5",
+     "title": "Are wildfires making the future uninsurable?",
+     "date": "2026-11-13",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4bb23a81-c77c-46d0-a3bc-f001ff4783d0/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4bb23a81-c77c-46d0-a3bc-f001ff4783d0&feed=hvWWWzRv&t=podcast&e=nx-s1-6040434&p=510289&d=2470&size=39525630",
+     "dur": 2470,
+     "link": "https://www.npr.org/2026/11/13/nx-s1-6040434/california-wildfires-home-insurance",
+     "desc": "Over the past decade, increasingly catastrophic wildfires have wrought unprecedented destruction and upended the basic math of the insurance industry. In some of the riskiest parts of the country, homeowners have seen spiking premiums or lost their coverage altogether. Today on the show, we travel to the forested foothills of Northern California to see how communities in wildfire-prone areas are t…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6040434"
+    },
+    {
+     "id": "planetmoney:70d8b4a2-8120-4edf-a676-ead093e1d532",
+     "title": "How bodegas led to the Yemeni coffeehouse explosion",
+     "date": "2026-11-11",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7&feed=hvWWWzRv&t=podcast&e=nx-s1-6036839&p=510289&d=1441&size=23060985",
+     "dur": 1441,
+     "link": "https://www.npr.org/2026/11/11/nx-s1-6036839/yemeni-coffee-house-bodega-immigrant-entrepreneur",
+     "desc": "There is a long-standing tradition of different immigrant groups arriving in the U.S. and specializing in one particular type of business. Think, nail salons run by people from Vietnam or Gujarati Indians owning motels and hotels. Yemenis are another immigrant community that has largely clustered around one industry, in their case, bodegas and small grocery stores. There are thousands of these sho…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6036839"
+    },
+    {
+     "id": "planetmoney:4dca2240-f1f8-47b7-a504-6aaae5753f74",
+     "title": "Inside the insurance industry’s destruction lab",
+     "date": "2026-11-06",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1e049bd1-7af5-4822-bae2-28d526ef53fd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1e049bd1-7af5-4822-bae2-28d526ef53fd&feed=hvWWWzRv&t=podcast&e=nx-s1-6032860&p=510289&d=1943&size=31091653",
+     "dur": 1943,
+     "link": "https://www.npr.org/2026/11/06/nx-s1-6032860/fire-insurance-industry-destruction-lab",
+     "desc": "When you think of someone burning down a house for insurance purposes, you don’t imagine it would ever be the insurance company itself lighting the match. But that’s essentially what’s happening inside a giant destruction laboratory, funded by the insurance industry, in the woods of South Carolina. Scientists and engineers there build household structures — from decks to sheds to single family hom…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6032860"
+    },
+    {
+     "id": "planetmoney:d7ae601b-8465-47f2-835c-21fba48f631d",
+     "title": "The history of light (classic)",
+     "date": "2026-11-04",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/df5d68e4-3e3f-4c21-81f1-66dfd11e3193/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=df5d68e4-3e3f-4c21-81f1-66dfd11e3193&feed=hvWWWzRv&t=podcast&e=nx-s1-6027986&p=510289&d=1266&size=20264002",
+     "dur": 1266,
+     "link": "https://www.npr.org/2026/11/04/nx-s1-6027986/william-nordhaus-yale-nobel-obituary-history-light",
+     "desc": "How do you measure human progress? Light is the answer. For thousands of years, getting light was a huge hassle. You had to make candles from scratch. This is not as romantic as it sounds. You had to get a cow, raise the cow, feed the cow, kill the cow, get the fat out of the cow, cook the fat, dip wicks into the fat. All that — for not very much light. Now, if we want to light a whole room, we ju…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6027986"
+    },
+    {
+     "id": "planetmoney:ebb86052-61b6-4d13-b078-f19589376677",
+     "title": "Is this how the great international borrowing spree ends?",
+     "date": "2026-10-31",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026",
+     "dur": 1551,
+     "link": "https://www.npr.org/2026/10/30/nx-s1-6023794/france-protests-students-bonds-debt",
+     "desc": "In recent months, there have been serious whispers about an outrageous possibility: that one day soon, France — the seventh largest economy in the world — might not be able to pay back its debts. Right now, protesters in France are complaining about crumbling schools, the lack of teachers, and the overall high cost of living. But the government is struggling to find the money to address all the co…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6023794"
+    },
+    {
+     "id": "planetmoney:e2b2c030-eb87-48c0-9069-31a7def930b0",
+     "title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
+     "date": "2026-10-28",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400",
+     "dur": 1831,
+     "link": "https://www.npr.org/2026/10/28/nx-s1-6019535/connecticut-citizen-assembly-property-tax-lottery",
+     "desc": "Connecticut’s property tax system has been broken for decades and the politicians have failed to fix the problem. So now, they’re trying something new: a citizens assembly. (Citizens assemblies are also old. They go back to Ancient Greece, when lawmakers were chosen not through elections, but through random lotteries.) Today on the show, Connecticut’s citizens assembly. It's like jury duty, but fo…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6019535"
+    },
+    {
+     "id": "planetmoney:a6b63a1f-36c3-49e5-96db-8ac77ff0014a",
+     "title": "How surveillance crept up on us",
+     "date": "2026-10-23",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/180d29de-2fd0-459b-9417-40f7deaca9ad/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=180d29de-2fd0-459b-9417-40f7deaca9ad&feed=hvWWWzRv&t=podcast&e=nx-s1-5991699&p=510289&d=2076&size=33224916",
+     "dur": 2076,
+     "link": "https://www.npr.org/2026/10/23/nx-s1-5991699/surveillance-new-york-city-nypd-police-security",
+     "desc": "For years, police have spent billions of tax dollars on watching us, tracking us, and recording us. In the largest police department in the country, these surveillance systems were paid for and adopted without the kind of public oversight cities usually require. In the wake of 9/11, the New York Police Department built one of the most sophisticated and omnipresent surveillance systems in the count…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5991699"
+    },
+    {
+     "id": "planetmoney:e23755e3-6b21-4507-a5e7-3620e2f4618e",
+     "title": "We try to fix election polling (update)",
+     "date": "2026-10-21",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f797d163-3173-4fad-9265-17db457ab4dc/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f797d163-3173-4fad-9265-17db457ab4dc&feed=hvWWWzRv&t=podcast&e=nx-s1-6009849&p=510289&d=1799&size=28788698",
+     "dur": 1799,
+     "link": "https://www.npr.org/2026/10/21/nx-s1-6009849/midterms-polling-election-marist",
+     "desc": "Polling is facing an existential crisis. People aren't picking up the phone. Nobody wants to talk to pollsters. Trust is on the line. We pluck a solution from the economics canon and convince a polling firm to let us test it. Today on the show, we head to Marist College — home of the Marist Poll — to learn how to be pollsters ourselves. We learn the great moments in polling history, the latest sci…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6009849"
+    },
+    {
+     "id": "planetmoney:515a052e-a76b-4127-a5f4-9c6a9d70c1ac",
+     "title": "Anatomy of a movie market",
+     "date": "2026-10-16",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911",
+     "dur": 1929,
+     "link": "https://www.npr.org/2026/10/16/nx-s1-6005392/sundance-hollywood-movies-apple-disney",
+     "desc": "Before an independent movie makes it to a streaming platform or a theater near you, it first needs to survive an artistic and economic gauntlet. And even for those movies that make it into elite film festivals like Sundance – it can take everything from performance stunts to corporate spycraft to seal the deal. Today on the show, we follow the ‘King of Sundance’ as he and his team try to sell thei…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6005392"
+    },
+    {
+     "id": "planetmoney:b297c28a-87e4-4b96-92e0-e64b7b581948",
+     "title": "Wanna slow down AI? These biologists can help.",
+     "date": "2026-10-14",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130",
+     "dur": 1750,
+     "link": "https://www.npr.org/2026/10/14/nx-s1-6002910/ai-scientific-regulation-conference-asilomar",
+     "desc": "Fifty years ago, scientists pioneering a terrifying gene-splicing technology figured out a way to collectively hit pause. Can we do it again with AI? We ask because some top AI industry leaders are saying the technology they’re pushing forward is moving too quickly … and might kill us all. They’re effectively saying, ‘Please, please regulate us! Slow us down! Tie our hands!’ But, by and large, the…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6002910"
+    },
+    {
+     "id": "planetmoney:71c5cc76-b7f6-4479-9835-26b8d7e16c67",
+     "title": "Should we all be getting tariff refunds right now?",
+     "date": "2026-10-09",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f659337b-d25e-4099-821d-1b3f11def305/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f659337b-d25e-4099-821d-1b3f11def305&feed=hvWWWzRv&t=podcast&e=nx-s1-5996901&p=510289&d=1803&size=28850555",
+     "dur": 1803,
+     "link": "https://www.npr.org/2026/10/09/nx-s1-5996901/days-of-our-tariffs-refunds-video-games",
+     "desc": "Companies are getting billions of dollars back. How about us? It seems simple, right? We paid higher prices for imported goods because of tariffs. Then the tariffs were ruled illegal. Courts said the money paid to the U.S. government had to be refunded. Companies are getting that money now. It would seem like we, the customers, should get paid back, too. But … it’s not so simple. Once again, we’re…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5996901"
+    },
+    {
+     "id": "planetmoney:422e04c9-24e3-4eca-bae9-fdd71d614953",
+     "title": "Charles Ponzi's scheme (plus a new scam)",
+     "date": "2026-10-07",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4e673c43-e87c-4ef1-9ba0-3350c61d0dc6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4e673c43-e87c-4ef1-9ba0-3350c61d0dc6&feed=hvWWWzRv&t=podcast&e=nx-s1-5992800&p=510289&d=1530&size=24495839",
+     "dur": 1530,
+     "link": "https://www.npr.org/2026/10/07/nx-s1-5992800/charles-ponzis-scheme-plus-a-new-scam",
+     "desc": "Charles Ponzi was down on his luck. In 1919, the Italian immigrant had spent a decade and a half in the U.S. He was looking for a way to get rich and tried his hand at everything — including bookkeeping, sign painting, grocery clerk, dishwasher, and librarian. He caught a lucky break in August, when he received a letter from Europe. In the envelope was an International Reply Coupon, a clever way t…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5992800"
+    },
+    {
+     "id": "planetmoney:f35873ff-fecc-4857-bc2d-0f8a1a1202d5",
+     "title": "Where all those weird new drinks are coming from",
+     "date": "2026-10-02",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/e2affd6c-dcac-45d1-b7c9-010b9f3cac4b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=e2affd6c-dcac-45d1-b7c9-010b9f3cac4b&feed=hvWWWzRv&t=podcast&e=nx-s1-5989651&p=510289&d=1780&size=28490275",
+     "dur": 1780,
+     "link": "https://www.npr.org/2026/10/02/nx-s1-5989651/flavorman-adaptogens-probiotic-functional-soda-seltzer-drink",
+     "desc": "It's getting pretty wild in the beverage aisle these days — from the rainbow wall of seltzers, to the increasingly strange flavors of Pepsi, to the new \"functional\" sodas with added fiber or supplements that supposedly offer health benefits. Where are all these new drinks coming from? And why does it seem like the options are multiplying faster than ever? Today on the show, we go behind the scenes…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5989651"
+    },
+    {
+     "id": "planetmoney:84e80865-2556-470a-9f62-d1106c5aede6",
+     "title": "Who’s gonna pay for your Social Security?",
+     "date": "2026-09-30",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47d744ef-f06a-4638-936e-6eea1d635b37/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47d744ef-f06a-4638-936e-6eea1d635b37&feed=hvWWWzRv&t=podcast&e=nx-s1-5985851&p=510289&d=1753&size=28062284",
+     "dur": 1753,
+     "link": "https://www.npr.org/2026/09/30/nx-s1-5985851/social-security-payment-solutions-retirees",
+     "desc": "Very soon, Social Security may not have enough money to make full payments to retirees. Very soon. Like by 2032, just six years from now. So what are we gonna do about it? Today on the show, we look at some of the most talked about possible solutions; and exactly whose wallets we’ll have to rifle through to find the money to pay for each. Then we’ll run the options by the Social Security Administr…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5985851"
+    },
+    {
+     "id": "planetmoney:10652924-571e-4b6e-bd4f-11f819c1dc21",
+     "title": "Middlegarchs are the new Oligarchs",
+     "date": "2026-09-25",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6&feed=hvWWWzRv&t=podcast&e=nx-s1-5981194&p=510289&d=1843&size=29504661",
+     "dur": 1843,
+     "link": "https://www.npr.org/2026/09/25/nx-s1-5981194/stealthy-wealthy-everywhere-millionaires-pass-through",
+     "desc": "Wanna know who is really in the top 1%? And how they use their influence? It may not be who you think. Look beyond Silicon Valley. Look beyond Wall Street. Look beyond the “oligarchs”. There's a much larger class of wealthy Americans hiding in plain sight. And, often, they got rich in mundane ways. They own car dealerships. They sell hot dogs and frozen mini-quiches. They run waxing salons. They s…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5981194"
+    },
+    {
+     "id": "planetmoney:278cf0c2-d1cc-46c4-ba0d-cde6a2902f5b",
+     "title": "Is our national debt finally too much? (update)",
+     "date": "2026-09-23",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1dd6863e-9b35-4e1c-9c2e-4437471a1794/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1dd6863e-9b35-4e1c-9c2e-4437471a1794&feed=hvWWWzRv&t=podcast&e=nx-s1-5978114&p=510289&d=1789&size=28625693",
+     "dur": 1789,
+     "link": "https://www.npr.org/2026/09/23/nx-s1-5978114/national-debt-rogoff-dynan-red-line",
+     "desc": "(Note: A version of this episode originally ran in 2024 .) $40,000,000,000,000. Four commas. Thirteen zeroes. It’s an eye-popping, almost infinite-sounding pile of money. And every time the debt passes a big round number, almost everyone asks the same question: How much debt is too much? It’s maybe the most important question in macroeconomics. It’s also surprisingly hard to answer. When two econo…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5978114"
+    },
+    {
+     "id": "planetmoney:f22761e6-409c-4d57-91d6-5d9a8cca840b",
+     "title": "The Domino’s Pizza Tracker Theory of Everything",
+     "date": "2026-09-18",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025",
+     "dur": 1942,
+     "link": "https://www.npr.org/2026/09/18/nx-s1-5974101/dominos-pizza-tracker-labor-illusion",
+     "desc": "Did a pizza restaurant’s humble status page change how we wait forever? When you order a Lyft or Uber, you get texts every few minutes about your car approaching and arriving. When you have a package coming, you get a notification when it’s shipped, when it’s en route, and when it’s out for delivery. Why do so many companies send these constant updates? We have a theory: It’s because of Domino’s. …",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5974101"
+    },
+    {
+     "id": "planetmoney:1dadb75e-d29b-400a-bb49-f6df18e28213",
+     "title": "How investing is getting riskier (Two Indicators)",
+     "date": "2026-09-16",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0b5534c-b76f-4eae-9704-7ad3815db5fe/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0b5534c-b76f-4eae-9704-7ad3815db5fe&feed=hvWWWzRv&t=podcast&e=nx-s1-5970391&p=510289&d=1085&size=17367127",
+     "dur": 1085,
+     "link": "https://www.npr.org/2026/09/16/nx-s1-5970391/margin-calls-sports-betting-investing",
+     "desc": "Margin borrowing and sports gambling “investments” are both on the rise! Today on the show, two stories from Planet Money’s daily podcast The Indicator about the ways investing is changing, and getting riskier. According to one study, more than half of Gen Zers are using investment dollars for sports gambling. On average, this is not a smart strategy for the long term. It might be that sports bett…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5970391"
+    },
+    {
+     "id": "planetmoney:e4a2224f-f462-445a-9401-ad628eaee491",
+     "title": "The loan at the heart of a new foreclosure crisis",
+     "date": "2026-09-11",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/295e4ef9-a287-4ab7-ad1c-8198129dccd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=295e4ef9-a287-4ab7-ad1c-8198129dccd2&feed=hvWWWzRv&t=podcast&e=nx-s1-5966574&p=510289&d=1749&size=27996248",
+     "dur": 1749,
+     "link": "https://www.npr.org/2026/09/11/nx-s1-5966574/baltimore-foreclosure-crisis-dscr-loan",
+     "desc": "There is a new type of loan that is sweeping through the country right now. It’s advertised as a super quick and super easy way to get a mortgage to buy a home. In recent years, Wall Street has been funneling billions of dollars into these loans. But these loans are also raising questions. Are they a financial innovation that’s helping the housing market? Or ... a sign that Wall Street might be fo…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5966574"
+    },
+    {
+     "id": "planetmoney:9e77d9d8-97df-4750-a7c6-503e3ed2da9f",
+     "title": "Cost-cutting, quiet guilt and the inflation generation",
+     "date": "2026-09-09",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0257234-fdc8-4233-a540-e65914b56e46/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0257234-fdc8-4233-a540-e65914b56e46&feed=hvWWWzRv&t=podcast&e=nx-s1-5961504&p=510289&d=1446&size=23142487",
+     "dur": 1446,
+     "link": "https://www.npr.org/2026/09/09/nx-s1-5961504/economy-coupon-inflation-retirement-wages",
+     "desc": "In this economy it is boom times and doom times all at once. The statistics aren’t really capturing it. K-shaped only goes so far as a metaphor. So … we asked you to help. And you delivered! One one hand, the stock market is on a prolonged, upward trajectory. Unemployment is low and inflation has come down from its peak. But on the other hand, inflation is frustratingly sticky and higher than we w…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5961504"
+    },
+    {
+     "id": "planetmoney:70775d03-ff2f-4143-9d1b-df6bd2cb60b3",
+     "title": "Trump drinks Venezuela’s milkshake",
+     "date": "2026-09-05",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13353767-60fa-4915-a877-c703920f817f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13353767-60fa-4915-a877-c703920f817f&feed=hvWWWzRv&t=podcast&e=nx-s1-5958648&p=510289&d=1527&size=24435234",
+     "dur": 1527,
+     "link": "https://www.npr.org/2026/09/04/nx-s1-5958648/us-venezuela-oil-deal-reserves-trump",
+     "desc": "One week ago, President Trump announced a deal that would give the “U.S. control of more than 65 BILLION BARRELS of proven Oil Reserves in Venezuela, at no cost to the American Taxpayer.” The exact nature of this deal has been … obscure, to say the least. But today, we wanted to know, from someone who’s been through this before, what does this mean for Venezuela? José Ángel Pereira Ruimwyk is both…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5958648"
+    },
+    {
+     "id": "planetmoney:43627a93-796f-4805-89ae-76c7bed4997d",
+     "title": "Love in the time of Palantir",
+     "date": "2026-09-02",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b8cf0fa3-7712-414c-aa58-0aa77d1ee465/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b8cf0fa3-7712-414c-aa58-0aa77d1ee465&feed=hvWWWzRv&t=podcast&e=nx-s1-5953112&p=510289&d=1547&size=24758318",
+     "dur": 1547,
+     "link": "https://www.npr.org/2026/09/02/nx-s1-5953112/palantir-software-data-surveillance",
+     "desc": "To a lot of people, Palantir is a mystery — what does the company know, what data do they have, and (if they have it) what do they do with it all? We dig into that mystery and take you to a singles event to see if Big Data is good for Big Dating. That event, deep in the heart of Manhattan, is called: “Singles Dating Matching Using Palantir Data.” The evening promised: “Data analysis!” and “Pattern…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5953112"
+    },
+    {
+     "id": "planetmoney:532d6947-be95-4fff-981e-ff2bfdcc26f8",
+     "title": "Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)",
+     "date": "2026-08-30",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/15c8254d-eae7-4f9a-af7a-88c5b68b596e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=15c8254d-eae7-4f9a-af7a-88c5b68b596e&feed=hvWWWzRv&t=podcast&e=nx-s1-5948176&p=510289&d=1374&size=21996860",
+     "dur": 1374,
+     "link": "https://www.npr.org/2026/08/30/nx-s1-5948176/dolly-partons-9-to-5-the-true-story-behind-the-anthem-bonus",
+     "desc": "The brilliance of \"9 to 5\" is that it is catchy even though it’s also kinda depressing. You will be dancing along. You're enjoying it. And, then when you really listen to the lyrics, you're like, Wait, this is messed up. This is real. This is a problem we need to fix. Like, why does it have to be this way? That is the spirit of the song, why it became an anthem, and the heart of the movie 9 to 5 .…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5948176"
+    },
+    {
+     "id": "planetmoney:9ac6cc5f-1327-48c1-8539-61e6fb1d39e4",
+     "title": "Branded fruit: How produce got “Honeycrisp-ified\"",
+     "date": "2026-08-28",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fff38693-3604-44da-8dc9-ab7e184d7b6e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fff38693-3604-44da-8dc9-ab7e184d7b6e&feed=hvWWWzRv&t=podcast&e=nx-s1-5947931&p=510289&d=2023&size=32375623",
+     "dur": 2023,
+     "link": "https://www.npr.org/2026/08/28/nx-s1-5947931/tomato-varieties-nixon-apples",
+     "desc": "The produce aisle is changing. You’ve noticed this, I’m sure. It is now full of superstar fruits and vegetables: The Honeycrisp apple, The Cotton Candy grape, The Cuties mandarin orange. They stand out. They cost more. They have branding and sometimes trademarks and patent-ish kinds of protections. And now – it’s happening in the tomato bin too! Where once there were just plain old cherry or grape…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5947931"
+    },
+    {
+     "id": "planetmoney:267391af-c63f-4343-a9be-55a5446379a0",
+     "title": "The continent nobody owns & everyone benefits from (Summer School)",
+     "date": "2026-08-26",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13c82386-c3fe-4d77-ada1-b2fd72596278/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13c82386-c3fe-4d77-ada1-b2fd72596278&feed=hvWWWzRv&t=podcast&e=nx-s1-5943609&p=510289&d=2444&size=39106438",
+     "dur": 2444,
+     "link": "https://www.npr.org/2026/08/26/nx-s1-5943609/summer-school-antarctica",
+     "desc": "This episode is packed with your best economic ideas from around the world and a penguin interview. It all comes together in this final session of Summer School 2026. Pack your parka, we’re headed to Antarctica. First, we’ll travel back in time to the late 1970s when NPR was a scrappy young network, with a synth soundtrack , and tons of heart. Science reporter Ira Flatow took a trip to the South P…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5943609"
+    },
+    {
+     "id": "planetmoney:b23000fa-66fb-4df2-a3be-455bf17c5477",
+     "title": "Who decides what big box sells? Our GAME got us answers",
+     "date": "2026-08-21",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9130f48d-4fd4-444e-b120-02f86c0e2cf5/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9130f48d-4fd4-444e-b120-02f86c0e2cf5&feed=hvWWWzRv&t=podcast&e=nx-s1-5940897&p=510289&d=2278&size=36461592",
+     "dur": 2278,
+     "link": "https://www.npr.org/2026/08/21/nx-s1-5940897/buyer-boardgame-bigbox-target-walmart",
+     "desc": "There’s a room where the fates of retail products are decided. Will they make it onto the shelves of the big box stores? Usually the rest of us can’t get inside the room where decisions are made – until now! Today on the show, we pitch the Planet Money game, Sell Me a Sasquatch, to big box retailers. We go behind the scenes to learn about how products end up on big box store shelves, what’s going …",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5940897"
+    },
+    {
+     "id": "planetmoney:d3594708-49b5-464f-a29c-1f92c115d119",
+     "title": "Getting entrepreneurial in Korea (Summer School)",
+     "date": "2026-08-19",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f085e3ff-805b-4306-b491-d936938e5d17/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f085e3ff-805b-4306-b491-d936938e5d17&feed=hvWWWzRv&t=podcast&e=nx-s1-5936481&p=510289&d=2408&size=38529655",
+     "dur": 2408,
+     "link": "https://www.npr.org/2026/08/19/nx-s1-5936481/korea-summer-school-entrepreneurial",
+     "desc": "This week’s stop on our world tour - Korea. A country divided into two very different power structures since the end of WWII. Today South Korea is the maker of some of the world’s favorite exports – from Samsung TV’s to BTS. But 75 years ago it was a much different story. How the textile industry and a partnership with Bangladesh lifted the country out of poverty and paved the way for rapid econom…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5936481"
+    },
+    {
+     "id": "planetmoney:7408d7f6-3eab-4ebd-b88d-ccb2f6327204",
+     "title": "You bet your life insurance",
+     "date": "2026-08-14",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/e643843c-4f2c-43dc-89fc-64f70e7ff656/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=e643843c-4f2c-43dc-89fc-64f70e7ff656&feed=hvWWWzRv&t=podcast&e=nx-s1-5885879&p=510289&d=2323&size=37172958",
+     "dur": 2323,
+     "link": "https://www.npr.org/2026/08/14/nx-s1-5885879/life-insurance-settlements",
+     "desc": "Some of the biggest firms on Wall Street are, at this very moment, waiting for thousands of strangers to die to reap their returns. Because there’s a market for life insurance policies. And it’s legal. You don’t have to actually die to get some of your life insurance money. Thanks to a secondary market for life insurance policies, you might be able to claw back money from beyond the grave. You jus…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5885879"
+    },
+    {
+     "id": "planetmoney:2e6155cd-e5f7-4427-acfc-c8b0e0848efc",
+     "title": "Currency Chaos in Argentina (Summer School)",
+     "date": "2026-08-12",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/56fdff88-e280-4b8b-b5f6-1425b10e6027/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=56fdff88-e280-4b8b-b5f6-1425b10e6027&feed=hvWWWzRv&t=podcast&e=nx-s1-5914841&p=510289&d=2364&size=37828319",
+     "dur": 2364,
+     "link": "https://www.npr.org/2026/08/12/nx-s1-5914841/summer-school-argentina-inflation-currency-volatility",
+     "desc": "Just about everyone in Argentina is an expert in inflation and whether they like it or not, economic flexibility. Can we learn from them? Over the years, we at Planet Money have checked in on Argentina as it tried to recover from economic collapse in 2001 and 2002, and as inflation shot up and the country defaulted on its debts. This week on our Summer School World Tour, we fly to Buenos Aires, ma…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-5914841"
+    }
+   ]
+  },
+  "ted": {
+   "name": "TED Talks Daily",
+   "items": [
+    {
+     "id": "ted:6aff1debc1a867006b449928",
+     "title": "A letter to the end of time | Lau Noah",
+     "date": "2026-11-19",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aff1debc1a867006b449928/media.mp3",
+     "dur": 1184,
+     "link": "https://go.ted.com/launoah",
+     "desc": "You’ve likely never met composer Lau Noah, but she has a wish for you: that someday you’ll look back on your life and feel at peace. In a soulful performance that’s part concert, part story hour, she weaves together songs and short fables that celebrate love, friendship and the natural world. Hosted on Acast. See acast.com/privacy for more information.",
+     "skip": true,
+     "transcript": "https://www.ted.com/talks/lau_noah_a_letter_to_the_end_of_time/transcript"
+    },
+    {
+     "id": "ted:6afc7f5d22c8b5ded545df81",
+     "title": "The “godfather of AI” on the risks that worry him most | Geoffrey Hinton",
+     "date": "2026-11-18",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6afc7f5d22c8b5ded545df81/media.mp3",
+     "dur": 1759,
+     "link": "https://go.ted.com/GeoffreyHinton",
+     "desc": "Geoffrey Hinton helped create the neural networks behind today’s AI, won a Nobel Prize for it — and has spent the years since warning about where it’s headed. In conversation with journalist Nicholas Thompson, Hinton shares the AI risks he’s worried about, sketches out a best-case future for the technology and explores whether or not chatbots have subjective experience. Plus: hear his thoughts on …",
+     "transcript": null
+    },
+    {
+     "id": "ted:6afb5767f1fb73f380bc6633",
+     "title": "My search for proof aliens exist | Avi Loeb (re-release)",
+     "date": "2026-11-17",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6afb5767f1fb73f380bc6633/media.mp3",
+     "dur": 1293,
+     "link": "https://go.ted.com/AviLoeb",
+     "desc": "Why have we not yet found proof of alien life? According to astrophysicist Avi Loeb, we simply haven't dedicated the proper resources. Diving into unidentified phenomena such as the Oumuamua asteroid, he explores his scientific search for extraterrestrial technology, envisioning a future where a higher interstellar intelligence helps us improve life here on Earth. Hosted on Acast. See acast.com/pr…",
+     "transcript": null
+    },
+    {
+     "id": "ted:6af7358772c084b0516a29b5",
+     "title": "What you hear when you stop talking | John Lloyd",
+     "date": "2026-11-16",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af7358772c084b0516a29b5/media.mp3",
+     "dur": 765,
+     "link": "https://go.ted.com/JohnLloyd",
+     "desc": "Scientists have estimated how many colors we can see and how many scents we can smell … but director John Lloyd can’t find anyone who has counted how many sounds we can hear. Drawing on a legendary career in radio, film and TV, he makes a funny case for paying closer attention to sound — and for listening more than you talk. (Plus: find out why almost every frog noise you hear in movies sounds the…",
+     "transcript": null
+    },
+    {
+     "id": "ted:6aee1ada1ad1a30ae5d0bb39",
+     "title": "Sunday Pick: How to challenge your self-limiting beliefs with Shawn Achor | from ReThinking with Adam Grant",
+     "date": "2026-11-15",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aee1ada1ad1a30ae5d0bb39/media.mp3",
+     "dur": 2447,
+     "link": "https://audiocollective.ted.com/",
+     "desc": "Your beliefs about yourself and the world have a big impact on your mental health, relationships, and success. As a positive psychology evangelist, Shawn Achor has spent his career studying how to challenge and change the core beliefs that might be holding you back, and shares his insights in his new book, The Power of Beliefs . In this episode, Shawn and Adam dive into the surprising connections …",
+     "skip": true,
+     "transcript": null
+    },
+    {
+     "id": "ted:6af5f8aa43d8776fbbb21b36",
+     "title": "The digital detectives preserving the truth of war | Hadi Al Khatib",
+     "date": "2026-11-14",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5f8aa43d8776fbbb21b36/media.mp3",
+     "dur": 2548,
+     "link": "https://go.ted.com/hadialkhatib",
+     "desc": "A lot of today’s war footage is shot on phones and posted to platforms that were never meant to permanently store it. Digital archivist and TED Fellow Hadi Al Khatib founded Mnemonic to save these photos and videos before they vanish. Learn how his team is turning people’s social media posts into evidence of crimes that holds up in court — and building an archive that ensures the truth outlasts th…",
+     "transcript": "https://www.ted.com/talks/hadi_al_khatib_the_digital_detectives_preserving_the_truth_of_war/transcript"
+    },
+    {
+     "id": "ted:6af5f82c43d8776fbbb21b35",
+     "title": "Could this ancient Greek idea make us better citizens? | Scott Reich",
+     "date": "2026-11-13",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5f82c43d8776fbbb21b35/media.mp3",
+     "dur": 729,
+     "link": "https://go.ted.com/ScottReich",
+     "desc": "More than 2,000 years ago in ancient Athens, young citizens were required to complete “ephebeia,” a two-year civic service program that taught them the laws of the city and how to defend their democracy. Author and historian Scott Reich believes this practice reflects something crucial we often forget: citizens aren’t born — they’re trained. In a hopeful talk, he shares his plan to bring a modern …",
+     "transcript": null
+    },
+    {
+     "id": "ted:6af5e8e843d8776fbbb21b34",
+     "title": "How we’ll actually ditch fossil fuels — by the numbers | Michael Liebreich",
+     "date": "2026-11-12",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5e8e843d8776fbbb21b34/media.mp3",
+     "dur": 875,
+     "link": "https://go.ted.com/michaelliebreich",
+     "desc": "Have you heard the clean energy transition is failing? Energy analyst Michael Liebreich says to look again. Using a four-line spreadsheet model of the global energy system, he shows why fossil fuels will inevitably get squeezed out over time — with no bans required. The shift is well underway, he explains: it just looks different than many of us expected. Hosted on Acast. See acast.com/privacy for…",
+     "transcript": "https://www.ted.com/talks/michael_liebreich_how_we_ll_actually_ditch_fossil_fuels_by_the_numbers/transcript"
+    },
+    {
+     "id": "ted:6af38974ac84158342c9ed3d",
+     "title": "How to repair harm — in relationships and nations | Aria Florant",
+     "date": "2026-11-11",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af38974ac84158342c9ed3d/media.mp3",
+     "dur": 1041,
+     "link": "https://go.ted.com/ariaflorant",
+     "desc": "Aria Florant cofounded a nonprofit to help accelerate the reparations movement in the US … but less than a year in, her partnership with her own cofounder fell apart. Drawing on what brought the two of them back together — plus lessons from South Africa, Germany and Colombia — she lays out a four-step process for repairing harm between two people or across an entire nation. Most people think repar…",
+     "transcript": "https://www.ted.com/talks/aria_florant_how_to_repair_harm_in_relationships_and_nations/transcript"
+    },
+    {
+     "id": "ted:6af23934e1219d878fcb3b47",
+     "title": "Your phone is disgusting. Here's how to clean it | Lotti Tajouri",
+     "date": "2026-11-10",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af23934e1219d878fcb3b47/media.mp3",
+     "dur": 1031,
+     "link": "https://go.ted.com/lottitajouri",
+     "desc": "What’s dirtier: your phone or your hands? Molecular biologist Lotti Tajouri says there’s a gaping hole in our hygiene routine. We scrub our hands clean, then reach right for the phone — a warm, humid and mobile home for bacteria and viruses. He explores the unnervingly vibrant microbial world living on your phone and shows how you can keep this “third hand” clean. Hosted on Acast. See acast.com/pr…",
+     "transcript": "https://www.ted.com/talks/lotti_tajouri_your_phone_is_disgusting_here_s_how_to_clean_it/transcript"
+    },
+    {
+     "id": "ted:6af1eb82e0d89bd85412a56b",
+     "title": "How to rewire your brain — and find your flow | Heather Berlin",
+     "date": "2026-11-09",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af1eb82e0d89bd85412a56b/media.mp3",
+     "dur": 1000,
+     "link": "https://go.ted.com/heatherberlin",
+     "desc": "When life gets uncertain, do you grip a little tighter? Neuroscientist Heather Berlin explores a surprising paradox: the harder you try to control everything, the more likely you are to get in your own way. Drawing on brain research and her own struggles with uncertainty, she shares practical ways to let go and make room for creativity, calm and flow. Hosted on Acast. See acast.com/privacy for mor…",
+     "transcript": "https://www.ted.com/talks/heather_berlin_how_to_rewire_your_brain_and_find_your_flow/transcript"
+    },
+    {
+     "id": "ted:6aee46b760a59de70fef4385",
+     "title": "Sunday Pick: The science on improving your brain health with Dr. Ayesha and Dean Sherzai",
+     "date": "2026-11-08",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aee46b760a59de70fef4385/media.mp3",
+     "dur": 2052,
+     "link": "https://audiocollective.ted.com/",
+     "desc": "When does normal aging end and something more concerning begins? In this episode Shoshana invites neurologist Drs. Ayesha and Dean Sherzai to discuss their studies on Alzheimer’s and Dementia. They debunk myths around Alzheimer, discuss what a brain-healthy way of eating looks like, and share why good sleep hygiene is more crucial for brain health than you think Learn more about TED Health at http…",
+     "skip": true,
+     "transcript": null
+    },
+    {
+     "id": "ted:6aece3957cfe82faa47eb757",
+     "title": "How to build the next wave of clean energy | Jennifer Granholm, Ryan Panchadsaram",
+     "date": "2026-11-07",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aece3957cfe82faa47eb757/media.mp3",
+     "dur": 1152,
+     "link": "https://go.ted.com/jennifergranholm",
+     "desc": "Jennifer Granholm steered Michigan through the auto industry's near-collapse and later ran the US Department of Energy during the largest clean energy investment in the country's history. In conversation with climate investor Ryan Panchadsaram, she explains why the next chapter of clean energy is all about construction — and why local communities have more power than they may think. Hosted on Acas…",
+     "transcript": "https://www.ted.com/talks/jennifer_granholm_ryan_panchadsaram_how_to_build_the_next_wave_of_clean_energy/transcript"
+    },
+    {
+     "id": "ted:6aedf666225208a74da728d2",
+     "title": "The surprising beauty of mosquitos | Felix Hol",
+     "date": "2026-11-06",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aedf666225208a74da728d2/media.mp3",
+     "dur": 1908,
+     "link": "https://go.ted.com/felixhol",
+     "desc": "Most people hate mosquitoes, but biotechnologist and TED Fellow Felix Hol thinks they're beautiful. He takes us inside his lab, where his team developed some unusual ways to study how these blood-sucking insects find us and feed so fast. He also explains why insecticides may send certain mosquitoes into overdrive — and how we can find smarter ways to curb the diseases they spread. (Following his s…",
+     "transcript": "https://www.ted.com/talks/felix_hol_the_surprising_beauty_of_mosquitos/transcript"
+    },
+    {
+     "id": "ted:6aeb94a69f528791af8c1bc2",
+     "title": "Why great art requires risk | Alex Van Halen, David Lee Roth, Robert Vargas",
+     "date": "2026-11-05",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aeb94a69f528791af8c1bc2/media.mp3",
+     "dur": 1032,
+     "link": "https://go.ted.com/alexdavidrobert",
+     "desc": "Alex Van Halen and David Lee Roth — two of the rock stars behind the legendary band Van Halen — sit down with visual artist Robert Vargas to reveal the two-step recipe for great art: do your homework, then break every rule. Along the way, they swap stories about heartbreak, good luck charms and why you should rehearse for what goes wrong. Hosted on Acast. See acast.com/privacy for more information…",
+     "transcript": "https://www.ted.com/talks/alex_van_halen_david_lee_roth_robert_vargas_why_great_art_requires_risk/transcript"
+    },
+    {
+     "id": "ted:6ae8b9dc008b613dfe44544b",
+     "title": "5 ideas for better government in the US | Jeff Maurer",
+     "date": "2026-11-04",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae8b9dc008b613dfe44544b/media.mp3",
+     "dur": 974,
+     "link": "https://go.ted.com/jeffmaurer",
+     "desc": "Should the US Constitution protect your DNA? Your voice? Your data? Entrepreneur Jeff Maurer spent his youth fighting fires alongside World War II veterans, and he thinks the spirit that united them can power America's next 250 years. He proposes five new amendments to the US Constitution — from protecting privacy to holding politicians accountable — and shares what it would take to get them passe…",
+     "transcript": "https://www.ted.com/talks/jeff_maurer_5_ideas_for_better_government_in_the_us/transcript"
+    },
+    {
+     "id": "ted:6ae8b9cd008b613dfe44544a",
+     "title": "What kids wish their parents knew about fun | Mila Rojas",
+     "date": "2026-11-03",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae8b9cd008b613dfe44544a/media.mp3",
+     "dur": 514,
+     "link": "https://go.ted.com/milarojas",
+     "desc": "When was the last time you played, just for fun? Eleven-year-old Mila Rojas has noticed that adults — buried under schedules, expectations and the pressure to be serious — often see play as unproductive. In this delightful talk, she shows why having fun is key for families to connect and shares some simple ways to bring more joy into everyday life. Hosted on Acast. See acast.com/privacy for more i…",
+     "transcript": "https://www.ted.com/talks/mila_rojas_what_kids_wish_their_parents_knew_about_fun/transcript"
+    },
+    {
+     "id": "ted:6ae258f70a9b7b8b95b17566",
+     "title": "The couples therapists who nearly got divorced | Harville Hendrix",
+     "date": "2026-11-02",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae258f70a9b7b8b95b17566/media.mp3",
+     "dur": 1022,
+     "link": "https://go.ted.com/harvillehendrix",
+     "desc": "Couples therapists Harville Hendrix and Helen LaKelly Hunt spent decades teaching the world how to love well … even as their own marriage was falling apart. In this candid, funny talk, Hendrix recounts the yearlong experiment in listening that saved their relationship — and shows how any couple can break the cycle of criticism to rediscover joy. Hosted on Acast. See acast.com/privacy for more info…",
+     "transcript": "https://www.ted.com/talks/harville_hendrix_the_couples_therapists_who_nearly_got_divorced/transcript"
+    },
+    {
+     "id": "ted:6ae36eb4be038592d36d3fb4",
+     "title": "Sunday Pick: Do all my friends secretly hate me? | from Corner Piece",
+     "date": "2026-11-01",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae36eb4be038592d36d3fb4/media.mp3",
+     "dur": 2478,
+     "link": "https://audiocollective.ted.com/",
+     "desc": "Why does making friends as an adult feel like mission impossible? In today’s Sunday Pick, Corner Piece , host Melissa Fernandes explores what it means to be a friend while grappling with a friendship break up. Along the way, she interviews Anna Goldfarb, journalist and author of “Modern Friendship: How to Nurture Our Most Valuable Connections,” and Dr. Marisa G. Franco, professor and author of “Pl…",
+     "skip": true,
+     "transcript": null
+    },
+    {
+     "id": "ted:6ad66bf798b58b8b524628f0",
+     "title": "The haunting truth of ghost stories | Coya Paz Brownrigg (re-release)",
+     "date": "2026-10-31",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66bf798b58b8b524628f0/media.mp3",
+     "dur": 855,
+     "link": "https://audiocollective.ted.com/",
+     "desc": "Ghost stories reveal much more than the ghouls and spirits that haunt them. Settle in for a spooky delight as theater educator Coya Paz Brownrigg lays out three types of bone-chilling tales and exhumes the grave truths they hold about longing, meaning and the cultural value of eerie encounters. Hosted on Acast. See acast.com/privacy for more information.",
+     "transcript": null
+    },
+    {
+     "id": "ted:6ad66b9898b58b8b524628ef",
+     "title": "What crows teach us about death | Kaeli Swift (re-release)",
+     "date": "2026-10-31",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66b9898b58b8b524628ef/media.mp3",
+     "dur": 883,
+     "link": "https://audiocollective.ted.com/",
+     "desc": "Rituals for the dead span much of the natural world, seen in practices from humans and elephants to bees, dolphins and beyond. With charm and playful insight, animal behaviorist Kaeli Swift delves into the life (and death) habits of crows and shares what their responses could reveal about our own relationship to mortality. Hosted on Acast. See acast.com/privacy for more information.",
+     "transcript": null
+    },
+    {
+     "id": "ted:6ad66ac598b58b8b524628ee",
+     "title": "The razor-thin line between contagion and connection | Dan Taberski (re-release)",
+     "date": "2026-10-31",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66ac598b58b8b524628ee/media.mp3",
+     "dur": 918,
+     "link": "https://go.ted.com/dantaberski",
+     "desc": "After a mysterious wave of tics and twitches swept through a small-town high school in New York, documentary podcaster Dan Taberski set out to investigate what was really happening. Drawing on extensive research and intimate interviews with the people involved, he explores the roots of mass hysteria — and what it reveals about the line between illness and belonging. What happens when the very thin…",
+     "transcript": "https://www.ted.com/talks/dan_taberski_the_razor_thin_line_between_contagion_and_connection/transcript"
+    },
+    {
+     "id": "ted:6ad669e798b58b8b524628ed",
+     "title": "The fascinating physics of insect pee | Saad Bhamla (re-release)",
+     "date": "2026-10-31",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad669e798b58b8b524628ed/media.mp3",
+     "dur": 646,
+     "link": "https://audiocollective.ted.com/",
+     "desc": "Scientist Saad Bhamla is on a mission to answer a question most people don't think to ask: How do insects pee? Taking inspiration from the incredible \"butt flickers\" of the glassy-winged sharpshooter, Bhamla presents a fascinating study of the physics behind how bugs take care of business and invites us to be more curious about the seemingly mundane. Hosted on Acast. See acast.com/privacy for more…",
+     "transcript": null
+    },
+    {
+     "id": "ted:6ad667bb98b58b8b524628ec",
+     "title": "Zombie roaches and other parasite tales | Ed Yong (re-release)",
+     "date": "2026-10-31",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad667bb98b58b8b524628ec/media.mp3",
+     "dur": 947,
+     "link": "https://audiocollective.ted.com/",
+     "desc": "In this fascinating, hilarious and ever-so-slightly creepy talk, science writer Ed Yong tells the story of his favorite parasites -- animals and organisms that live on the bodies (and brains!) of other organisms, causing them to do their bidding. Do humans have them too? Maybe ... Hosted on Acast. See acast.com/privacy for more information.",
+     "transcript": null
+    },
+    {
+     "id": "ted:6ae36e30e9e95f232bb6df41",
+     "title": "How to make friends (and keep them) | Sheridan Voysey",
+     "date": "2026-10-30",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae36e30e9e95f232bb6df41/media.mp3",
+     "dur": 960,
+     "link": "https://go.ted.com/sheridanvoysey",
+     "desc": "Who could you call at 2am when everything’s gone wrong? Friendship expert Sheridan Voysey believes we’re in a friendship recession, with many of us forgetting how to foster meaningful relationships. He explores three hidden barriers keeping us apart, why it feels harder to make friends as an adult — and how to nurture the deep connections that sustain us. Hosted on Acast. See acast.com/privacy for…",
+     "transcript": "https://www.ted.com/talks/sheridan_voysey_how_to_make_friends_and_keep_them/transcript"
+    },
+    {
+     "id": "ted:6ae35ff72ce0a6edbe8a84d3",
+     "title": "How fossil fuel companies keep your energy costs high | Jon Powers",
+     "date": "2026-10-29",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae35ff72ce0a6edbe8a84d3/media.mp3",
+     "dur": 727,
+     "link": "https://go.ted.com/jonpowers",
+     "desc": "Solar energy and storage are the fastest, cheapest ways to add electricity to the grid. So why are small towns across the US pausing or banning these projects? Clean energy entrepreneur Jon Powers shows how fossil fuel companies are waging disinformation campaigns at the local level — and calls for a rapid-response team that sends trusted messengers (like firefighters and farmers) to get communiti…",
+     "transcript": "https://www.ted.com/talks/jon_powers_how_fossil_fuel_companies_keep_your_energy_costs_high/transcript"
+    },
+    {
+     "id": "ted:6adb8f7a52428fc30bf6f9ca",
+     "title": "How people are using AI to grieve, love and connect | Jennifer Cearns",
+     "date": "2026-10-28",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb8f7a52428fc30bf6f9ca/media.mp3",
+     "dur": 1020,
+     "link": "https://go.ted.com/jennifercearns",
+     "desc": "Many people fear AI is eroding our humanity, replacing real relationships with synthetic ones that leave us lonelier than ever. Digital anthropologist Jennifer Cearns believes the opposite may be true. After talking to hundreds of people who turn to AI for grief, love, friendship and more, she pokes holes in this familiar fear — and hints at what these strange new relationships can teach us about …",
+     "transcript": "https://www.ted.com/talks/jennifer_cearns_how_people_are_using_ai_to_grieve_love_and_connect/transcript"
+    },
+    {
+     "id": "ted:6adf721fa8783bd475575090",
+     "title": "How video games can power up your parenting | Hannah Boquet (re-release)",
+     "date": "2026-10-27",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adf721fa8783bd475575090/media.mp3",
+     "dur": 1020,
+     "link": "https://go.ted.com/hannahbouquet",
+     "desc": "Parenting an eye-rolling teenager glued to a gaming system is not a simple feat, but what if you could turn screen time into an opportunity for connection? Hannah Boquet shares how she decided to play video games with her kids and discovered the power of esports to foster trust, communication and essential life skills. Dive deeper into how you can strengthen family bonds, support your child’s deve…",
+     "transcript": "https://www.ted.com/talks/hannah_boquet_how_video_games_can_power_up_your_parenting/transcript"
+    },
+    {
+     "id": "ted:6adf6cc9a8783bd47557508f",
+     "title": "Unions for climate action! | Payton M. Wilkins (re-release)",
+     "date": "2026-10-26",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adf6cc9a8783bd47557508f/media.mp3",
+     "dur": 724,
+     "link": "https://shows.acast.com/ttd/episodes/tid118893tid",
+     "desc": "In the long term, shutting down a coal mine means cleaner air and a healthier environment — but in the short term, it can devastate a community or family that relied on the mine's paychecks to make ends meet. Environmental justice advocate Payton M. Wilkins thinks we can protect both workers and the planet with an age-old solution: unions. He digs into the economic fallout of ditching fossil fuels…",
+     "transcript": null
+    },
+    {
+     "id": "ted:6adb86439522da114937cd6a",
+     "title": "Sunday Pick: Unlocking Your Power at Work: Kara Swisher on how to get what you want | from Fixable",
+     "date": "2026-10-25",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb86439522da114937cd6a/media.mp3",
+     "dur": 2143,
+     "link": "https://audiocollective.ted.com/",
+     "desc": "No matter where you fall on the corporate food chain, you have power at work—you just might not know how to use it. In this new series on Unlocking Your Power at Work, Anne and Frances dig into how to discover, build, and use your power, explore common power dynamics in the workplace, and learn from people who use their full power with honesty and swagger. Kara Swisher is one of the most influenti…",
+     "skip": true,
+     "transcript": null
+    },
+    {
+     "id": "ted:6adb884ac84c3697e90f7b90",
+     "title": "The pursuit of happiness requires free time | Danielle Roberts",
+     "date": "2026-10-24",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb884ac84c3697e90f7b90/media.mp3",
+     "dur": 1949,
+     "link": "https://go.ted.com/danielleroberts",
+     "desc": "Do you feel short on time? Writer and work expert Danielle Roberts would like to help you with that. In this quick talk, she makes the case that free time isn't a reward you earn but a civil right you're owed. Hosted on Acast. See acast.com/privacy for more information.",
+     "transcript": "https://www.ted.com/talks/danielle_roberts_the_pursuit_of_happiness_requires_free_time/transcript"
+    },
+    {
+     "id": "ted:6adb749627504523efb891e6",
+     "title": "Can you spot the lies in your news feed? | Laura Smythe",
+     "date": "2026-10-23",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb749627504523efb891e6/media.mp3",
+     "dur": 870,
+     "link": "https://go.ted.com/laurasmythe",
+     "desc": "Laura Smythe spent years in legacy newsrooms, and she thinks the habits journalists use to vet information should belong to all of us. Using Fyre Festival as a cautionary tale, she explains why media literacy is a vital skill in our age of deepfakes and algorithmic feeds — and describes the country that’s already found a way to start teaching it in elementary school. Hosted on Acast. See acast.com…",
+     "transcript": "https://www.ted.com/talks/laura_smythe_can_you_spot_the_lies_in_your_news_feed/transcript"
+    },
+    {
+     "id": "ted:6ada23e044592625b9151811",
+     "title": "I can't speak. Here's how I get people to listen | Jessica Irwin",
+     "date": "2026-10-22",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ada23e044592625b9151811/media.mp3",
+     "dur": 542,
+     "link": "https://go.ted.com/jessicairwin",
+     "desc": "Jessica Irwin is many things: a photographer, artist, author, performer. She also happens to be nonverbal, born with cerebral palsy that affects the muscles she needs to talk. Speaking through a device that turns her typed words into speech, she gives a sharp, funny and urgent reminder that being unable to speak has nothing to do with intelligence — and shares a few easy ways anyone can better com…",
+     "transcript": "https://www.ted.com/talks/jessica_irwin_i_can_t_speak_here_s_how_i_get_people_to_listen/transcript"
+    },
+    {
+     "id": "ted:6ad8c44bc3737ccbbdc0fece",
+     "title": "How would you design your dream city? | James Rojas",
+     "date": "2026-10-21",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad8c44bc3737ccbbdc0fece/media.mp3",
+     "dur": 898,
+     "link": "https://go.ted.com/jamesrojas",
+     "desc": "Urban planner James Rojas has led hundreds of workshops where participants creatively design their ideal communities with small objects — and he's noticed that people of every age, income and background build strikingly similar places. Through play and storytelling, he shows how we can use our childhood memories and imaginations to shape the places we live and love. Hosted on Acast. See acast.com/…",
+     "transcript": "https://www.ted.com/talks/james_rojas_how_would_you_design_your_dream_city/transcript"
+    },
+    {
+     "id": "ted:6ad77fd358c0e97ce0c32f31",
+     "title": "Why the best learners talk to themselves | Tania Lombrozo",
+     "date": "2026-10-20",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad77fd358c0e97ce0c32f31/media.mp3",
+     "dur": 1117,
+     "link": "https://go.ted.com/tanialombrozo",
+     "desc": "With more information at our fingertips than ever before, learning should be getting easier ... yet the opposite seems to be true, says cognitive scientist Tania Lombrozo. Drawing on her research into how our minds understand and reason, she explores why more information can actually make learning harder — and shares the critical skill all great learners possess. Hosted on Acast. See acast.com/pri…",
+     "transcript": "https://www.ted.com/talks/tania_lombrozo_why_the_best_learners_talk_to_themselves/transcript"
+    },
+    {
+     "id": "ted:6acfa742b3381b9dbb7c315f",
+     "title": "What if you could read the DNA of your future child? | Noor Siddiqui",
+     "date": "2026-10-19",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa742b3381b9dbb7c315f/media.mp3",
+     "dur": 929,
+     "link": "https://go.ted.com/noorsiddiqui",
+     "desc": "For all of human history, a baby's DNA was determined by chance at conception: the so-called genetic lottery. \"That era is over,\" says Noor Siddiqui, whose company builds screening tools to read the whole genome of embryos in an effort to give parents more genetic information than standard IVF. She makes the case that this kind of technology helps families understand and reduce health risks, raisi…",
+     "transcript": "https://www.ted.com/talks/noor_siddiqui_what_if_you_could_read_the_dna_of_your_future_child/transcript"
+    },
+    {
+     "id": "ted:6acf9f12b3381b9dbb7c315b",
+     "title": "Sunday Pick: How to reclaim your narrative (w/ Monica Lewinsky) | from How to Be a Better Human",
+     "date": "2026-10-18",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acf9f12b3381b9dbb7c315b/media.mp3",
+     "dur": 3270,
+     "link": "https://audiocollective.ted.com/",
+     "desc": "Monica Lewinsky is an anti-bullying activist and host of Reclaiming with Monica, a podcast that shines her guests’ unguarded conversations about how they make sense of the world. In this episode filmed in front of a live audience at TED 2026, Chris interviews Monica on how she finds healing throughout the years. They discuss the role of public shaming in an online world, the differences between ca…",
+     "skip": true,
+     "transcript": null
+    },
+    {
+     "id": "ted:6acfa6f7b3381b9dbb7c315e",
+     "title": "What people living in democracies take for granted | Leopoldo López",
+     "date": "2026-10-17",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa6f7b3381b9dbb7c315e/media.mp3",
+     "dur": 2696,
+     "link": "https://go.ted.com/leopoldolopez2026",
+     "desc": "Activist Leopoldo López learned the true value of freedom in a solitary confinement cell, when someone else decided if he would eat or see sunlight. In this searching conversation, he explains why democracy is losing ground across the globe, the state of Venezuela's transition after Maduro's capture and the 2026 earthquakes — and why he founded the World Liberty Congress to unite activists in the …",
+     "transcript": "https://www.ted.com/talks/leopoldo_lopez_what_people_living_in_democracies_take_for_granted/transcript"
+    },
+    {
+     "id": "ted:6acfa672b3381b9dbb7c315d",
+     "title": "How to look and sound confident | Cara Hale Alter",
+     "date": "2026-10-16",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa672b3381b9dbb7c315d/media.mp3",
+     "dur": 1122,
+     "link": "https://go.ted.com/carahalealter",
+     "desc": "What does confidence look like? Public speaking expert Cara Hale Alter studies how to project confidence and credibility — and she's pinpointed two key behaviors that shape how others see you. In this actionable talk, she explains how to make sure you're showing your true potential at work and beyond. Hosted on Acast. See acast.com/privacy for more information.",
+     "transcript": "https://www.ted.com/talks/cara_hale_alter_how_to_look_and_sound_confident/transcript"
+    },
+    {
+     "id": "ted:6acfa619b3381b9dbb7c315c",
+     "title": "How to stop homelessness before it starts | Jen Loving",
+     "date": "2026-10-15",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa619b3381b9dbb7c315c/media.mp3",
+     "dur": 710,
+     "link": "https://go.ted.com/jenloving",
+     "desc": "Homelessness can feel like an issue that’s too big and complicated to fix, something we've learned to walk past. Jen Loving, who leads the nonprofit Destination: Home, has spent her entire life proving that mindset is wrong. She shows why we must stop waiting until someone is pushed outside before intervening — and introduces Right at Home, a proven model helping communities across the US keep peo…",
+     "transcript": "https://www.ted.com/talks/jen_loving_how_to_stop_homelessness_before_it_starts/transcript"
+    }
+   ]
+  },
+  "inourtime": {
+   "name": "BBC In Our Time",
+   "items": [
+    {
+     "id": "inourtime:urn:bbc:podcast:m003339v",
+     "title": "Ishtar, the Mesopotamian goddess of love, sex and war",
+     "date": "2026-11-19",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0phsnsv.mp3",
+     "dur": 3173,
+     "link": "https://www.bbc.co.uk/programmes/m003339v",
+     "desc": "The Mesopotamian goddess Ishtar was transgressive and multifaceted – potentially to the point of paradox. As the goddess of love and sex, she was responsible for the fertility of life on earth. As the goddess of war, she was also incredibly bloodthirsty, vengeful, and violent. Known in Sumerian language as Inanna and Ishtar in Akkadian, this goddess was worshipped throughout Mesopotamia (modern da…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:p0phg98c",
+     "title": "Archive: Frederick Douglass",
+     "date": "2026-11-16",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0phgb8l.mp3",
+     "dur": 3184,
+     "link": "https://www.bbc.co.uk/programmes/p0phg98c",
+     "desc": "Frederick Douglass was born into slavery in Maryland in 1818 and, once he had escaped, became one of that century's most prominent abolitionists. In this archive episode, first broadcast in 2018, Melvyn Bragg and his guests discuss Douglass’ life and ideas. He was such a good orator, his opponents doubted his story, but he told it in grim detail in 1845 in his book 'Narrative of the Life of Freder…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:m0032r4c",
+     "title": "The Battle of Antietam",
+     "date": "2026-11-12",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pgmdgv.mp3",
+     "dur": 3570,
+     "link": "https://www.bbc.co.uk/programmes/m0032r4c",
+     "desc": "Misha Glenny and guests discuss The Battle of Antietam, the single deadliest day of the American Civil War. The battle took place on 17th September 1862, less than 100 miles from Washington D.C. The conflict had been going on for over a year, and there had been a string of successes by the rebel Confederate Army against Union forces. The Confederates were a group of Southern States that had secede…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:p0pfv9q9",
+     "title": "Archive: Feathered Dinosaurs",
+     "date": "2026-11-09",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pfvb88.mp3",
+     "dur": 2954,
+     "link": "https://www.bbc.co.uk/programmes/p0pfv9q9",
+     "desc": "All dinosaurs were originally thought to be related to lizards - the word 'dinosaur' was created by Richard Owen (1804-1892) from the Greek for 'terrible lizard' - but that now appears to be false. In this archive episode, first released in October 2017, Melvyn Bragg and guests discuss the development of theories about dinosaur feathers, following discoveries of fossils which show evidence of feat…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:m0032fqb",
+     "title": "Megalosaurus",
+     "date": "2026-11-05",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pfgchz.mp3",
+     "dur": 3364,
+     "link": "https://www.bbc.co.uk/programmes/m0032fqb",
+     "desc": "The first dinosaur to ever be scientifically named, almost 20 years before we even had the word ‘dinosaur’. In 1824, the geologist and priest William Buckland (1784-1856) stood before the Geological Society of London and announced something that would kickstart two centuries of dinosaur science. He’d been studying large, fossilised bones which didn’t resemble those of any living animal - and, as h…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:p0pdpszb",
+     "title": "Archive: Citizen Kane",
+     "date": "2026-11-02",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pdpv8d.mp3",
+     "dur": 3258,
+     "link": "https://www.bbc.co.uk/programmes/p0pdpszb",
+     "desc": "Orson Welles was only 25 when his film Citizen Kane was released in 1941. It is widely acclaimed as one of the greatest, if not the greatest, films yet made. Melvyn Bragg and guests discuss Welles' film, in which he plays the lead role of Charles Foster Kane, a newspaper magnate. It was his first acting role. He also directed, produced and co-wrote this story of loneliness at the heart of a megalo…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:m00325cd",
+     "title": "Casablanca",
+     "date": "2026-10-29",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pd6wc7.mp3",
+     "dur": 3216,
+     "link": "https://www.bbc.co.uk/programmes/m00325cd",
+     "desc": "Recorded at the Crossed Wires Festival in Sheffield, Misha Glenny and guests discuss Casablanca, one of the greatest films from Hollywood’s Golden Era. The film stars Humphrey Bogart and Ingrid Bergman and features the unforgettable song As Time Goes By. Casablanca opened in November 1942 when Europe had been at war for three years and the USA for one. It was among Hollywood’s first major films to…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:p0pchdrv",
+     "title": "Archive: Dark Matter, the mysterious substance in space",
+     "date": "2026-10-26",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pchg4c.mp3",
+     "dur": 2811,
+     "link": "https://www.bbc.co.uk/programmes/p0pchdrv",
+     "desc": "Dark Matter is a proposed form of matter that does not absorb, reflect or emit light. It is known to make up 27% of our universe, while the matter that makes up stars and galaxies accounts for only 5%. In this archive episode, first released in March 2015, Melvyn Bragg and his guests discuss dark matter, the mysterious and invisible substance existing throughout the Universe. In 1932 the Dutch ast…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:m0031vjw",
+     "title": "Particle Accelerators",
+     "date": "2026-10-22",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pc10qt.mp3",
+     "dur": 3154,
+     "link": "https://www.bbc.co.uk/programmes/m0031vjw",
+     "desc": "Misha Glenny and guests discuss the machines that are described as the world’s largest experiments: Particle Accelerators. A famous example of a Particle Accelerator is the Large Hadron Collider, a device which stretches for nearly 30km, deep beneath the ground in a tunnel between France and Switzerland. This enormous scale enables the particles within to be propelled to incredible speeds, reachin…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:p0pbblh6",
+     "title": "Archive: Erasmus",
+     "date": "2026-10-19",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pbbn1g.mp3",
+     "dur": 2569,
+     "link": "https://www.bbc.co.uk/programmes/p0pbblh6",
+     "desc": "One of the most celebrated thinkers of the Renaissance, Erasmus (c1466-1536) is best known for his works of classical and religious scholarship, and for his infamous theological dispute with Martin Luther (1483-1546) over free will and the Church. In this archive episode, first released in February 2012, Melvyn Bragg and guests discuss Dutch humanist scholar Desiderius Erasmus. Erasmus was widely …"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:m0031jz3",
+     "title": "Thomas More's Utopia",
+     "date": "2026-10-15",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0p9psnw.mp3",
+     "dur": 3292,
+     "link": "https://www.bbc.co.uk/programmes/m0031jz3",
+     "desc": "In 1516, the publication of one small book would coin a new word and give rise to centuries of literature, theory, and thought. In his most influential work, the lawyer and Tudor politician Thomas More (1478-1535) described a seemingly perfect – but entirely fictional – island called Utopia. In 1535, less than two decades after writing the book, More was executed for refusing to accept King Henry …"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:p0p94prv",
+     "title": "Archive: The Measurement of Time",
+     "date": "2026-10-12",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0p94wbk.mp3",
+     "dur": 2579,
+     "link": "https://www.bbc.co.uk/programmes/p0p94prv",
+     "desc": "Misha Glenny chooses the first of his archive picks - bringing back classic conversations from the In Our Time archive, every Monday. Humans have tried to calculate, regulate, and measure time for thousands of years: from systems based on tracking sunrise and sunset, to the invention of increasingly precise mechanical alarm clocks and astrolabes. In this archive episode, first released in March 20…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:p0p4mkxp",
+     "title": "Archive: Trinity",
+     "date": "2026-10-08",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0p4mlsx.mp3",
+     "dur": 2674,
+     "link": "https://www.bbc.co.uk/programmes/p0p4mkxp",
+     "desc": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His final choice is the Trinity, an episode first released in March 2014. The idea that God is a single entity, but one known in three distinct forms - Father, Son and Holy Spirit - has been a central belief for most Christians since the earliest years of the religion. The doctrine was often controve…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:p0p4m8xn",
+     "title": "Archive: Emma",
+     "date": "2026-10-01",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0p4mfb5.mp3",
+     "dur": 3017,
+     "link": "https://www.bbc.co.uk/programmes/p0p4m8xn",
+     "desc": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His ninth choice is the episode on Jane Austen’s novel Emma, first released in November 2015. Austen described her leading character as \"a heroine whom no-one but myself will much like.\" Emma is one of Austen’s most popular novels and arguably her masterpiece, a brilliantly sparkling comedy of manner…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:p0p2vv0y",
+     "title": "Archive: The War of 1812",
+     "date": "2026-09-24",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0p2vwgz.mp3",
+     "dur": 2673,
+     "link": "https://www.bbc.co.uk/programmes/p0p2vv0y",
+     "desc": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His eighth choice is The War of 1812, which was first released in January 2013. Melvyn Bragg and his guests discussed the conflict between America and the British Empire sometimes referred to as the second American War of Independence. In June 1812, President James Madison declared war on Britain, an…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:p0p2dn1j",
+     "title": "Archive: Rosalind Franklin",
+     "date": "2026-09-17",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0p2dsvk.mp3",
+     "dur": 3099,
+     "link": "https://www.bbc.co.uk/programmes/p0p2dn1j",
+     "desc": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His seventh choice is the pioneering scientist Rosalind Franklin (1920 - 1958), first released in February 2018. During her distinguished career, Franklin carried out ground-breaking research into coal and viruses but she is perhaps best remembered for her investigations in the field of DNA. In 1952 …"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:p0p1f993",
+     "title": "Archive: Plato's Republic",
+     "date": "2026-09-10",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pbrk74.mp3",
+     "dur": 3046,
+     "link": "https://www.bbc.co.uk/programmes/p0p1f993",
+     "desc": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His sixth choice is Plato's Republic, an episode first released in June 2017. Is it always better to be just than unjust? That is the central question of Plato's Republic, written in c380BC. Plato applied this question both to the individual and the city-state, considering earlier and current forms o…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:p0p8cg68",
+     "title": "In Our Time Returns for a New Series",
+     "date": "2026-09-07",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0p8cggx.mp3",
+     "dur": 121,
+     "link": "https://www.bbc.co.uk/programmes/p0p8cg68",
+     "desc": "In Our Time returns for a new series with host Misha Glenny. A world class seminar, every week. In Our Time explores the ideas, people and discoveries that have shaped our world, spanning history, philosophy, religion, science, literature, art and culture. On Thursdays, hear brand-new episodes with Misha Glenny and leading academics. On Mondays, discover Misha's Archive Picks: classic conversation…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:p0nxnf0t",
+     "title": "Archive: Empress Dowager Cixi",
+     "date": "2026-09-03",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0p1bp6f.mp3",
+     "dur": 3063,
+     "link": "https://www.bbc.co.uk/programmes/p0nxnf0t",
+     "desc": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His fifth choice, first released in May 2024, is the Empress Dowager Cixi, the woman who, for almost fifty years, was the most powerful figure in the Chinese court. Cixi (1835-1908) started out at court as one of the Emperor's many concubines, yet was the only one who gave him a son to succeed him an…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:p0nxf46w",
+     "title": "Archive: Plate Tectonics",
+     "date": "2026-08-27",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0p09f1b.mp3",
+     "dur": 2667,
+     "link": "https://www.bbc.co.uk/programmes/p0nxf46w",
+     "desc": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His fourth choice, first released in January 2008, explores how the science of plate tectonics revolutionised our understanding of the planet on which we live. America is getting further away from Europe. This is not a political statement but a geological fact. Just as the Pacific is getting smaller,…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:p0nx109x",
+     "title": "Archive: Hatshepsut",
+     "date": "2026-08-20",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0p07nv6.mp3",
+     "dur": 2878,
+     "link": "https://www.bbc.co.uk/programmes/p0nx109x",
+     "desc": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His third choice, first released in November 2014, is the Egyptian pharaoh Hatshepsut, whose name means 'foremost of noble ladies'. She ruled Egypt from about 1479 - 1458 BC and some scholars argue that she was one of the most successful and influential pharaohs. When she came to the throne, Egypt wa…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:p0nx0z4j",
+     "title": "Archive: Coffee",
+     "date": "2026-08-13",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0ny4m97.mp3",
+     "dur": 3412,
+     "link": "https://www.bbc.co.uk/programmes/p0nx0z4j",
+     "desc": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His second choice, first released in December 2019, is the history and social impact of coffee. From its origins in Ethiopia, coffea arabica spread through the Ottoman Empire before reaching Western Europe where, in the 17th century, coffee houses were becoming established. There, caffeinated custome…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:p0nwwkjc",
+     "title": "Archive: Aphra Behn",
+     "date": "2026-08-06",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0nxf51w.mp3",
+     "dur": 3131,
+     "link": "https://www.bbc.co.uk/programmes/p0nwwkjc",
+     "desc": "Widely regarded as the first professional woman writer in English literature, Aphra Behn (1640-1689) is best known for her plays and her novel Oroonoko, she's been an inspiration to countless writers across the ages. This archive episode, first released in October 2017, was selected as part of a ten-episode series by Misha Glenny. In the episode, Melvyn Bragg and guests discuss the life and times …"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:m002ybkj",
+     "title": "Seashells",
+     "date": "2026-07-30",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0nw62hn.mp3",
+     "dur": 3209,
+     "link": "https://www.bbc.co.uk/programmes/m002ybkj",
+     "desc": "Misha Glenny and guests discuss a familiar feature of our beaches: seashells, from their astonishing shapes and patterns that teach us about Earth’s oceans, to the ways that humans have treasured shells throughout history. Seashells appear in the mythologies of countless cultures across the world - think of Botticelli’s Venus emerging from a giant scallop shell, Vishnu's sacred horn panchajanya, o…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:m002y1gt",
+     "title": "Vigée Le Brun",
+     "date": "2026-07-23",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0ntls0h.mp3",
+     "dur": 3383,
+     "link": "https://www.bbc.co.uk/programmes/m002y1gt",
+     "desc": "Misha Glenny and guests discuss the French portrait painter Élisabeth Vigée Le Brun (1755 - 1842). From her teens she delighted her high society subjects in and around Paris, notably Marie Antoinette who she painted around 30 times, and she invariably found ways to show her sitters at their best. Some critics were affronted that she, a young woman, dared paint at all and, when they saw how good he…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:m002xp5l",
+     "title": "The Delian League",
+     "date": "2026-07-16",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0nsj70w.mp3",
+     "dur": 3284,
+     "link": "https://www.bbc.co.uk/programmes/m002xp5l",
+     "desc": "Misha Glenny and guests discuss the origins and evolution of an alliance which transformed the geopolitics of the classical world: the Delian League. Since the start of the 5th Century BCE, city states across Greece had been fighting a series of armed conflicts in the Greco-Persian Wars. After the defeat of a second Persian invasion in 478 BCE, a league of cities across Greece came together and fo…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:m002xgz1",
+     "title": "Machado de Assis",
+     "date": "2026-07-09",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0nqz886.mp3",
+     "dur": 3222,
+     "link": "https://www.bbc.co.uk/programmes/m002xgz1",
+     "desc": "Misha Glenny and guests discuss one of the towering figures of Brazilian and world literature, Machado de Assis (1839 - 1908). He was the descendant of slaves and built his career while slavery was still in place in Brazil (abolished 1888) and many of his characters were from the slave-owning class who were also the readers of his books. At the time, those readers were delighted to see themselves …"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:m002x5jl",
+     "title": "The Evolution of Trees",
+     "date": "2026-07-02",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0npng58.mp3",
+     "dur": 3283,
+     "link": "https://www.bbc.co.uk/programmes/m002x5jl",
+     "desc": "Misha Glenny and guests discuss the earliest evidence we have of the existence of trees and how even plants we might have on windowsills or as vegetables in gardens can and do, in the right conditions, evolve into trees. Since their emergence around 400 million years ago after low lying plants started to develop stronger stems and grow taller and more upright, trees have transformed our planet, so…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:m002wt1v",
+     "title": "The Welsh Marches",
+     "date": "2026-06-25",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0nsfns9.mp3",
+     "dur": 3128,
+     "link": "https://www.bbc.co.uk/programmes/m002wt1v",
+     "desc": "At the Hay Festival, Misha Glenny and guests discuss the impact of the Norman invasion on the people and land of Wales and across the modern border with England in what became known as The Welsh Marches, march being a term for a militarized borderland. Hay was one of the first Marcher lordships. Even before 1066, William the Conqueror knew that he would have to subdue the Welsh if he were to contr…"
+    },
+    {
+     "id": "inourtime:urn:bbc:podcast:m002wkhq",
+     "title": "The Levellers",
+     "date": "2026-06-18",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0nsbb3f.mp3",
+     "dur": 3332,
+     "link": "https://www.bbc.co.uk/programmes/m002wkhq",
+     "desc": "Misha Glenny and guests discuss the group which came to be known as the Levellers and emerged during what would become arguably one of the bloodiest and most turbulent periods of English history. After the First English Civil War, the Levellers started calling for reforms to achieve legal and social equality. They pushed for a new constitution, extended franchise, popular sovereignty, and religiou…"
+    }
+   ]
+  }
+ }
+}
