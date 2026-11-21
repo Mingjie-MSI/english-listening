@@ -1,5 +1,5 @@
 // App shell cache. Episode list: network first, cached copy when offline. Audio is never cached.
-const CACHE = "tl-shell-v1";
+const CACHE = "tl-shell-v2";
 const SHELL = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
 
 self.addEventListener("install", (e) => {

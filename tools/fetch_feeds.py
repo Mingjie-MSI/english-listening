@@ -5,6 +5,7 @@ GitHub Action every day. Only metadata and links are stored: audio is streamed
 from the publishers, transcripts are opened on the publishers' own pages.
 """
 import email.utils
+import hashlib
 import html
 import json
 import os
@@ -216,6 +217,12 @@ def main():
             failures += 1
             items = old.get("sources", {}).get(key, {}).get("items", [])
             print(f"{key}: FAILED ({e}); keeping {len(items)} old items")
+        for ep in items:                       # keep the link to an in-app transcript built earlier
+            name = hashlib.sha1(ep["id"].encode("utf-8")).hexdigest()[:16]
+            if os.path.exists(os.path.join(os.path.dirname(OUT), "tx", name + ".json")):
+                ep["tx"] = name
+            else:
+                ep.pop("tx", None)
         out["sources"][key] = {"name": cfg["name"], "items": items}
 
     os.makedirs(os.path.dirname(OUT), exist_ok=True)

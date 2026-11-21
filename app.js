@@ -59,7 +59,7 @@
   const fmt = (t) => { t = Math.max(0, Math.floor(t || 0)); const h = Math.floor(t / 3600), m = Math.floor(t % 3600 / 60), s = t % 60; return (h ? h + ":" + pad(m) : m) + ":" + pad(s); };
   const cnDate = (s) => { const d = parseYmd(s); return `${d.getMonth() + 1}月${d.getDate()}日 周${"日一二三四五六"[d.getDay()]}`; };
 
-  function blank() { return { v: 1, start: today(), phase: "auto", speed: 1, days: {}, used: {}, cont: {} }; }
+  function blank() { return { v: 1, start: today(), phase: "auto", speed: 1, days: {}, used: {}, cont: {}, known: {}, txZh: true, txFollow: true }; }
   function load() {
     try { const s = JSON.parse(localStorage.getItem(KEY)); if (s && s.v === 1) return Object.assign(blank(), s); } catch (e) {}
     return blank();
@@ -74,6 +74,7 @@
 
   let DATA = null;
   let dataError = null;
+  let EPI = {};                 // episode id -> item in DATA (to find its transcript file)
 
   // ------------------------------------------------------------------ plan logic
   const dayDone = (d) => !!(d && d.tasks.length && d.tasks.every((t) => t.done));
@@ -92,7 +93,7 @@
   function pickEp(src, ok) {
     const items = ((DATA.sources[src] || {}).items || []).filter((i) => i.audio && !i.skip && ok(i));
     if (!items.length) return null;
-    const fresh = items.find((i) => !S.used[i.id]);
+    const fresh = items.find((i) => !S.used[i.id] && i.tx) || items.find((i) => !S.used[i.id]);   // prefer ones with an in-app transcript
     if (fresh) return fresh;
     return items.slice().sort((a, b) => (S.used[a.id] < S.used[b.id] ? -1 : 1))[0];   // least recently used
   }
@@ -203,7 +204,9 @@
     t.pos = audio.currentTime;
     if (Date.now() - lastSave > 5000) { lastSave = Date.now(); save(); }
     paintPlayer();
+    syncTx();
   });
+  audio.addEventListener("seeked", syncTx);
   ["play", "pause", "ended", "durationchange", "waiting", "playing"].forEach((ev) => audio.addEventListener(ev, paintPlayer));
   audio.addEventListener("error", () => { if (active) flash("音频加载失败，请检查网络，或点「打开原页面」收听。"); });
   if ("mediaSession" in navigator) {
@@ -234,6 +237,129 @@
     });
   }
 
+  // ------------------------------------------------------------------ in-app transcript
+  // data/tx/<name>.json: { mode: "official"|"asr", s: [[startSec, en, zh, speaker?]...], w: { word: gloss } }
+  const TXC = {};               // name -> loaded transcript (or a pending promise)
+  const openTx = new Set();     // "date:ti" of open panels
+  let lastRow = null, holdScroll = 0;
+  const txOf = (t) => (t && t.ep && EPI[t.ep.id] && EPI[t.ep.id].tx) || null;
+
+  function loadTx(name) {
+    if (!TXC[name]) {
+      TXC[name] = fetch(`data/tx/${name}.json`).then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+        .then((d) => (TXC[name] = d)).catch((e) => { delete TXC[name]; throw e; });
+    }
+    return Promise.resolve(TXC[name]);
+  }
+
+  function enHtml(text, vocab) {
+    return text.split(/([A-Za-z]+(?:['’][A-Za-z]+)?)/).map((p, i) => {
+      if (i % 2 === 0) return esc(p);
+      const w = p.toLowerCase();
+      return vocab[w] && !(S.known || {})[w] ? `<mark class="v" data-w="${esc(w)}">${esc(p)}</mark>` : esc(p);
+    }).join("");
+  }
+
+  async function fillTx(panel) {
+    const [date, ti] = panel.dataset.key.split(":");
+    const t = S.days[date] && S.days[date].tasks[+ti];
+    const name = txOf(t); if (!name) return;
+    panel.classList.toggle("nozh", !S.txZh);
+    if (panel.dataset.ready === name) { syncTx(); return; }
+    panel.innerHTML = `<div class="muted txnote">正在载入原文…</div>`;
+    let d;
+    try { d = await loadTx(name); } catch (e) { panel.innerHTML = `<div class="muted txnote">原文载入失败（${esc(e.message)}），请联网后再试。</div>`; return; }
+    panel.dataset.ready = name;
+    const lo = t.kind === "ext" ? t.start || 0 : 0, hi = t.kind === "ext" && t.end ? t.end : Infinity;
+    panel.innerHTML = `<div class="txbar">
+        <label><input type="checkbox" data-act="txzh" ${S.txZh ? "checked" : ""}> 中文</label>
+        <label><input type="checkbox" data-act="txfollow" ${S.txFollow ? "checked" : ""}> 跟随播放</label>
+        <span class="muted">点句子从那里播放 · 点<mark class="v demo">黄色生词</mark>看释义</span></div>
+      ${d.mode === "asr" ? `<div class="muted txnote">这个节目没有官方原文，下面是语音识别自动生成的，个别词可能不准。</div>` : ""}
+      <div class="txbody">${d.s.map((r, i) => `<div class="s${r[0] < lo - 1 || r[0] >= hi ? " out" : ""}" data-i="${i}" data-t="${r[0]}">${r[3] ? `<div class="spk">${esc(r[3])}</div>` : ""}<div class="en">${enHtml(r[1], d.w || {})}</div>${r[2] ? `<div class="zh">${esc(r[2])}</div>` : ""}</div>`).join("")}</div>`;
+    lastRow = null;
+    const body = panel.querySelector(".txbody");
+    const hold = () => { holdScroll = Date.now() + 6000; };          // the user is scrolling: don't pull the text back for a while
+    body.addEventListener("wheel", hold, { passive: true });
+    body.addEventListener("touchmove", hold, { passive: true });
+    const first = lo ? [...body.children].find((x) => +x.dataset.t >= lo - 1) : null;
+    if (first) body.scrollTop = first.offsetTop - 8;
+    syncTx();
+  }
+
+  function toggleTx(date, ti, btn) {
+    const key = date + ":" + ti, t = S.days[date].tasks[ti];
+    const panel = document.querySelector(`.txp[data-key="${key}"]`); if (!panel) return;
+    if (openTx.has(key)) { openTx.delete(key); panel.hidden = true; btn.textContent = "📄 原文 + 中文"; return; }
+    if (t.kind === "int" && !t.steps[0]) flash("建议先不看原文盲听一遍，再打开原文对照。");
+    openTx.add(key); panel.hidden = false; btn.textContent = "📄 收起原文";
+    fillTx(panel);
+  }
+
+  function syncTx() {
+    if (!active) return;
+    const panel = document.querySelector(`.txp[data-key="${active.date}:${active.ti}"]`);
+    if (!panel || panel.hidden || !panel.dataset.ready) return;
+    const rows = panel.querySelectorAll(".s"); if (!rows.length) return;
+    const now = audio.currentTime + 0.15;
+    let a = 0, b = rows.length - 1, idx = -1;
+    while (a <= b) { const m = (a + b) >> 1; if (+rows[m].dataset.t <= now) { idx = m; a = m + 1; } else b = m - 1; }
+    const row = idx >= 0 ? rows[idx] : null;
+    if (row === lastRow) return;
+    if (lastRow) lastRow.classList.remove("cur");
+    lastRow = row;
+    if (!row) return;
+    row.classList.add("cur");
+    const pop = $("#gloss");
+    if (S.txFollow && Date.now() > holdScroll && !(pop && !pop.hidden)) {
+      const body = panel.querySelector(".txbody");
+      body.scrollTo({ top: Math.max(0, row.offsetTop - body.clientHeight / 3), behavior: "smooth" });
+    }
+  }
+
+  function seekToRow(row) {
+    const panel = row.closest(".txp"); const [date, ti] = panel.dataset.key.split(":");
+    const t = S.days[date].tasks[+ti], at = Math.max(0, +row.dataset.t - 0.2);
+    if (t.kind === "ext" && t.end && at >= t.end) { flash("这一句不在今天这部分里"); return; }
+    if (!(active && active.date === date && active.ti === +ti)) t.pos = at;     // activate() starts from t.pos
+    activate(date, +ti);
+    if (audio.readyState >= 1) audio.currentTime = at;
+    else audio.addEventListener("loadedmetadata", () => { audio.currentTime = at; }, { once: true });
+    if (audio.paused) { audio.playbackRate = S.speed || 1; audio.play().catch((e) => flash("播放失败：" + e.message)); }
+  }
+
+  function showGloss(mk) {
+    const panel = mk.closest(".txp"); if (!panel || mk.classList.contains("demo")) return;
+    const [date, ti] = panel.dataset.key.split(":"); const t = S.days[date].tasks[+ti];
+    const d = TXC[txOf(t)]; const w = mk.dataset.w, g = (d && d.w && d.w[w]) || "";
+    let pop = $("#gloss");
+    if (!pop) { pop = document.createElement("div"); pop.id = "gloss"; document.body.appendChild(pop); }
+    pop.innerHTML = `<b>${esc(w)}</b><div>${esc(g)}</div><div class="btnrow">
+      ${t.kind === "int" ? `<button data-g="note">加到笔记</button>` : ""}<button data-g="known">认识了，不再标</button><button data-g="close">关闭</button></div>`;
+    pop.hidden = false;
+    const r = mk.getBoundingClientRect(), pw = Math.min(300, window.innerWidth - 24);
+    pop.style.width = pw + "px";
+    pop.style.left = Math.max(12, Math.min(window.innerWidth - pw - 12, r.left)) + "px";
+    pop.style.top = (r.bottom + window.scrollY + 6) + "px";
+    pop.onclick = (e) => {
+      const k = e.target.dataset.g; if (!k) return;
+      if (k === "note") {
+        const line = `${w}：${g}`;
+        if (!(t.notes || "").includes(line)) t.notes = (t.notes ? t.notes.replace(/\s*$/, "") + "\n" : "") + line;
+        const ta = document.querySelector(`textarea[data-date="${date}"][data-ti="${ti}"]`); if (ta) ta.value = t.notes;
+        save(); flash("已加到笔记");
+      } else if (k === "known") {
+        S.known = S.known || {}; S.known[w] = 1; save();
+        document.querySelectorAll(`mark.v[data-w="${CSS.escape(w)}"]`).forEach((m) => m.replaceWith(document.createTextNode(m.textContent)));
+      }
+      pop.hidden = true;
+    };
+  }
+  document.addEventListener("click", (e) => {
+    const pop = $("#gloss");
+    if (pop && !pop.hidden && !pop.contains(e.target) && !e.target.closest("mark.v")) pop.hidden = true;
+  });
+
   // ------------------------------------------------------------------ rendering
   function flash(msg) {
     let el = $("#flash");
@@ -262,9 +388,13 @@
     </div>`;
   }
 
-  function linksHtml(t) {
+  function linksHtml(t, key) {
     const e = t.ep, out = [];
-    if (e.transcript) out.push(`<a href="${esc(e.transcript)}" target="_blank" rel="noopener">📄 原文</a>`);
+    if (txOf(t)) {
+      const [d, i] = key.split(":");
+      out.push(`<button class="txbtn" data-act="tx" data-date="${d}" data-ti="${i}">📄 ${openTx.has(key) ? "收起原文" : "原文 + 中文"}</button>`);
+      if (e.transcript) out.push(`<a class="muted" href="${esc(e.transcript)}" target="_blank" rel="noopener">官网原文</a>`);
+    } else if (e.transcript) out.push(`<a href="${esc(e.transcript)}" target="_blank" rel="noopener">📄 原文</a>`);
     else out.push(`<span class="muted">这个节目没有原文，专心听大意</span>`);
     if (e.link) out.push(`<a href="${esc(e.link)}" target="_blank" rel="noopener">打开原页面</a>`);
     return `<div class="links">${out.join("")}</div>`;
@@ -313,8 +443,9 @@
       <div class="src">${esc(e.srcName)}${e.date ? " · " + e.date : ""}${e.dur ? " · 全长 " + fmt(e.dur) : ""}</div>
       ${SRC[t.src] ? `<div><span class="pill">${SRC[t.src][0]}</span><span class="pill">${SRC[t.src][1]}</span></div>` : ""}
       ${e.desc ? `<p class="desc">${esc(e.desc)}</p>` : ""}
-      ${linksHtml(t)}
+      ${linksHtml(t, date + ":" + ti)}
       ${playerHtml(date, ti, t)}
+      ${txOf(t) ? `<div class="txp" data-key="${date}:${ti}" ${openTx.has(date + ":" + ti) ? "" : "hidden"}></div>` : ""}
       <ul class="steps">${steps}</ul>
       ${sliderHtml(date, ti, isInt ? "第一遍（盲听）大概听懂了多少？" : "大概听懂了多少？", t.score)}
       <div class="field"><label>${isInt ? "笔记：要点、生词、没听出来的地方和原因" : "英文概括"}</label>
@@ -357,6 +488,7 @@
       ${d.tasks.map((x, i) => cardHtml(t, i, x, true)).join("")}
       <p class="muted">提示：电脑上可用 空格 播放/暂停，← / → 后退/前进 5 秒。节目单更新于 ${DATA ? esc(DATA.updated.replace("T", " ").slice(0, 16)) + " UTC" : "—"}。</p>`;
     paintPlayer();
+    document.querySelectorAll(".txp:not([hidden])").forEach(fillTx);
   }
 
   function renderProgress() {
@@ -453,11 +585,14 @@
           <select id="phaseSel"><option value="auto">自动</option>${PHASES.map((p) => `<option value="${p.n}">${p.name}</option>`).join("")}</select></div>
         <div class="btnrow"><button id="redo">按新难度重新安排今天的任务</button></div>
         <p class="muted">只有今天还没打卡任何一项时才能重新安排。</p></div>
+      <div class="panel"><h3>生词</h3>
+        <p class="muted">原文里黄色标出的是比较少见的词。点一下看中文释义；点「认识了」以后就不再标出。已标为认识：${Object.keys(S.known || {}).length} 个。</p>
+        <div class="btnrow"><button id="clearKnown">重新标出全部生词</button></div></div>
       <div class="panel"><h3>在电脑和手机之间同步进度</h3>
         <p class="muted">进度保存在当前这台设备的浏览器里。换设备时：在旧设备「导出」，把文件发到新设备，再「导入」。</p>
         <div class="btnrow"><button id="exp">导出进度</button><button id="imp">导入进度</button><input id="impFile" type="file" accept=".json,application/json" hidden></div></div>
       <div class="panel"><h3>节目单</h3>
-        <p class="muted">更新于 ${DATA ? esc(DATA.updated.replace("T", " ").slice(0, 16)) + " UTC" : "—"}。每天自动更新。音频来自 BBC、NPR、TED 官方播客，原文链接到各自官网。</p>
+        <p class="muted">更新于 ${DATA ? esc(DATA.updated.replace("T", " ").slice(0, 16)) + " UTC" : "—"}。每天自动更新。音频来自 BBC、NPR、TED 等官方播客。App 里的原文、每句的时间、中文翻译和生词，也是每天自动生成的（中文是机器翻译，仅供参考）。</p>
         <div class="btnrow"><button id="reset">清除全部进度</button></div></div>`;
     $("#phaseSel").value = String(S.phase);
     $("#phaseSel").onchange = (e) => { S.phase = e.target.value; save(true); renderStatus(); flash("已保存。新的难度从下一次安排任务开始生效。"); };
@@ -474,6 +609,7 @@
       }
       audio.pause(); active = null; save(true); renderAll(); showTab("today");
     };
+    $("#clearKnown").onclick = () => { S.known = {}; save(true); renderAll(); flash("已恢复，全部生词会重新标出"); };
     $("#exp").onclick = () => {
       const blob = new Blob([JSON.stringify(S, null, 1)], { type: "application/json" });
       const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = `listening-progress-${today()}.json`; a.click();
@@ -511,12 +647,17 @@
   const today$ = $("#tab-today");
   today$.addEventListener("click", (e) => {
     if (e.target.classList.contains("desc")) { e.target.classList.toggle("open"); return; }
+    const mk = e.target.closest("mark.v");
+    if (mk) { showGloss(mk); return; }
+    const row = e.target.closest(".txp .s");
+    if (row) { seekToRow(row); return; }
     const b = e.target.closest("[data-act]"); if (!b || b.tagName === "INPUT" || b.tagName === "SELECT" || b.tagName === "TEXTAREA") return;
     const host = b.closest("[data-date]") || b;
     const date = host.dataset.date || b.dataset.date, ti = +(host.dataset.ti ?? b.dataset.ti);
     const t = S.days[date] && S.days[date].tasks[ti]; if (!t) return;
     const act = b.dataset.act;
     if (act === "play") toggle(date, ti);
+    else if (act === "tx") toggleTx(date, ti, b);
     else if (act === "back" || act === "fwd") { activate(date, ti); seekBy(act === "back" ? -5 : 5); }
     else if (act === "a") { activate(date, ti); t.a = audio.currentTime; if (t.b != null && t.b <= t.a) t.b = null; save(); paintPlayer(); }
     else if (act === "b") { activate(date, ti); if (t.a == null) { flash("先在起点按 A"); return; } if (audio.currentTime <= t.a) { flash("终点要在起点之后"); return; } t.b = audio.currentTime; audio.currentTime = t.a; save(); paintPlayer(); }
@@ -530,7 +671,7 @@
     } else if (act === "undo") { t.done = false; save(true); renderStatus(); renderToday(); }
   });
   today$.addEventListener("input", (e) => {
-    const el = e.target, act = el.dataset.act; if (!act) return;
+    const el = e.target, act = el.dataset.act; if (!act || act === "txzh" || act === "txfollow") return;
     const host = el.closest("[data-date]");
     const date = el.dataset.date || host.dataset.date, ti = +(el.dataset.ti ?? host.dataset.ti);
     const t = S.days[date] && S.days[date].tasks[ti]; if (!t) return;
@@ -540,6 +681,12 @@
   });
   today$.addEventListener("change", (e) => {
     const el = e.target, act = el.dataset.act;
+    if (act === "txzh" || act === "txfollow") {
+      S[act === "txzh" ? "txZh" : "txFollow"] = el.checked; save();
+      document.querySelectorAll(".txp").forEach((p) => { p.classList.toggle("nozh", !S.txZh); const c = p.querySelector(`[data-act=${act}]`); if (c) c.checked = el.checked; });
+      if (act === "txfollow" && el.checked) { lastRow = null; syncTx(); }
+      return;
+    }
     if (act === "speed") { S.speed = +el.value; audio.playbackRate = S.speed; document.querySelectorAll("select[data-act=speed]").forEach((s) => (s.value = el.value)); save(); }
     else if (act === "step") {
       const t = S.days[el.dataset.date].tasks[+el.dataset.ti]; t.steps[+el.dataset.si] = el.checked; save(true);
@@ -566,6 +713,8 @@
       const r = await fetch("data/episodes.json", { cache: "no-cache" });
       if (!r.ok) throw new Error("HTTP " + r.status);
       DATA = await r.json();
+      EPI = {};
+      Object.values(DATA.sources).forEach((s) => s.items.forEach((i) => (EPI[i.id] = i)));
     } catch (e) { dataError = e.message; }
     renderAll();
   }
