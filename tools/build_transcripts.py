@@ -470,7 +470,7 @@ def main():
             retranslate(os.path.join(TX_DIR, fn))
 
     limit = int(sys.argv[1]) if len(sys.argv) > 1 else None
-    done = 0
+    done = failed = 0
     for src, ep in queue(data):
         path = os.path.join(TX_DIR, tx_name(ep["id"]) + ".json")
         if os.path.exists(path):
@@ -484,6 +484,7 @@ def main():
             if build(src, ep, path, cache):
                 done += 1
         except Exception as e:
+            failed += 1
             log("  FAILED:", repr(e))
         with open(GLOSS_CACHE, "w", encoding="utf-8") as f:
             json.dump(cache, f, ensure_ascii=False, indent=0, sort_keys=True)
@@ -506,6 +507,8 @@ def main():
     with open(EPISODES, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
     log(f"done: {done} new, {len(used)} episodes with transcripts")
+    if failed and not done:
+        sys.exit("every episode failed, see FAILED lines above")      # shows up as a warning on the Actions page
 
 
 if __name__ == "__main__":
