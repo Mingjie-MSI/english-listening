@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T07:17:55Z",
+ "updated": "2026-11-21T01:38:26Z",
  "sources": {
   "bbc6": {
    "name": "BBC 6 Minute English",
@@ -410,6 +410,16 @@
    "name": "NPR Short Wave",
    "items": [
     {
+     "id": "shortwave:418e65da-a190-4639-8188-62907ff41159",
+     "title": "This gas station drug acts like opioids. It’s getting harder to buy",
+     "date": "2026-11-20",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/0ed0c538-f450-4a92-9098-3795550ed618/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=0ed0c538-f450-4a92-9098-3795550ed618&feed=F0qJcgXZ&t=podcast&e=nx-s1-6045648&p=510351&d=854&size=13669817",
+     "dur": 854,
+     "link": "https://www.npr.org/2026/11/20/nx-s1-6045648/kratom-opioid-addiction-7-oh",
+     "desc": "Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org . See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences. NPR Privacy Policy",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6045648"
+    },
+    {
      "id": "shortwave:d45ca6a9-2a9b-4364-9269-649b1b515894",
      "title": "How a viral video gave a huge boost to new gene therapy",
      "date": "2026-11-18",
@@ -798,22 +808,22 @@
      "link": "https://www.npr.org/2026/09/14/nx-s1-5818478/health-body-medicine-doctor-fat-race",
      "desc": "BMI is a quick, cheap way for doctors to estimate body fat and screen for conditions like heart disease and diabetes. But medicine has long known that BMI is problematic and unnuanced. By using it, groups of people have fallen through the cracks and conditions have been caught late. So, some doctors want to add nuance – to consider race when using BMI. But using race in medicine comes with its own…",
      "transcript": "https://www.npr.org/transcripts/nx-s1-5818478"
-    },
-    {
-     "id": "shortwave:9ad5fd17-7ac6-49a4-8312-4a3e989d1e3b",
-     "title": "How scientists discovered that animals are doctors, too",
-     "date": "2026-09-11",
-     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f34f7f77-05f1-40a6-b682-7fbecfc5a522/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f34f7f77-05f1-40a6-b682-7fbecfc5a522&feed=F0qJcgXZ&t=podcast&e=nx-s1-5935588&p=510351&d=804&size=12877784",
-     "dur": 804,
-     "link": "https://www.npr.org/2026/09/11/nx-s1-5935588/medical-animal-doctor-science-bug",
-     "desc": "When people are sick, we seek out medications and treatments to help heal. For a long time, scientists thought that was a uniquely human ability. But it turns out, many other animals do a version of it too! And since the late 1980s, western researchers have been trying to get a peek behind the curtain. And aside from just cataloguing all the cool examples just to know, there’s a real hope that stu…",
-     "transcript": "https://www.npr.org/transcripts/nx-s1-5935588"
     }
    ]
   },
   "planetmoney": {
    "name": "NPR Planet Money",
    "items": [
+    {
+     "id": "planetmoney:1fc9b921-fb6f-4af6-88fa-a8bc420fd5fc",
+     "title": "You Can Seize Everything (The U.S. is reviving pirate law)",
+     "date": "2026-11-20",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527",
+     "dur": 1475,
+     "link": "https://www.npr.org/2026/11/20/nx-s1-6049085/iran-oil-tanker-prize-law-court",
+     "desc": "The U.S. is working on bringing back the ancient maritime practice of prize law — which allowed for privateers, or more recently, navies, to seize enemy-linked ships, and quickly sell them off. Why? Well, the U.S. has been seizing lots of big boats — oil tankers linked to Iran and Venezuela — in what the Pentagon calls an effort to disrupt ‘illicit networks.’ But after they seize the big boats, th…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6049085"
+    },
     {
      "id": "planetmoney:74bdb425-023b-4ef5-b70d-e3405c832b87",
      "title": "Two ways big bets on data centers might affect you (Two Indicators)",
@@ -1103,22 +1113,22 @@
      "link": "https://www.npr.org/2026/08/14/nx-s1-5885879/life-insurance-settlements",
      "desc": "Some of the biggest firms on Wall Street are, at this very moment, waiting for thousands of strangers to die to reap their returns. Because there’s a market for life insurance policies. And it’s legal. You don’t have to actually die to get some of your life insurance money. Thanks to a secondary market for life insurance policies, you might be able to claw back money from beyond the grave. You jus…",
      "transcript": "https://www.npr.org/transcripts/nx-s1-5885879"
-    },
-    {
-     "id": "planetmoney:2e6155cd-e5f7-4427-acfc-c8b0e0848efc",
-     "title": "Currency Chaos in Argentina (Summer School)",
-     "date": "2026-08-12",
-     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/56fdff88-e280-4b8b-b5f6-1425b10e6027/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=56fdff88-e280-4b8b-b5f6-1425b10e6027&feed=hvWWWzRv&t=podcast&e=nx-s1-5914841&p=510289&d=2364&size=37828319",
-     "dur": 2364,
-     "link": "https://www.npr.org/2026/08/12/nx-s1-5914841/summer-school-argentina-inflation-currency-volatility",
-     "desc": "Just about everyone in Argentina is an expert in inflation and whether they like it or not, economic flexibility. Can we learn from them? Over the years, we at Planet Money have checked in on Argentina as it tried to recover from economic collapse in 2001 and 2002, and as inflation shot up and the country defaulted on its debts. This week on our Summer School World Tour, we fly to Buenos Aires, ma…",
-     "transcript": "https://www.npr.org/transcripts/nx-s1-5914841"
     }
    ]
   },
   "ted": {
    "name": "TED Talks Daily",
    "items": [
+    {
+     "id": "ted:6afdeb0309ab149ef043dc8e",
+     "title": "Who should profit when AI comes to town? |  Brian Janous",
+     "date": "2026-11-20",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6afdeb0309ab149ef043dc8e/media.mp3",
+     "dur": 837,
+     "link": "https://go.ted.com/BrianJanous",
+     "desc": "AI data centers are popping up across the US — and the people living next to them are increasingly upset. Brian Janous, whose company finds land for some of the biggest data centers, hears those objections firsthand. He proposes a solution that would change who benefits from the AI boom, putting a bigger share of the wealth directly into the hands of local communities. Hosted on Acast. See acast.c…",
+     "transcript": null
+    },
     {
      "id": "ted:6aff1debc1a867006b449928",
      "title": "A letter to the end of time | Lau Noah",
@@ -1514,16 +1524,6 @@
      "link": "https://go.ted.com/carahalealter",
      "desc": "What does confidence look like? Public speaking expert Cara Hale Alter studies how to project confidence and credibility — and she's pinpointed two key behaviors that shape how others see you. In this actionable talk, she explains how to make sure you're showing your true potential at work and beyond. Hosted on Acast. See acast.com/privacy for more information.",
      "transcript": "https://www.ted.com/talks/cara_hale_alter_how_to_look_and_sound_confident/transcript"
-    },
-    {
-     "id": "ted:6acfa619b3381b9dbb7c315c",
-     "title": "How to stop homelessness before it starts | Jen Loving",
-     "date": "2026-10-15",
-     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa619b3381b9dbb7c315c/media.mp3",
-     "dur": 710,
-     "link": "https://go.ted.com/jenloving",
-     "desc": "Homelessness can feel like an issue that’s too big and complicated to fix, something we've learned to walk past. Jen Loving, who leads the nonprofit Destination: Home, has spent her entire life proving that mindset is wrong. She shows why we must stop waiting until someone is pushed outside before intervening — and introduces Right at Home, a proven model helping communities across the US keep peo…",
-     "transcript": "https://www.ted.com/talks/jen_loving_how_to_stop_homelessness_before_it_starts/transcript"
     }
    ]
   },
@@ -2576,13 +2576,22 @@
    "name": "BBC The Archers",
    "items": [
     {
+     "id": "archers:urn:bbc:podcast:m0034c6b",
+     "title": "The Archers · 20/11/2026",
+     "date": "2026-11-20",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pn7rw0.mp3",
+     "dur": 787,
+     "link": "https://www.bbc.co.uk/programmes/m0034c6b",
+     "desc": "Writer: Liz John Director: Pip Swallow Editor: Jeremy Howe Josh Archer … Sam Wilkinson Pip Archer … Daisy Badger Ruth Archer … Felicity Finch Natasha Archer … Mali Harries Harrison Burns … James Cartwright Neil Carter … Brian Hewlett Vince Casey … Tony Turner Rex Fairbrother … Nick Barber Alan Franks … John Telfer Keira Grundy … Mollie Kruczek Joy Horville … Jackie Lye Azra Malik … Yasmin Wilde De…"
+    },
+    {
      "id": "archers:urn:bbc:podcast:m00349t7",
      "title": "The Archers · 19/11/2026",
      "date": "2026-11-19",
      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pmgsh3.mp3",
      "dur": 785,
      "link": "https://www.bbc.co.uk/programmes/m00349t7",
-     "desc": "Kirsty has something to get off her chest, and Rex attempts to prevent a friend from making a mistake."
+     "desc": "Joy is writing the specials on the board in The Bull. As Joy starts to talk about Christmas, Mags says she’s not a Christmas person and doesn’t even have a tree. Rex comes in to see if they have any flyers for the art exhibition. They have none, but Joy says they’ve got a cancellation that Rex can have for Brian’s birthday. Rex says not to worry, they’ve booked a table at The Feathers. Mags and Jo…"
     },
     {
      "id": "archers:urn:bbc:podcast:m00349ss",
@@ -2925,15 +2934,6 @@
      "dur": 786,
      "link": "https://www.bbc.co.uk/programmes/m0032gpx",
      "desc": "Anna feels she should have been more present for Carol, and Alan reassures Anna, praising her ideas for Carol’s Celebration of Life. They discuss the lovely Green Burial site, service plans, and Alan’s role. Harrison shares his condolences, and Anna’s full of praise for Alan’s way with Carol. Harrison’s invited with Fallon to the ceremony at Rewilding for Carol, and he explains that he and Fallon …"
-    },
-    {
-     "id": "archers:urn:bbc:podcast:m0032gjh",
-     "title": "The Archers · 05/10/2026",
-     "date": "2026-10-05",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pblg4y.mp3",
-     "dur": 787,
-     "link": "https://www.bbc.co.uk/programmes/m0032gjh",
-     "desc": "Keira has a horrible toothache, and Clarrie manages to get her an emergency appointment. Eddie takes Keira, after a brief stop to see the baby. The health visitor confirms all’s ok - Amber’s so relieved, having had concerns about feeding, and lets Keira have a hold of the baby. Amber feels silly for being so emotional but is reassured, as the health visitor offers support with pain and comfort – a…"
     }
    ]
   },
