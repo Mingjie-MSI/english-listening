@@ -1,3 +1,4 @@
-faster-whisper>=1.0
+faster-whisper>=1.0  # speech recognition (also brings ctranslate2 and huggingface_hub, used for translation)
 av>=11,<16          # PyAV 16 removed open(metadata_errors=...), which faster-whisper still passes
+sentencepiece>=0.1.99  # tokenizer for the NLLB translation model
 wordfreq>=3.0

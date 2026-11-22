@@ -5,22 +5,24 @@ to assign, it
   1. transcribes the audio with Whisper (faster-whisper) to get the time of every word,
   2. takes the official transcript (BBC / NPR / TED) when there is one and lines its sentences up
      with those times; otherwise it uses Whisper's own text,
-  3. translates every sentence into Chinese and picks the less common words as vocabulary,
+  3. translates every sentence into Chinese (NLLB model, offline) and picks the less common words
+     as vocabulary with meanings from the ECDICT dictionary,
 then writes data/tx/<name>.json and marks the episode in data/episodes.json with "tx": <name>.
 
 Episodes already done are skipped, so each run only does the new ones (within TX_BUDGET_MIN minutes).
 Needs: pip install -r tools/requirements.txt
 """
+import csv
 import difflib
 import hashlib
 import html
 import json
 import os
 import re
+import shutil
 import sys
 import tempfile
 import time
-import urllib.parse
 import urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -30,8 +32,7 @@ from fetch_feeds import get, UA  # noqa: E402
 DATA = os.path.join(HERE, "..", "data")
 EPISODES = os.path.join(DATA, "episodes.json")
 TX_DIR = os.path.join(DATA, "tx")
-GLOSS_CACHE = os.path.join(HERE, "gloss_cache.json")
-VERSION = 1
+VERSION = 2            # 2: ad-free BBC audio, offline translation; keep TX_VERSION in fetch_feeds.py the same
 
 # Official text only needs word times from Whisper, so the small fast model is enough there;
 # shows without an official transcript display Whisper's text, so they get the more accurate one.
@@ -187,15 +188,15 @@ def asr_words(audio_url, kind):
                 if not b:
                     break
                 f.write(b)
-        segs, _ = model.transcribe(path, language="en", beam_size=BEAM, word_timestamps=True,
-                                    vad_filter=True, condition_on_previous_text=False)
+        segs, info = model.transcribe(path, language="en", beam_size=BEAM, word_timestamps=True,
+                                      vad_filter=True, condition_on_previous_text=False)
         words = []
         for s in segs:
             if time.time() - T0 > BUDGET + 300:
                 raise TimeoutError("over the time budget, stopped this episode")
             for w in s.words or []:
                 words.append((w.word, round(w.start, 2), round(w.end, 2)))
-        return words
+        return words, info.duration
     finally:
         try:
             os.remove(path)
@@ -290,49 +291,52 @@ def align(sents, words):
 
 
 # ---------------------------------------------------------------- translation + vocabulary
-GTX = "https://translate.googleapis.com/translate_a/single"
+# Both run on the GitHub runner itself: free online translators block it (run #7 got nothing back
+# and lost an hour to retries). Sentences: Meta's NLLB-200 model; words: the ECDICT dictionary.
+NLLB_REPO = os.environ.get("NLLB_REPO", "mydubber-org/nllb-200-distilled-600M-ct2-int8")
+ECDICT_URL = "https://raw.githubusercontent.com/skywind3000/ECDICT/master/ecdict.csv"
+ECDICT_PATH = os.path.join(os.path.expanduser("~"), ".cache", "ecdict", "ecdict.csv")
+_nllb = None
+_broken = set()
 
 
-def gtx(q, extra=""):
-    for attempt in range(4):
-        try:
-            data = urllib.parse.urlencode({"q": q}).encode()
-            req = urllib.request.Request(f"{GTX}?client=gtx&sl=en&tl=zh-CN&dt=t{extra}", data=data,
-                                         headers={"User-Agent": "Mozilla/5.0"})
-            with urllib.request.urlopen(req, timeout=30) as r:
-                return json.loads(r.read().decode("utf-8"))
-        except Exception as e:
-            log("  translate retry", attempt + 1, e)
-            time.sleep(2 + attempt * 4)
-    return None
+def nllb():
+    global _nllb
+    if _nllb is None:
+        import ctranslate2
+        import sentencepiece
+        from huggingface_hub import snapshot_download
+        log("  loading translation model", NLLB_REPO)
+        d = snapshot_download(NLLB_REPO)
+        sp = sentencepiece.SentencePieceProcessor(model_file=os.path.join(d, "sentencepiece.bpe.model"))
+        tr = ctranslate2.Translator(d, device="cpu", compute_type="int8", intra_threads=os.cpu_count() or 4)
+        _nllb = (sp, tr)
+    return _nllb
 
 
 def translate(lines):
-    out, batch = [], []
-
-    def flush():
-        if not batch:
-            return
-        r = gtx("\n".join(batch))
-        parts = "".join(seg[0] for seg in r[0] if seg and seg[0]).split("\n") if r else []
-        if len(parts) == len(batch):
-            out.extend(p.strip() for p in parts)
-        else:
-            for line in batch:                         # line count changed: do them one by one
-                r1 = gtx(line)
-                out.append("".join(seg[0] for seg in r1[0] if seg and seg[0]).strip() if r1 else None)
-        batch.clear()
-        time.sleep(0.5)
-
-    size = 0
-    for line in lines:
-        if batch and size + len(line) > 3500:
-            flush()
-            size = 0
-        batch.append(line.replace("\n", " "))
-        size += len(line) + 1
-    flush()
-    return out
+    """Chinese for each line; None where it failed (the next run tries those again)."""
+    if not lines or "mt" in _broken:
+        return [None] * len(lines)
+    try:
+        sp, tr = nllb()
+        t1 = time.time()
+        src = [["eng_Latn"] + sp.encode(re.sub(r"\s+", " ", s).strip(), out_type=str)[:300] + ["</s>"]
+               for s in lines]
+        res = tr.translate_batch(src, target_prefix=[["zho_Hans"]] * len(src), beam_size=2,
+                                 batch_type="tokens", max_batch_size=3000, max_decoding_length=320)
+        out = []
+        for r in res:
+            t = r.hypotheses[0]
+            if t and t[0] == "zho_Hans":
+                t = t[1:]
+            out.append(sp.decode(t).strip() or None)
+        log(f"  translated {len(lines)} sentences in {time.time() - t1:.0f}s")
+        return out
+    except Exception as e:
+        _broken.add("mt")
+        log("  translation failed:", repr(e))
+        return [None] * len(lines)
 
 
 def zipf(w):
@@ -367,36 +371,78 @@ def pick_vocab(sents, forced):
     return [w for _, w in picked[:MAX_VOCAB]]
 
 
-def gloss(words, cache):
-    out = {}
-    for w in words:
-        if w not in cache:
-            r = gtx(w, "&dt=bd")
-            g = None
-            if r:
-                main = "".join(seg[0] for seg in r[0] if seg and seg[0]).strip()
-                extra = []
-                if len(r) > 1 and r[1]:
-                    for pos in r[1][:2]:
-                        terms = [t for t in pos[1][:3] if t != main]
-                        if terms:
-                            ab = {"noun": "n.", "verb": "v.", "adjective": "adj.", "adverb": "adv."}.get(pos[0], pos[0])
-                            extra.append(f"{ab} {'、'.join(terms)}")
-                g = main + (f"（{'；'.join(extra)}）" if extra else "")
-            cache[w] = g
-            time.sleep(0.15)
-        if cache.get(w) and cache[w].lower() != w:
-            out[w] = cache[w]
-    return out
+_dict = None
+
+
+def ecdict():
+    """word -> (Chinese meanings, inflection info) from ECDICT, downloaded once and kept in the Actions cache."""
+    global _dict
+    if _dict is None:
+        _dict = {}
+        try:
+            if not os.path.exists(ECDICT_PATH):
+                log("  downloading the ECDICT dictionary")
+                os.makedirs(os.path.dirname(ECDICT_PATH), exist_ok=True)
+                req = urllib.request.Request(ECDICT_URL, headers=UA)
+                with urllib.request.urlopen(req, timeout=300) as r, open(ECDICT_PATH + ".part", "wb") as f:
+                    shutil.copyfileobj(r, f)
+                os.replace(ECDICT_PATH + ".part", ECDICT_PATH)
+            csv.field_size_limit(10 ** 7)
+            with open(ECDICT_PATH, encoding="utf-8", newline="") as f:
+                rd = csv.reader(f)
+                head = next(rd)
+                iw, it, ie = head.index("word"), head.index("translation"), head.index("exchange")
+                for row in rd:
+                    w = row[iw]
+                    if re.fullmatch(r"[a-z][a-z\-]*", w) and (row[it] or row[ie]):
+                        _dict[w] = (row[it], row[ie])
+            log(f"  dictionary: {len(_dict)} words")
+        except Exception as e:
+            log("  dictionary failed:", repr(e))
+    return _dict
+
+
+def short_meaning(t):
+    lines = [x.strip() for x in re.split(r"\\n|\n", t) if x.strip()]
+    plain = [x for x in lines if not re.match(r"^(?:[a-z]+\.\s*)*\[", x)] or lines   # "[医] ..." = specialist senses
+    out = []
+    for x in plain[:2]:
+        m = re.match(r"^((?:[a-z]+\.\s*)+)?(.*)$", x)
+        pos, rest = (m.group(1) or "").strip(), m.group(2)
+        parts = [p.strip() for p in re.split(r"[,，;；]", rest) if p.strip()][:3]
+        if parts:
+            out.append((pos + " " if pos else "") + "，".join(parts))
+    return "；".join(out)[:60]
+
+
+def gloss(word):
+    d = ecdict()
+    seen, todo = set(), [word]
+    for suf, add in (("ies", "y"), ("ied", "y"), ("es", ""), ("s", ""), ("ed", ""), ("ed", "e"), ("d", ""),
+                     ("ing", ""), ("ing", "e"), ("ly", ""), ("er", ""), ("est", "")):
+        if word.endswith(suf) and len(word) - len(suf) >= 3:
+            todo.append(word[:-len(suf)] + add)
+    while todo:
+        w = todo.pop(0)
+        if w in seen or w not in d:
+            continue
+        seen.add(w)
+        trans, exch = d[w]
+        base = dict(p.split(":", 1) for p in exch.split("/") if ":" in p).get("0")
+        if trans and not re.search(r"的(?:过去|现在|复数|比较|最高)", trans):
+            return short_meaning(trans)
+        if base:
+            todo.insert(0, base)
+    return ""
 
 
 # ---------------------------------------------------------------- per episode
-def build(src, ep, path, cache):
+def build(src, ep, path):
     lines, forced = official(src, ep)
     log("  official transcript:", f"{len(lines)} paragraphs" if lines else "none")
     kind = "align" if lines else "text"
     t1 = time.time()
-    words = asr_words(ep["audio"], kind)
+    words, audio_dur = asr_words(ep["audio"], kind)
     if ep.get("dur"):
         SPEED[kind] = max(SPEED[kind] * 0.5, (time.time() - t1) / ep["dur"])
     log(f"  whisper ({kind}): {len(words)} words in {time.time() - t1:.0f}s")
@@ -411,7 +457,11 @@ def build(src, ep, path, cache):
     if mode == "asr":
         sents = asr_sents(words)
     zh = translate([s["en"] for s in sents])
-    vocab = gloss(pick_vocab(sents, forced), cache)
+    vocab = {}
+    for w in pick_vocab(sents, forced):
+        g = gloss(w)
+        if g:
+            vocab[w] = g
     rows = []
     last_spk = None
     for s, z in zip(sents, zh):
@@ -421,7 +471,9 @@ def build(src, ep, path, cache):
             row.append(spk)
         last_spk = spk or last_spk
         rows.append(row)
-    out = {"v": VERSION, "id": ep["id"], "mode": mode, "s": rows, "w": vocab}
+    # "d": length of the audio file the timings were taken from; where the publisher inserts ads,
+    # a listener's file can be longer, and the app uses the difference as a first guess at the offset
+    out = {"v": VERSION, "id": ep["id"], "mode": mode, "d": round(audio_dur, 1), "s": rows, "w": vocab}
     if any(z is None for z in zh):
         out["needZh"] = True
     with open(path, "w", encoding="utf-8") as f:
@@ -465,44 +517,18 @@ def queue(data):
     return out
 
 
-def main():
-    with open(EPISODES, encoding="utf-8") as f:
-        data = json.load(f)
-    os.makedirs(TX_DIR, exist_ok=True)
+def is_current(path):
     try:
-        with open(GLOSS_CACHE, encoding="utf-8") as f:
-            cache = json.load(f)
+        with open(path, encoding="utf-8") as f:
+            return json.load(f).get("v", 0) >= VERSION
     except Exception:
-        cache = {}
+        return False
 
-    for fn in os.listdir(TX_DIR):
-        if fn.endswith(".json"):
-            retranslate(os.path.join(TX_DIR, fn))
 
-    limit = int(sys.argv[1]) if len(sys.argv) > 1 else None
-    done = failed = 0
-    for src, ep in queue(data):
-        path = os.path.join(TX_DIR, tx_name(ep["id"]) + ".json")
-        if os.path.exists(path):
-            continue
-        est = (ep.get("dur") or 900) * SPEED["align" if ep.get("transcript") else "text"] + 30
-        if time.time() - T0 + est > BUDGET:
-            log("time budget reached; the rest waits for the next run")
-            break
-        log(f"{src}: {ep['title']} ({(ep.get('dur') or 0) // 60} min)")
-        try:
-            if build(src, ep, path, cache):
-                done += 1
-        except Exception as e:
-            failed += 1
-            log("  FAILED:", repr(e))
-        with open(GLOSS_CACHE, "w", encoding="utf-8") as f:
-            json.dump(cache, f, ensure_ascii=False, indent=0, sort_keys=True)
-        if limit and done >= limit:
-            break
-
-    # mark episodes that have a transcript; delete files no episode refers to any more
-    have = {fn[:-5] for fn in os.listdir(TX_DIR) if fn.endswith(".json")}
+def annotate(data, prune=False):
+    """Mark episodes that have a transcript (and optionally delete files no episode refers to any more)."""
+    files = {fn[:-5] for fn in os.listdir(TX_DIR) if fn.endswith(".json")}
+    have = {n for n in files if is_current(os.path.join(TX_DIR, n + ".json"))}   # older formats get rebuilt
     used = set()
     for s in data["sources"].values():
         for ep in s["items"]:
@@ -512,11 +538,47 @@ def main():
                 used.add(n)
             else:
                 ep.pop("tx", None)
-    for n in have - used:
-        os.remove(os.path.join(TX_DIR, n + ".json"))
+    if prune:
+        for n in files - used:
+            os.remove(os.path.join(TX_DIR, n + ".json"))
     with open(EPISODES, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
-    log(f"done: {done} new, {len(used)} episodes with transcripts")
+    return len(used)
+
+
+def main():
+    with open(EPISODES, encoding="utf-8") as f:
+        data = json.load(f)
+    os.makedirs(TX_DIR, exist_ok=True)
+
+    for fn in os.listdir(TX_DIR):
+        p = os.path.join(TX_DIR, fn)
+        if fn.endswith(".json") and is_current(p):
+            retranslate(p)
+
+    limit = int(sys.argv[1]) if len(sys.argv) > 1 else None
+    done = failed = 0
+    for src, ep in queue(data):
+        path = os.path.join(TX_DIR, tx_name(ep["id"]) + ".json")
+        if is_current(path):
+            continue
+        est = (ep.get("dur") or 900) * SPEED["align" if ep.get("transcript") else "text"] + 30
+        if time.time() - T0 + est > BUDGET:
+            log("time budget reached; the rest waits for the next run")
+            break
+        log(f"{src}: {ep['title']} ({(ep.get('dur') or 0) // 60} min)")
+        try:
+            if build(src, ep, path):
+                done += 1
+                annotate(data)          # right away, in case the step is stopped for running long
+        except Exception as e:
+            failed += 1
+            log("  FAILED:", repr(e))
+        if limit and done >= limit:
+            break
+
+    n = annotate(data, prune=True)
+    log(f"done: {done} new, {n} episodes with transcripts")
     if failed and not done:
         sys.exit("every episode failed, see FAILED lines above")      # shows up as a warning on the Actions page
 

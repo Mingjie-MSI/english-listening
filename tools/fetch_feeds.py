@@ -161,6 +161,9 @@ def parse_feed(key, cfg, extra):
         audio = enc.get("url").replace("/proto/http/", "/proto/https/")
         if audio.startswith("http://"):
             audio = "https://" + audio[len("http://"):]
+        # BBC's "-rss" media sets go through an ad server that adds ads of a different length for each
+        # listener, which would put the transcript timings out; the plain media set is the same file without ads.
+        audio = re.sub(r"(/mediaset/audio-nondrm-download)-rss(?=[-/])", r"\1", audio)
         title = html.unescape(text(it, "title"))
         if key == "archers":
             title = "The Archers · " + title          # episode titles are just dates
@@ -194,6 +197,17 @@ def parse_feed(key, cfg, extra):
     return items
 
 
+TX_VERSION = 2     # same as VERSION in build_transcripts.py; older transcripts are rebuilt, not shown
+
+
+def tx_ok(path):
+    try:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f).get("v", 0) >= TX_VERSION
+    except Exception:
+        return False
+
+
 def main():
     try:
         with open(OUT, encoding="utf-8") as f:
@@ -219,7 +233,7 @@ def main():
             print(f"{key}: FAILED ({e}); keeping {len(items)} old items")
         for ep in items:                       # keep the link to an in-app transcript built earlier
             name = hashlib.sha1(ep["id"].encode("utf-8")).hexdigest()[:16]
-            if os.path.exists(os.path.join(os.path.dirname(OUT), "tx", name + ".json")):
+            if tx_ok(os.path.join(os.path.dirname(OUT), "tx", name + ".json")):
                 ep["tx"] = name
             else:
                 ep.pop("tx", None)
