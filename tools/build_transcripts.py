@@ -33,6 +33,7 @@ DATA = os.path.join(HERE, "..", "data")
 EPISODES = os.path.join(DATA, "episodes.json")
 TX_DIR = os.path.join(DATA, "tx")
 VERSION = 2            # 2: ad-free BBC audio, offline translation; keep TX_VERSION in fetch_feeds.py the same
+MT_VERSION = 2         # translation step; files with a lower "mt" are translated again (no new speech recognition)
 
 # Official text only needs word times from Whisper, so the small fast model is enough there;
 # shows without an official transcript display Whisper's text, so they get the more accurate one.
@@ -314,24 +315,80 @@ def nllb():
     return _nllb
 
 
+CJK = r"[㐀-鿿　-〿＀-￯]"
+
+
+def zh_tidy(s):
+    """NLLB writes English punctuation and spaces between Chinese characters; use Chinese punctuation."""
+    s = s.replace("⁇", " ").strip()
+    for en, zh in ((",", "，"), ("?", "？"), ("!", "！"), (":", "："), (";", "；")):
+        s = re.sub(rf"(?<={CJK})\s*{re.escape(en)}\s*|\s*{re.escape(en)}\s*(?={CJK})", zh, s)
+    s = re.sub(rf"(?<={CJK})\s*\.(?=\s|$|{CJK})\s*", "。", s)
+    s = re.sub(rf"(?<={CJK})\s+(?={CJK})", "", s)
+    return re.sub(r"\s{2,}", " ", s).strip()
+
+
+def _mt(texts):
+    """Raw NLLB output: up to 3 candidates per text, best first."""
+    sp, tr = nllb()
+    src = [["eng_Latn"] + sp.encode(re.sub(r"\s+", " ", s).strip(), out_type=str)[:300] + ["</s>"] for s in texts]
+    res = tr.translate_batch(src, target_prefix=[["zho_Hans"]] * len(src), beam_size=4, num_hypotheses=3,
+                             batch_type="tokens", max_batch_size=3000, max_decoding_length=320)
+    out = []
+    for r in res:
+        out.append([sp.decode(h[1:] if h and h[0] == "zho_Hans" else h).strip() for h in r.hypotheses])
+    return out
+
+
+def _pick(cands):
+    """First candidate without unknown characters (⁇: a character the model can't write)."""
+    return next((c for c in cands if c and "⁇" not in c), cands[0] if cands else "")
+
+
+def _short(en, zh):
+    """NLLB sometimes stops after the first clause of a long sentence."""
+    words = len(re.findall(r"[A-Za-z0-9']+", en))
+    chars = len(re.findall(r"[㐀-鿿]", zh))
+    return words >= 8 and (chars < 0.9 * words or re.search(r"[,，、]\s*$", zh))
+
+
+def _clauses(en):
+    parts = [p for p in re.split(r"(?<=[,;:—])\s+", en) if p]
+    if len(parts) == 1 and len(en.split()) >= 12:        # no commas: split before and / but / because ...
+        parts = [p for p in re.split(r"\s+(?=(?:and|but|because|so|which|while|when|where|although)\s)", en) if p]
+    out = []
+    for p in parts:                     # keep pieces of at least 4 words
+        if out and len(out[-1].split()) < 4:
+            out[-1] += " " + p
+        else:
+            out.append(p)
+    if len(out) > 1 and len(out[-1].split()) < 4:
+        last = out.pop()
+        out[-1] += " " + last
+    return out
+
+
 def translate(lines):
     """Chinese for each line; None where it failed (the next run tries those again)."""
     if not lines or "mt" in _broken:
         return [None] * len(lines)
     try:
-        sp, tr = nllb()
         t1 = time.time()
-        src = [["eng_Latn"] + sp.encode(re.sub(r"\s+", " ", s).strip(), out_type=str)[:300] + ["</s>"]
-               for s in lines]
-        res = tr.translate_batch(src, target_prefix=[["zho_Hans"]] * len(src), beam_size=2,
-                                 batch_type="tokens", max_batch_size=3000, max_decoding_length=320)
-        out = []
-        for r in res:
-            t = r.hypotheses[0]
-            if t and t[0] == "zho_Hans":
-                t = t[1:]
-            out.append(sp.decode(t).strip() or None)
-        log(f"  translated {len(lines)} sentences in {time.time() - t1:.0f}s")
+        out = [_pick(c) for c in _mt(lines)]
+        # long sentences that came back cut short: translate clause by clause and join
+        redo = [i for i, (en, zh) in enumerate(zip(lines, out)) if _short(en, zh) and len(_clauses(en)) > 1]
+        pieces = [(i, c) for i in redo for c in _clauses(lines[i])]
+        if pieces:
+            got = [_pick(c) for c in _mt([c for _, c in pieces])]
+            joined = {}
+            for (i, _), z in zip(pieces, got):
+                z = re.sub(r"[。.，,]\s*$", "", z.strip())
+                joined[i] = (joined[i] + "，" + z) if i in joined else z
+            for i, z in joined.items():
+                if len(z) > len(out[i]):
+                    out[i] = z + ("。" if re.search(r"[.!?]$", lines[i]) else "")
+        out = [zh_tidy(z) or None for z in out]
+        log(f"  translated {len(lines)} sentences ({len(redo)} redone by clause) in {time.time() - t1:.0f}s")
         return out
     except Exception as e:
         _broken.add("mt")
@@ -407,6 +464,7 @@ def short_meaning(t):
     plain = [x for x in lines if not re.match(r"^(?:[a-z]+\.\s*)*\[", x)] or lines   # "[医] ..." = specialist senses
     out = []
     for x in plain[:2]:
+        x = re.sub(r"\[[^\]]{1,6}\]\s*|■", "", x)                    # "[医]" / "[网络]" tags, broken characters
         m = re.match(r"^((?:[a-z]+\.\s*)+)?(.*)$", x)
         pos, rest = (m.group(1) or "").strip(), m.group(2)
         parts = [p.strip() for p in re.split(r"[,，;；]", rest) if p.strip()][:3]
@@ -473,7 +531,7 @@ def build(src, ep, path):
         rows.append(row)
     # "d": length of the audio file the timings were taken from; where the publisher inserts ads,
     # a listener's file can be longer, and the app uses the difference as a first guess at the offset
-    out = {"v": VERSION, "id": ep["id"], "mode": mode, "d": round(audio_dur, 1), "s": rows, "w": vocab}
+    out = {"v": VERSION, "mt": MT_VERSION, "id": ep["id"], "mode": mode, "d": round(audio_dur, 1), "s": rows, "w": vocab}
     if any(z is None for z in zh):
         out["needZh"] = True
     with open(path, "w", encoding="utf-8") as f:
@@ -483,8 +541,26 @@ def build(src, ep, path):
 
 
 def retranslate(path):
+    """Fill in missing Chinese; files made with an older translation step are translated again
+    (and their word meanings looked up again) without redoing the speech recognition."""
     with open(path, encoding="utf-8") as f:
         d = json.load(f)
+    if d.get("mt", 1) < MT_VERSION:
+        zh = translate([r[1] for r in d["s"]])
+        if all(z is None for z in zh):
+            return
+        for r, z in zip(d["s"], zh):
+            r[2] = z or ""
+        d["w"] = {w: g for w in d.get("w", {}) if (g := gloss(w))}
+        d["mt"] = MT_VERSION
+        if all(r[2] for r in d["s"]):
+            d.pop("needZh", None)
+        else:
+            d["needZh"] = True
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(d, f, ensure_ascii=False, separators=(",", ":"))
+        log(f"  retranslated {os.path.basename(path)}")
+        return
     if not d.get("needZh"):
         return
     idx = [i for i, r in enumerate(d["s"]) if not r[2]]
