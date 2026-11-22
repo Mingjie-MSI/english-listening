@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:18:29Z",
+ "updated": "2026-11-22T03:09:41Z",
  "sources": {
   "bbc6": {
    "name": "BBC 6 Minute English",
@@ -8,27 +8,29 @@
      "id": "bbc6:urn:bbc:podcast:p0pnt62q",
      "title": "Are microplastics harming us?",
      "date": "2026-11-19",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0pnsz8p.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0pnsz8p.mp3",
      "dur": 403,
      "link": "https://www.bbc.co.uk/programmes/p0pnt62q",
      "desc": "How much plastic do you use on a daily basis? And how much of it is used to package or prepare food? Recently, scientists are becoming increasingly concerned that microplastics, tiny bits of plastic invisible to the naked eye, are entering our bodies through these food sources... but it is unclear exactly what the long-term health effects will be. Becca and Phil discuss this and teach you some new…",
-     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261119"
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261119",
+     "tx": "b26e666baab46653"
     },
     {
      "id": "bbc6:urn:bbc:podcast:p0pmkr5c",
      "title": "Learning from different generations",
      "date": "2026-11-12",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0pmkqml.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0pmkqml.mp3",
      "dur": 411,
      "link": "https://www.bbc.co.uk/programmes/p0pmkr5c",
      "desc": "When you were younger, did you have a special bond with your grandparents? Many of us develop particularly close attachments with older family members, but did you know that this ability for the oldest and youngest of our society to get along in a friendly way is not limited to families? In fact, there are some projects which pair together nurseries and retirement homes, to help reduce feelings of…",
-     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261122"
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261122",
+     "tx": "4c29f04231cedc9e"
     },
     {
      "id": "bbc6:urn:bbc:podcast:p0pldm3h",
      "title": "Could vaccines cure cancer?",
      "date": "2026-11-05",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0pldlfg.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0pldlfg.mp3",
      "dur": 399,
      "link": "https://www.bbc.co.uk/programmes/p0pldm3h",
      "desc": "When was the last time you had a vaccination, and what was it for? Many of us get vaccinations when we are children or when we go travelling, but did you know that scientists have been developing vaccines that can be personalised to help your body keep itself clear of some specific cancer types? Georgie and Phil discuss this and teach you some new vocabulary. 6 Minute English now has a VIDEO VERSI…",
@@ -38,7 +40,7 @@
      "id": "bbc6:urn:bbc:podcast:p0pk7d0p",
      "title": "Is aircon the answer to a heating world?",
      "date": "2026-10-29",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0pk7c8b.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0pk7c8b.mp3",
      "dur": 379,
      "link": "https://www.bbc.co.uk/programmes/p0pk7d0p",
      "desc": "Do you ever feel it is too hot to sleep? With climate change gradually increasing world temperatures, people across the world are becoming increasingly affected by hot weather. In many locations, air conditioning is used to help cool down homes and workplaces, but not everyone has access to this. And it isn't just about getting a good night's sleep – extremely hot weather can be a serious health r…",
@@ -48,7 +50,7 @@
      "id": "bbc6:urn:bbc:podcast:p0phz9z7",
      "title": "What should you eat for a better night’s sleep?",
      "date": "2026-10-22",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0phyzz9.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0phyzz9.mp3",
      "dur": 423,
      "link": "https://www.bbc.co.uk/programmes/p0phz9z7",
      "desc": "Have you ever had the feeling of lying awake at night, unable to get to sleep? Many of us know what it is like to struggle with sleep, especially if we have drunk too much tea or coffee before bed! But did you know that your sleep quality can be affected by other parts of your diet too? Georgie and Phil discuss this and teach you some new vocabulary. Get a free transcript and quiz at bbclearningen…",
@@ -58,7 +60,7 @@
      "id": "bbc6:urn:bbc:podcast:p0pgs2w6",
      "title": "Why has gold got so expensive?",
      "date": "2026-10-15",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0pgs15w.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0pgs15w.mp3",
      "dur": 419,
      "link": "https://www.bbc.co.uk/programmes/p0pgs2w6",
      "desc": "Many of us own jewellery or other items that are gold coloured, but do you own anything that is made from real gold? Gold is a precious metal, which means that there is a limited supply in the world. This not only makes it expensive, but also means that it holds a relatively stable value. So, why are investors interested in it, and should the rest of us start buying more of it? Georgie and Phil di…",
@@ -68,7 +70,7 @@
      "id": "bbc6:urn:bbc:podcast:p0pflmn5",
      "title": "Are people drinking less alcohol?",
      "date": "2026-10-08",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0pfllv6.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0pfllv6.mp3",
      "dur": 409,
      "link": "https://www.bbc.co.uk/programmes/p0pflmn5",
      "desc": "In recent generations many people have chosen to stop drinking alcohol. Surveys from the UK suggest that 16 to 24-year-olds are more likely to be non-drinkers than the older generations. Many people are sharing their experience of drinking less alcohol or being completely sober on social media. Some people have been saying that they want to go out more to drink and have fun with friends, but they …",
@@ -78,7 +80,7 @@
      "id": "bbc6:urn:bbc:podcast:p0pdc9cq",
      "title": "Why does heartbreak hurt so much?",
      "date": "2026-10-01",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0pdc7mz.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0pdc7mz.mp3",
      "dur": 393,
      "link": "https://www.bbc.co.uk/programmes/p0pdc9cq",
      "desc": "Anyone who has had their heart broken will know how horrible it feels. But did you know that the pain you feel is not just imaginary – it registers in the same part of the brain that processes physical pain. So, why do we feel this pain? And if it feels so bad, what is the point of being in love in the first place? Neil and Georgie discuss this and teach you some new vocabulary. 6 Minute English n…",
@@ -88,7 +90,7 @@
      "id": "bbc6:urn:bbc:podcast:p0pc61lm",
      "title": "Why do we itch?",
      "date": "2026-09-24",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0pc618w.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0pc618w.mp3",
      "dur": 382,
      "link": "https://www.bbc.co.uk/programmes/p0pc61lm",
      "desc": "Feeling itchy is unpleasant, and the feeling of finally scratching that itch can be very satisfying! But why do we feel itchy in the first place? And is it possible to catch an itch from someone else? Neil and Georgie discuss this and teach you some new vocabulary. 6 Minute English now has a VIDEO VERSION! 6 Minute English now comes with a video! It's the same programme that you know and love, but…",
@@ -98,7 +100,7 @@
      "id": "bbc6:urn:bbc:podcast:p0pb0rd0",
      "title": "Is rejection good for us?",
      "date": "2026-09-17",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0pb0qlf.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0pb0qlf.mp3",
      "dur": 381,
      "link": "https://www.bbc.co.uk/programmes/p0pb0rd0",
      "desc": "How would you feel about going up to a stranger on the street and asking them for a cheeky favour? If the idea makes you nervous, then don't worry – you are not alone! But recently, some people have been filming themselves doing this, as part of a social media trend called 'rejection therapy'. It's not an officially recognised form of therapy, but some have found that it improves their confidence.…",
@@ -108,7 +110,7 @@
      "id": "bbc6:urn:bbc:podcast:p0p8w5sh",
      "title": "Can apps teach you a language?",
      "date": "2026-09-10",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0p8w5by.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0p8w5by.mp3",
      "dur": 397,
      "link": "https://www.bbc.co.uk/programmes/p0p8w5sh",
      "desc": "Have you ever used Duolingo, Babbel, Busuu or perhaps another language-learning app? How did you get on? Some people love the convenience of these apps – you can learn on the go, like during your commute to work, rather than committing to a certain time each week, like learning in a class. But are they teaching the languages effectively? Neil and Pippa discuss this and teach you some new vocabular…",
@@ -118,7 +120,7 @@
      "id": "bbc6:urn:bbc:podcast:p0p7p9b8",
      "title": "Climate change and extreme weather",
      "date": "2026-09-03",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0p7p91r.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0p7p91r.mp3",
      "dur": 396,
      "link": "https://www.bbc.co.uk/programmes/p0p7p9b8",
      "desc": "Every year we see damage, death and destruction caused by hurricanes, cyclones and typhoons - tropical storms. Is climate change making this impact worse? Climate change may be making this destruction worse. Phil is joined by BBC weather presenter and meteorologist Sarah Keith-Lucas to learn more about this and teach you some new vocabulary. Get a free worksheet, quiz and transcript for this episo…",
@@ -128,7 +130,7 @@
      "id": "bbc6:urn:bbc:podcast:p0p6j3xx",
      "title": "How do we describe smells?",
      "date": "2026-08-27",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0p6j2hz.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0p6j2hz.mp3",
      "dur": 397,
      "link": "https://www.bbc.co.uk/programmes/p0p6j3xx",
      "desc": "What is the worst smell in the world? And what is the best smell? Are there any smells that you like, but that your friends or family hate? Smells are all around us all the time, but the English language is often quite general in the way it describes smells, as opposed to other senses like sounds or tastes. But why is this? Neil and Georgie discuss this and teach you some new vocabulary. Get a fre…",
@@ -138,7 +140,7 @@
      "id": "bbc6:urn:bbc:podcast:p0p5h8tg",
      "title": "Sharing the road with driverless cars",
      "date": "2026-08-20",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0p5h6cg.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0p5h6cg.mp3",
      "dur": 397,
      "link": "https://www.bbc.co.uk/programmes/p0p5h8tg",
      "desc": "Imagine crossing a road and turning to see a car heading towards you... without a driver! While this might seem scary, driverless cars are already operating safely in many cities around the world. These autonomous cars contain huge amounts of technology to help them drive alongside other road users carefully. But will humans behave as carefully around them? Can we communicate clearly with these 'r…",
@@ -148,7 +150,7 @@
      "id": "bbc6:urn:bbc:podcast:p0p478fw",
      "title": "Who does the housework?",
      "date": "2026-08-13",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0p4779b.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0p4779b.mp3",
      "dur": 395,
      "link": "https://www.bbc.co.uk/programmes/p0p478fw",
      "desc": "Unloading the dishwasher, mopping the floor, cleaning the loo... what is your most hated household chore? We all know there are jobs around the house which have to be done regularly, even if they are sometimes boring or unpleasant. But who tends to do the most amount of jobs in your household? And is there anyone who isn't pulling their weight...? Pippa and Neil discuss this and teach you some new…",
@@ -158,7 +160,7 @@
      "id": "bbc6:urn:bbc:podcast:p0p2yh63",
      "title": "How do climate scientists make predictions?",
      "date": "2026-08-06",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0p2ygrc.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0p2ygrc.mp3",
      "dur": 399,
      "link": "https://www.bbc.co.uk/programmes/p0p2yh63",
      "desc": "Across the world, climate change is already beginning to change the way we live our lives. But how big will that change be and what kinds of change will occur? These are the kinds of questions that scientists have been asking for decades. So, how exactly do they try to find answers to such complex questions about the future? Understanding where we are heading might help humanity prepare for the co…",
@@ -168,7 +170,7 @@
      "id": "bbc6:urn:bbc:podcast:p0p1qc9j",
      "title": "The Enhanced Games",
      "date": "2026-07-30",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0p1q8ns.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0p1q8ns.mp3",
      "dur": 397,
      "link": "https://www.bbc.co.uk/programmes/p0p1qc9j",
      "desc": "What would the world of athletics look like if athletes were allowed to take drugs? Pippa and Neil discuss the Enhanced Games. Learn English from authentic BBC programme clips. Get a free worksheet, quiz and transcript for this episode: https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260730 Practise your listening with The Listening Room here: https://www.bbc.co.uk/…",
@@ -178,7 +180,7 @@
      "id": "bbc6:urn:bbc:podcast:p0ny2k8s",
      "title": "Children in warzones",
      "date": "2026-07-23",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0ny2jn5.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0ny2jn5.mp3",
      "dur": 404,
      "link": "https://www.bbc.co.uk/programmes/p0ny2k8s",
      "desc": "The most recent figure from 2024 says that 520 million children are living in conflict zones. That's about one in every five children worldwide. Some of the discussions in this episode will be about death and trauma. Neil and Becca hear from a journalist who has spent some time with children in warzones and discuss the topic in simpler English. Get a free worksheet, quiz and transcript for this ep…",
@@ -188,7 +190,7 @@
      "id": "bbc6:urn:bbc:podcast:p0ny2bm8",
      "title": "What's in a footballer's brain?",
      "date": "2026-07-16",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0ny289g.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0ny289g.mp3",
      "dur": 389,
      "link": "https://www.bbc.co.uk/programmes/p0ny2bm8",
      "desc": "Football players are faster than ever before. But in a game where every tiny decision counts, elite clubs are turning to neuroscience to understand how players can think, decide and perform even faster. Neil and Georgie discuss this and teach you some new vocabulary. Get a free worksheet, quiz and transcript for this episode: https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_…",
@@ -198,7 +200,7 @@
      "id": "bbc6:urn:bbc:podcast:p0nxqs31",
      "title": "Should we cycle more?",
      "date": "2026-07-09",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nxqqhc.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0nxqqhc.mp3",
      "dur": 373,
      "link": "https://www.bbc.co.uk/programmes/p0nxqs31",
      "desc": "When did you learn to ride a bike? Perhaps you learnt as a child and have not cycled for a long time. Well don't worry, you can pick it up again quickly – it's just like riding a bike! And if you have never cycled, it's not too late to start. With new cycle tracks and electric bikes, cycling is becoming more and more accessible. Neil and Becca discuss this and teach you some new vocabulary. Get a …",
@@ -208,7 +210,7 @@
      "id": "bbc6:urn:bbc:podcast:p0nwb7hm",
      "title": "Rude emails",
      "date": "2026-07-02",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nwb722.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0nwb722.mp3",
      "dur": 394,
      "link": "https://www.bbc.co.uk/programmes/p0nwb7hm",
      "desc": "What is the rudest email you have ever received? We all deal with emails on a daily basis, but sometimes people can write them too quickly, without thinking enough about how it makes the other person feel. Is there anything that people write in emails which you find impolite? And have you ever sent a rude email yourself...? Phil and Becca discuss this and teach you some new vocabulary. Get a free …",
@@ -218,7 +220,7 @@
      "id": "bbc6:urn:bbc:podcast:p0ntzwl0",
      "title": "Stress-free family meals",
      "date": "2026-06-25",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0ntzw6q.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0ntzw6q.mp3",
      "dur": 405,
      "link": "https://www.bbc.co.uk/programmes/p0ntzwl0",
      "desc": "Are you a fussy eater? Many of us remember foods that we used to hate as children – some of us still do hate those foods! But what can parents do to help encourage their children to eat a healthy diet, without turning every dinner into disaster? Neil and Georgie discuss this and teach you some new vocabulary. Get a free worksheet, quiz and transcript for this episode: https://www.bbc.co.uk/learnin…",
@@ -228,7 +230,7 @@
      "id": "bbc6:urn:bbc:podcast:p0nsp28m",
      "title": "Limiting screen time for children",
      "date": "2026-06-18",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nsp04k.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0nsp04k.mp3",
      "dur": 407,
      "link": "https://www.bbc.co.uk/programmes/p0nsp28m",
      "desc": "Many parents worry that their children spend too much time on screens. Governments around the world, such as in the UK, Australia and China, are introducing online safety measures to limit the amount of screen time for children or prevent them accessing social media. Neil and Becca talk about their own screen time and teach you some new vocabulary. Get a free worksheet, quiz and transcript for thi…",
@@ -238,7 +240,7 @@
      "id": "bbc6:urn:bbc:podcast:p0nrcjdn",
      "title": "How advertisers make us spend money",
      "date": "2026-06-11",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nrcdc1.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0nrcdc1.mp3",
      "dur": 395,
      "link": "https://www.bbc.co.uk/programmes/p0nrcjdn",
      "desc": "What was the last thing you bought? And can you remember why you bought that particular thing, rather than something else? We all like to think we make rational, independent choices when we buy things, but advertisers are constantly trying different strategies to influence us to behave differently. Pippa and Phil discuss this and teach you some new vocabulary. Listen to natural English conversatio…",
@@ -248,7 +250,7 @@
      "id": "bbc6:urn:bbc:podcast:p0nq06hm",
      "title": "The power of poetry",
      "date": "2026-06-04",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nq04vv.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0nq04vv.mp3",
      "dur": 395,
      "link": "https://www.bbc.co.uk/programmes/p0nq06hm",
      "desc": "Do you like to read poetry? When was the last time you heard someone recite a poem? Some people may just think of poetry as something they studied at school, but for many people it has a powerful presence in their lives. Poetry can help you connect with others, come to terms with personal emotions, or even spread the word about important global events. If you think poetry is not for you, perhaps y…",
@@ -258,7 +260,7 @@
      "id": "bbc6:urn:bbc:podcast:p0nnpsqf",
      "title": "Living with debt",
      "date": "2026-05-28",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nnpnyn.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0nnpnyn.mp3",
      "dur": 397,
      "link": "https://www.bbc.co.uk/programmes/p0nnpsqf",
      "desc": "Many people have to borrow money to make big purchases, like buying a house or a car. When you do this, you have to pay the money back over time – the money you owe is a debt. With the current cost of living getting increasingly high, some people are having to borrow money even for everyday purchases like bills and food. Sometimes this debt can get out of control, which causes anxiety and stress. …",
@@ -268,7 +270,7 @@
      "id": "bbc6:urn:bbc:podcast:p0nmg0q1",
      "title": "Making cities feel quieter",
      "date": "2026-05-21",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nmfyjw.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0nmfyjw.mp3",
      "dur": 397,
      "link": "https://www.bbc.co.uk/programmes/p0nmg0q1",
      "desc": "What do you prefer – the sounds of birdsong and wind rustling in the trees, or the hum of traffic and chatter of people passing by? Some people like the quiet of the countryside and others love the noise of the city, but did you know that constant exposure to loud noise has been found to increase anxiety? That's why some people have been trying to find ways to make our cities feel quieter. Neil an…",
@@ -278,7 +280,7 @@
      "id": "bbc6:urn:bbc:podcast:p0nl4mwz",
      "title": "How reading shapes your brain",
      "date": "2026-05-14",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nl4l5w.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0nl4l5w.mp3",
      "dur": 395,
      "link": "https://www.bbc.co.uk/programmes/p0nl4mwz",
      "desc": "Do you remember what it was like before you learnt to read? It's hard to think back that far! Scientific research has shown that learning to read changes the way our brains work. Not only that, but depending on the language you are reading, your brain changes in different ways. Becca and Georgie discuss this and teach you some new vocabulary. Find a transcript and worksheet at: https://www.bbc.co.…",
@@ -288,7 +290,7 @@
      "id": "bbc6:urn:bbc:podcast:p0njsn2d",
      "title": "Searching for life on another planet",
      "date": "2026-05-07",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0njskv5.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0njskv5.mp3",
      "dur": 396,
      "link": "https://www.bbc.co.uk/programmes/p0njsn2d",
      "desc": "Will we ever be able to live on a planet that isn't Earth? A science and space journalist explainss the latest research and data collected from planet TRAPPIST-1e. Neil and Becca teach you some new language to understand this potentially habitable planet. Find a transcript and worksheet at: https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260507 Practise your listeni…",
@@ -298,7 +300,7 @@
      "id": "bbc6:urn:bbc:podcast:p0nhfvyw",
      "title": "Should we eat ultra-processed food?",
      "date": "2026-04-30",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nhfvh9.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0nhfvh9.mp3",
      "dur": 402,
      "link": "https://www.bbc.co.uk/programmes/p0nhfvyw",
      "desc": "What is your ultra-processed guilty pleasure? Many of us love home-cooked food, but when we're in a rush, it's often more convenient to eat snacks, or to buy quick, easy meals from the supermarket which we simply have to heat up. These are often ultra-processed forms of food, which recent studies have linked to poor health. Phil and Pippa discuss this and teach you some new vocabulary. Find a tran…",
@@ -308,7 +310,7 @@
      "id": "bbc6:urn:bbc:podcast:p0ng2d84",
      "title": "Why are we all so stressed?",
      "date": "2026-04-23",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0ng2c3n.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0ng2c3n.mp3",
      "dur": 402,
      "link": "https://www.bbc.co.uk/programmes/p0ng2d84",
      "desc": "Worrying about exams, work or climate change in the news. It's no wonder modern life is stressful. Becca and Neil hear from a presenter and psychologist about managing stress. Learn some tips to help with worrying and stress, as well as some new vocabulary and phrases! Find a transcript and worksheet at: https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260423 Learn l…",
@@ -318,7 +320,7 @@
      "id": "bbc6:urn:bbc:podcast:p0ndq0lv",
      "title": "Love the foods you hate",
      "date": "2026-04-16",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0ndpzkz.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0ndpzkz.mp3",
      "dur": 401,
      "link": "https://www.bbc.co.uk/programmes/p0ndq0lv",
      "desc": "Are there some foods that you just hate? Have you ever hated a food in the past but started liking it? We hear from a food expert and a dietitian about why there are some foods we just hate and even fear, and whether it's possible to learn to love them. Neil and Becca discuss this, learn some tips for loving the foods you hate, and teach you some new vocabulary. Find a transcript and worksheet at:…",
@@ -328,7 +330,7 @@
      "id": "bbc6:urn:bbc:podcast:p0nccgt3",
      "title": "The future of food",
      "date": "2026-04-09",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nccg0b.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0nccg0b.mp3",
      "dur": 407,
      "link": "https://www.bbc.co.uk/programmes/p0nccgt3",
      "desc": "Many of us are trying to be more careful with our food choices, both for our personal health and for the health of the planet in general. But did you know that the food we buy is closely linked to national security? Neil and Pippa hear from climate reporter and a chief executive of the UK's Climate Change Committee, and teach you some new vocabulary.",
@@ -338,7 +340,7 @@
      "id": "bbc6:urn:bbc:podcast:p0nb6y5v",
      "title": "Are saunas good for you?",
      "date": "2026-04-02",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nb6w9d.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0nb6w9d.mp3",
      "dur": 394,
      "link": "https://www.bbc.co.uk/programmes/p0nb6y5v",
      "desc": "How do you feel about being in a small room heated to a temperature of 80°C? Believe it or not, some people love it! There might be some health benefits to this hot habit too! Georgie and Neil hear from a BBC reporter and a professor from BBC Radio 4 programme Inside Health. You'll also learn some useful language! Read along with this podcast with the free transcript, and practise the vocabulary u…",
@@ -348,7 +350,7 @@
      "id": "bbc6:urn:bbc:podcast:p0n8vl35",
      "title": "Weight loss drugs",
      "date": "2026-03-26",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0n8vh7b.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0n8vh7b.mp3",
      "dur": 391,
      "link": "https://www.bbc.co.uk/programmes/p0n8vl35",
      "desc": "Weight loss drugs like Ozempic and Mounjaro are modified versions of natural hormones which make us feel full when released into the body. Prof Giles Yeo explains how the drugs, which were originally used to treat diabetes, are now being used for weight loss. Georgie and Neil teach you some useful vocabulary. Read along with this podcast with the free transcript, and practise the vocabulary using …",
@@ -358,7 +360,7 @@
      "id": "bbc6:urn:bbc:podcast:p0n7j4vf",
      "title": "How do we adapt to the cold?",
      "date": "2026-03-19",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0n7j0wx.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0n7j0wx.mp3",
      "dur": 406,
      "link": "https://www.bbc.co.uk/programmes/p0n7j4vf",
      "desc": "Where is the coldest place you have ever been? Did you enjoy the experience? Some people don't seem to mind the cold, whereas other people seem to feel it much more strongly and keep themselves wrapped up in as many layers as possible. But why do we feel it in different ways? Phil and Becca discuss this and teach you some new vocabulary. Read along with this podcast with the free transcript, and p…",
@@ -368,7 +370,7 @@
      "id": "bbc6:urn:bbc:podcast:p0n63cwm",
      "title": "Should we pay more for chocolate?",
      "date": "2026-03-12",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0n63bjf.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0n63bjf.mp3",
      "dur": 381,
      "link": "https://www.bbc.co.uk/programmes/p0n63cwm",
      "desc": "How often do you eat chocolate? It's one of the most loved sweet treats in Europe, but a new EU law could make chocolate more expensive. A business owner, who has small cocoa farms in these places, shares their thoughts and concerns about the new law. We also hear from chocolate lovers about whether they would pay more for their favourite chocolate, and about whether they looked at where their cho…",
@@ -378,7 +380,7 @@
      "id": "bbc6:urn:bbc:podcast:p0n4qt65",
      "title": "Why are some animals black and white?",
      "date": "2026-03-05",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0n4qrq1.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0n4qrq1.mp3",
      "dur": 397,
      "link": "https://www.bbc.co.uk/programmes/p0n4qt65",
      "desc": "How many animals can you think of that are black and white? Zebras, penguins, orcas, snow leopards… there are loads! But have you ever wondered why these animals have developed such unique and striking appearances? Neil and Becca discuss this and teach you some new vocabulary. As always, find a free transcript, worksheet and quiz for this episode on our website: ✔️ https://www.bbc.co.uk/learningen…",
@@ -388,7 +390,7 @@
      "id": "bbc6:urn:bbc:podcast:p0n3bs52",
      "title": "The power of pepper",
      "date": "2026-02-26",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0n3bp8v.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0n3bp8v.mp3",
      "dur": 406,
      "link": "https://www.bbc.co.uk/programmes/p0n3bs52",
      "desc": "How often do you use pepper? It's one of the most common spices to add to food, so common in fact that many of us don't just use it when cooking, but also place it on our dinner tables to add extra flavour! But how much do we really know about pepper? There are hundreds of different varieties worldwide and they all have the power to add that special something to our food. Neil and Becca discuss th…",
@@ -398,7 +400,7 @@
      "id": "bbc6:urn:bbc:podcast:p0n1zykf",
      "title": "Dreaming of being a chef",
      "date": "2026-02-19",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0n1zt73.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0n1zt73.mp3",
      "dur": 403,
      "link": "https://www.bbc.co.uk/programmes/p0n1zykf",
      "desc": "What did you have for dinner last night? And did you cook it yourself? Many people cook at home regularly, for themselves and for others, but have you ever thought about cooking professionally? Working in a restaurant can be tough, but for some people, becoming a top chef is a dream job. Neil and Becca discuss this and teach you some new vocabulary. ✔️ Find a free worksheet, transcript and interac…",
@@ -417,7 +419,8 @@
      "dur": 854,
      "link": "https://www.npr.org/2026/11/20/nx-s1-6045648/kratom-opioid-addiction-7-oh",
      "desc": "Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org . See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences. NPR Privacy Policy",
-     "transcript": "https://www.npr.org/transcripts/nx-s1-6045648"
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6045648",
+     "tx": "f1264bc3b4378caa"
     },
     {
      "id": "shortwave:d45ca6a9-2a9b-4364-9269-649b1b515894",
@@ -427,7 +430,8 @@
      "dur": 893,
      "link": "https://www.npr.org/2026/11/18/nx-s1-6034426/sanfilippo-syndrome-gene-therapy",
      "desc": "Sanfilippo syndrome is a rare and degenerative disease that can be fatal by the time someone reaches their teens. So the O’Neill family knew they didn’t have much time after learning their 4-year old daughter, Eliza, had it. At the time no treatment existed, and the world of drug development had its eyes on more common illnesses. So the family took an all hands on deck, unusual approach to directl…",
-     "transcript": "https://www.npr.org/transcripts/nx-s1-6034426"
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6034426",
+     "tx": "1f3364a680174afe"
     },
     {
      "id": "shortwave:684dc6f6-c5df-447f-bcbc-4f61228a6d76",
@@ -822,7 +826,8 @@
      "dur": 1475,
      "link": "https://www.npr.org/2026/11/20/nx-s1-6049085/iran-oil-tanker-prize-law-court",
      "desc": "The U.S. is working on bringing back the ancient maritime practice of prize law — which allowed for privateers, or more recently, navies, to seize enemy-linked ships, and quickly sell them off. Why? Well, the U.S. has been seizing lots of big boats — oil tankers linked to Iran and Venezuela — in what the Pentagon calls an effort to disrupt ‘illicit networks.’ But after they seize the big boats, th…",
-     "transcript": "https://www.npr.org/transcripts/nx-s1-6049085"
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6049085",
+     "tx": "98c46d84cf1aa733"
     },
     {
      "id": "planetmoney:74bdb425-023b-4ef5-b70d-e3405c832b87",
@@ -1137,7 +1142,8 @@
      "dur": 837,
      "link": "https://go.ted.com/BrianJanous",
      "desc": "AI data centers are popping up across the US — and the people living next to them are increasingly upset. Brian Janous, whose company finds land for some of the biggest data centers, hears those objections firsthand. He proposes a solution that would change who benefits from the AI boom, putting a bigger share of the wealth directly into the hands of local communities. Hosted on Acast. See acast.c…",
-     "transcript": null
+     "transcript": null,
+     "tx": "6163c8ee52679c01"
     },
     {
      "id": "ted:6aff1debc1a867006b449928",
@@ -1219,7 +1225,8 @@
      "dur": 875,
      "link": "https://go.ted.com/michaelliebreich",
      "desc": "Have you heard the clean energy transition is failing? Energy analyst Michael Liebreich says to look again. Using a four-line spreadsheet model of the global energy system, he shows why fossil fuels will inevitably get squeezed out over time — with no bans required. The shift is well underway, he explains: it just looks different than many of us expected. Hosted on Acast. See acast.com/privacy for…",
-     "transcript": "https://www.ted.com/talks/michael_liebreich_how_we_ll_actually_ditch_fossil_fuels_by_the_numbers/transcript"
+     "transcript": "https://www.ted.com/talks/michael_liebreich_how_we_ll_actually_ditch_fossil_fuels_by_the_numbers/transcript",
+     "tx": "8799af5ec0e77ef0"
     },
     {
      "id": "ted:6af38974ac84158342c9ed3d",
@@ -1229,7 +1236,8 @@
      "dur": 1041,
      "link": "https://go.ted.com/ariaflorant",
      "desc": "Aria Florant cofounded a nonprofit to help accelerate the reparations movement in the US … but less than a year in, her partnership with her own cofounder fell apart. Drawing on what brought the two of them back together — plus lessons from South Africa, Germany and Colombia — she lays out a four-step process for repairing harm between two people or across an entire nation. Most people think repar…",
-     "transcript": "https://www.ted.com/talks/aria_florant_how_to_repair_harm_in_relationships_and_nations/transcript"
+     "transcript": "https://www.ted.com/talks/aria_florant_how_to_repair_harm_in_relationships_and_nations/transcript",
+     "tx": "11a8c1b728fae3cc"
     },
     {
      "id": "ted:6af23934e1219d878fcb3b47",
@@ -1534,7 +1542,7 @@
      "id": "inourtime:urn:bbc:podcast:m003339v",
      "title": "Ishtar, the Mesopotamian goddess of love, sex and war",
      "date": "2026-11-19",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0phsnsv.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0phsnsv.mp3",
      "dur": 3173,
      "link": "https://www.bbc.co.uk/programmes/m003339v",
      "desc": "The Mesopotamian goddess Ishtar was transgressive and multifaceted – potentially to the point of paradox. As the goddess of love and sex, she was responsible for the fertility of life on earth. As the goddess of war, she was also incredibly bloodthirsty, vengeful, and violent. Known in Sumerian language as Inanna and Ishtar in Akkadian, this goddess was worshipped throughout Mesopotamia (modern da…"
@@ -1543,7 +1551,7 @@
      "id": "inourtime:urn:bbc:podcast:p0phg98c",
      "title": "Archive: Frederick Douglass",
      "date": "2026-11-16",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0phgb8l.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0phgb8l.mp3",
      "dur": 3184,
      "link": "https://www.bbc.co.uk/programmes/p0phg98c",
      "desc": "Frederick Douglass was born into slavery in Maryland in 1818 and, once he had escaped, became one of that century's most prominent abolitionists. In this archive episode, first broadcast in 2018, Melvyn Bragg and his guests discuss Douglass’ life and ideas. He was such a good orator, his opponents doubted his story, but he told it in grim detail in 1845 in his book 'Narrative of the Life of Freder…"
@@ -1552,7 +1560,7 @@
      "id": "inourtime:urn:bbc:podcast:m0032r4c",
      "title": "The Battle of Antietam",
      "date": "2026-11-12",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pgmdgv.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pgmdgv.mp3",
      "dur": 3570,
      "link": "https://www.bbc.co.uk/programmes/m0032r4c",
      "desc": "Misha Glenny and guests discuss The Battle of Antietam, the single deadliest day of the American Civil War. The battle took place on 17th September 1862, less than 100 miles from Washington D.C. The conflict had been going on for over a year, and there had been a string of successes by the rebel Confederate Army against Union forces. The Confederates were a group of Southern States that had secede…"
@@ -1561,7 +1569,7 @@
      "id": "inourtime:urn:bbc:podcast:p0pfv9q9",
      "title": "Archive: Feathered Dinosaurs",
      "date": "2026-11-09",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pfvb88.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pfvb88.mp3",
      "dur": 2954,
      "link": "https://www.bbc.co.uk/programmes/p0pfv9q9",
      "desc": "All dinosaurs were originally thought to be related to lizards - the word 'dinosaur' was created by Richard Owen (1804-1892) from the Greek for 'terrible lizard' - but that now appears to be false. In this archive episode, first released in October 2017, Melvyn Bragg and guests discuss the development of theories about dinosaur feathers, following discoveries of fossils which show evidence of feat…"
@@ -1570,7 +1578,7 @@
      "id": "inourtime:urn:bbc:podcast:m0032fqb",
      "title": "Megalosaurus",
      "date": "2026-11-05",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pfgchz.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pfgchz.mp3",
      "dur": 3364,
      "link": "https://www.bbc.co.uk/programmes/m0032fqb",
      "desc": "The first dinosaur to ever be scientifically named, almost 20 years before we even had the word ‘dinosaur’. In 1824, the geologist and priest William Buckland (1784-1856) stood before the Geological Society of London and announced something that would kickstart two centuries of dinosaur science. He’d been studying large, fossilised bones which didn’t resemble those of any living animal - and, as h…"
@@ -1579,7 +1587,7 @@
      "id": "inourtime:urn:bbc:podcast:p0pdpszb",
      "title": "Archive: Citizen Kane",
      "date": "2026-11-02",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pdpv8d.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pdpv8d.mp3",
      "dur": 3258,
      "link": "https://www.bbc.co.uk/programmes/p0pdpszb",
      "desc": "Orson Welles was only 25 when his film Citizen Kane was released in 1941. It is widely acclaimed as one of the greatest, if not the greatest, films yet made. Melvyn Bragg and guests discuss Welles' film, in which he plays the lead role of Charles Foster Kane, a newspaper magnate. It was his first acting role. He also directed, produced and co-wrote this story of loneliness at the heart of a megalo…"
@@ -1588,7 +1596,7 @@
      "id": "inourtime:urn:bbc:podcast:m00325cd",
      "title": "Casablanca",
      "date": "2026-10-29",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pd6wc7.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pd6wc7.mp3",
      "dur": 3216,
      "link": "https://www.bbc.co.uk/programmes/m00325cd",
      "desc": "Recorded at the Crossed Wires Festival in Sheffield, Misha Glenny and guests discuss Casablanca, one of the greatest films from Hollywood’s Golden Era. The film stars Humphrey Bogart and Ingrid Bergman and features the unforgettable song As Time Goes By. Casablanca opened in November 1942 when Europe had been at war for three years and the USA for one. It was among Hollywood’s first major films to…"
@@ -1597,7 +1605,7 @@
      "id": "inourtime:urn:bbc:podcast:p0pchdrv",
      "title": "Archive: Dark Matter, the mysterious substance in space",
      "date": "2026-10-26",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pchg4c.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pchg4c.mp3",
      "dur": 2811,
      "link": "https://www.bbc.co.uk/programmes/p0pchdrv",
      "desc": "Dark Matter is a proposed form of matter that does not absorb, reflect or emit light. It is known to make up 27% of our universe, while the matter that makes up stars and galaxies accounts for only 5%. In this archive episode, first released in March 2015, Melvyn Bragg and his guests discuss dark matter, the mysterious and invisible substance existing throughout the Universe. In 1932 the Dutch ast…"
@@ -1606,7 +1614,7 @@
      "id": "inourtime:urn:bbc:podcast:m0031vjw",
      "title": "Particle Accelerators",
      "date": "2026-10-22",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pc10qt.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pc10qt.mp3",
      "dur": 3154,
      "link": "https://www.bbc.co.uk/programmes/m0031vjw",
      "desc": "Misha Glenny and guests discuss the machines that are described as the world’s largest experiments: Particle Accelerators. A famous example of a Particle Accelerator is the Large Hadron Collider, a device which stretches for nearly 30km, deep beneath the ground in a tunnel between France and Switzerland. This enormous scale enables the particles within to be propelled to incredible speeds, reachin…"
@@ -1615,7 +1623,7 @@
      "id": "inourtime:urn:bbc:podcast:p0pbblh6",
      "title": "Archive: Erasmus",
      "date": "2026-10-19",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pbbn1g.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pbbn1g.mp3",
      "dur": 2569,
      "link": "https://www.bbc.co.uk/programmes/p0pbblh6",
      "desc": "One of the most celebrated thinkers of the Renaissance, Erasmus (c1466-1536) is best known for his works of classical and religious scholarship, and for his infamous theological dispute with Martin Luther (1483-1546) over free will and the Church. In this archive episode, first released in February 2012, Melvyn Bragg and guests discuss Dutch humanist scholar Desiderius Erasmus. Erasmus was widely …"
@@ -1624,7 +1632,7 @@
      "id": "inourtime:urn:bbc:podcast:m0031jz3",
      "title": "Thomas More's Utopia",
      "date": "2026-10-15",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0p9psnw.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0p9psnw.mp3",
      "dur": 3292,
      "link": "https://www.bbc.co.uk/programmes/m0031jz3",
      "desc": "In 1516, the publication of one small book would coin a new word and give rise to centuries of literature, theory, and thought. In his most influential work, the lawyer and Tudor politician Thomas More (1478-1535) described a seemingly perfect – but entirely fictional – island called Utopia. In 1535, less than two decades after writing the book, More was executed for refusing to accept King Henry …"
@@ -1633,7 +1641,7 @@
      "id": "inourtime:urn:bbc:podcast:p0p94prv",
      "title": "Archive: The Measurement of Time",
      "date": "2026-10-12",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0p94wbk.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0p94wbk.mp3",
      "dur": 2579,
      "link": "https://www.bbc.co.uk/programmes/p0p94prv",
      "desc": "Misha Glenny chooses the first of his archive picks - bringing back classic conversations from the In Our Time archive, every Monday. Humans have tried to calculate, regulate, and measure time for thousands of years: from systems based on tracking sunrise and sunset, to the invention of increasingly precise mechanical alarm clocks and astrolabes. In this archive episode, first released in March 20…"
@@ -1642,7 +1650,7 @@
      "id": "inourtime:urn:bbc:podcast:p0p4mkxp",
      "title": "Archive: Trinity",
      "date": "2026-10-08",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0p4mlsx.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0p4mlsx.mp3",
      "dur": 2674,
      "link": "https://www.bbc.co.uk/programmes/p0p4mkxp",
      "desc": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His final choice is the Trinity, an episode first released in March 2014. The idea that God is a single entity, but one known in three distinct forms - Father, Son and Holy Spirit - has been a central belief for most Christians since the earliest years of the religion. The doctrine was often controve…"
@@ -1651,7 +1659,7 @@
      "id": "inourtime:urn:bbc:podcast:p0p4m8xn",
      "title": "Archive: Emma",
      "date": "2026-10-01",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0p4mfb5.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0p4mfb5.mp3",
      "dur": 3017,
      "link": "https://www.bbc.co.uk/programmes/p0p4m8xn",
      "desc": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His ninth choice is the episode on Jane Austen’s novel Emma, first released in November 2015. Austen described her leading character as \"a heroine whom no-one but myself will much like.\" Emma is one of Austen’s most popular novels and arguably her masterpiece, a brilliantly sparkling comedy of manner…"
@@ -1660,7 +1668,7 @@
      "id": "inourtime:urn:bbc:podcast:p0p2vv0y",
      "title": "Archive: The War of 1812",
      "date": "2026-09-24",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0p2vwgz.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0p2vwgz.mp3",
      "dur": 2673,
      "link": "https://www.bbc.co.uk/programmes/p0p2vv0y",
      "desc": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His eighth choice is The War of 1812, which was first released in January 2013. Melvyn Bragg and his guests discussed the conflict between America and the British Empire sometimes referred to as the second American War of Independence. In June 1812, President James Madison declared war on Britain, an…"
@@ -1669,7 +1677,7 @@
      "id": "inourtime:urn:bbc:podcast:p0p2dn1j",
      "title": "Archive: Rosalind Franklin",
      "date": "2026-09-17",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0p2dsvk.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0p2dsvk.mp3",
      "dur": 3099,
      "link": "https://www.bbc.co.uk/programmes/p0p2dn1j",
      "desc": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His seventh choice is the pioneering scientist Rosalind Franklin (1920 - 1958), first released in February 2018. During her distinguished career, Franklin carried out ground-breaking research into coal and viruses but she is perhaps best remembered for her investigations in the field of DNA. In 1952 …"
@@ -1678,7 +1686,7 @@
      "id": "inourtime:urn:bbc:podcast:p0p1f993",
      "title": "Archive: Plato's Republic",
      "date": "2026-09-10",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pbrk74.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pbrk74.mp3",
      "dur": 3046,
      "link": "https://www.bbc.co.uk/programmes/p0p1f993",
      "desc": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His sixth choice is Plato's Republic, an episode first released in June 2017. Is it always better to be just than unjust? That is the central question of Plato's Republic, written in c380BC. Plato applied this question both to the individual and the city-state, considering earlier and current forms o…"
@@ -1687,7 +1695,7 @@
      "id": "inourtime:urn:bbc:podcast:p0p8cg68",
      "title": "In Our Time Returns for a New Series",
      "date": "2026-09-07",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0p8cggx.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0p8cggx.mp3",
      "dur": 121,
      "link": "https://www.bbc.co.uk/programmes/p0p8cg68",
      "desc": "In Our Time returns for a new series with host Misha Glenny. A world class seminar, every week. In Our Time explores the ideas, people and discoveries that have shaped our world, spanning history, philosophy, religion, science, literature, art and culture. On Thursdays, hear brand-new episodes with Misha Glenny and leading academics. On Mondays, discover Misha's Archive Picks: classic conversation…"
@@ -1696,7 +1704,7 @@
      "id": "inourtime:urn:bbc:podcast:p0nxnf0t",
      "title": "Archive: Empress Dowager Cixi",
      "date": "2026-09-03",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0p1bp6f.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0p1bp6f.mp3",
      "dur": 3063,
      "link": "https://www.bbc.co.uk/programmes/p0nxnf0t",
      "desc": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His fifth choice, first released in May 2024, is the Empress Dowager Cixi, the woman who, for almost fifty years, was the most powerful figure in the Chinese court. Cixi (1835-1908) started out at court as one of the Emperor's many concubines, yet was the only one who gave him a son to succeed him an…"
@@ -1705,7 +1713,7 @@
      "id": "inourtime:urn:bbc:podcast:p0nxf46w",
      "title": "Archive: Plate Tectonics",
      "date": "2026-08-27",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0p09f1b.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0p09f1b.mp3",
      "dur": 2667,
      "link": "https://www.bbc.co.uk/programmes/p0nxf46w",
      "desc": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His fourth choice, first released in January 2008, explores how the science of plate tectonics revolutionised our understanding of the planet on which we live. America is getting further away from Europe. This is not a political statement but a geological fact. Just as the Pacific is getting smaller,…"
@@ -1714,7 +1722,7 @@
      "id": "inourtime:urn:bbc:podcast:p0nx109x",
      "title": "Archive: Hatshepsut",
      "date": "2026-08-20",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0p07nv6.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0p07nv6.mp3",
      "dur": 2878,
      "link": "https://www.bbc.co.uk/programmes/p0nx109x",
      "desc": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His third choice, first released in November 2014, is the Egyptian pharaoh Hatshepsut, whose name means 'foremost of noble ladies'. She ruled Egypt from about 1479 - 1458 BC and some scholars argue that she was one of the most successful and influential pharaohs. When she came to the throne, Egypt wa…"
@@ -1723,7 +1731,7 @@
      "id": "inourtime:urn:bbc:podcast:p0nx0z4j",
      "title": "Archive: Coffee",
      "date": "2026-08-13",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0ny4m97.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0ny4m97.mp3",
      "dur": 3412,
      "link": "https://www.bbc.co.uk/programmes/p0nx0z4j",
      "desc": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His second choice, first released in December 2019, is the history and social impact of coffee. From its origins in Ethiopia, coffea arabica spread through the Ottoman Empire before reaching Western Europe where, in the 17th century, coffee houses were becoming established. There, caffeinated custome…"
@@ -1732,7 +1740,7 @@
      "id": "inourtime:urn:bbc:podcast:p0nwwkjc",
      "title": "Archive: Aphra Behn",
      "date": "2026-08-06",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0nxf51w.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0nxf51w.mp3",
      "dur": 3131,
      "link": "https://www.bbc.co.uk/programmes/p0nwwkjc",
      "desc": "Widely regarded as the first professional woman writer in English literature, Aphra Behn (1640-1689) is best known for her plays and her novel Oroonoko, she's been an inspiration to countless writers across the ages. This archive episode, first released in October 2017, was selected as part of a ten-episode series by Misha Glenny. In the episode, Melvyn Bragg and guests discuss the life and times …"
@@ -1741,7 +1749,7 @@
      "id": "inourtime:urn:bbc:podcast:m002ybkj",
      "title": "Seashells",
      "date": "2026-07-30",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0nw62hn.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0nw62hn.mp3",
      "dur": 3209,
      "link": "https://www.bbc.co.uk/programmes/m002ybkj",
      "desc": "Misha Glenny and guests discuss a familiar feature of our beaches: seashells, from their astonishing shapes and patterns that teach us about Earth’s oceans, to the ways that humans have treasured shells throughout history. Seashells appear in the mythologies of countless cultures across the world - think of Botticelli’s Venus emerging from a giant scallop shell, Vishnu's sacred horn panchajanya, o…"
@@ -1750,7 +1758,7 @@
      "id": "inourtime:urn:bbc:podcast:m002y1gt",
      "title": "Vigée Le Brun",
      "date": "2026-07-23",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0ntls0h.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0ntls0h.mp3",
      "dur": 3383,
      "link": "https://www.bbc.co.uk/programmes/m002y1gt",
      "desc": "Misha Glenny and guests discuss the French portrait painter Élisabeth Vigée Le Brun (1755 - 1842). From her teens she delighted her high society subjects in and around Paris, notably Marie Antoinette who she painted around 30 times, and she invariably found ways to show her sitters at their best. Some critics were affronted that she, a young woman, dared paint at all and, when they saw how good he…"
@@ -1759,7 +1767,7 @@
      "id": "inourtime:urn:bbc:podcast:m002xp5l",
      "title": "The Delian League",
      "date": "2026-07-16",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0nsj70w.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0nsj70w.mp3",
      "dur": 3284,
      "link": "https://www.bbc.co.uk/programmes/m002xp5l",
      "desc": "Misha Glenny and guests discuss the origins and evolution of an alliance which transformed the geopolitics of the classical world: the Delian League. Since the start of the 5th Century BCE, city states across Greece had been fighting a series of armed conflicts in the Greco-Persian Wars. After the defeat of a second Persian invasion in 478 BCE, a league of cities across Greece came together and fo…"
@@ -1768,7 +1776,7 @@
      "id": "inourtime:urn:bbc:podcast:m002xgz1",
      "title": "Machado de Assis",
      "date": "2026-07-09",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0nqz886.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0nqz886.mp3",
      "dur": 3222,
      "link": "https://www.bbc.co.uk/programmes/m002xgz1",
      "desc": "Misha Glenny and guests discuss one of the towering figures of Brazilian and world literature, Machado de Assis (1839 - 1908). He was the descendant of slaves and built his career while slavery was still in place in Brazil (abolished 1888) and many of his characters were from the slave-owning class who were also the readers of his books. At the time, those readers were delighted to see themselves …"
@@ -1777,7 +1785,7 @@
      "id": "inourtime:urn:bbc:podcast:m002x5jl",
      "title": "The Evolution of Trees",
      "date": "2026-07-02",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0npng58.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0npng58.mp3",
      "dur": 3283,
      "link": "https://www.bbc.co.uk/programmes/m002x5jl",
      "desc": "Misha Glenny and guests discuss the earliest evidence we have of the existence of trees and how even plants we might have on windowsills or as vegetables in gardens can and do, in the right conditions, evolve into trees. Since their emergence around 400 million years ago after low lying plants started to develop stronger stems and grow taller and more upright, trees have transformed our planet, so…"
@@ -1786,7 +1794,7 @@
      "id": "inourtime:urn:bbc:podcast:m002wt1v",
      "title": "The Welsh Marches",
      "date": "2026-06-25",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0nsfns9.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0nsfns9.mp3",
      "dur": 3128,
      "link": "https://www.bbc.co.uk/programmes/m002wt1v",
      "desc": "At the Hay Festival, Misha Glenny and guests discuss the impact of the Norman invasion on the people and land of Wales and across the modern border with England in what became known as The Welsh Marches, march being a term for a militarized borderland. Hay was one of the first Marcher lordships. Even before 1066, William the Conqueror knew that he would have to subdue the Welsh if he were to contr…"
@@ -1795,7 +1803,7 @@
      "id": "inourtime:urn:bbc:podcast:m002wkhq",
      "title": "The Levellers",
      "date": "2026-06-18",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0nsbb3f.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0nsbb3f.mp3",
      "dur": 3332,
      "link": "https://www.bbc.co.uk/programmes/m002wkhq",
      "desc": "Misha Glenny and guests discuss the group which came to be known as the Levellers and emerged during what would become arguably one of the bloodiest and most turbulent periods of English history. After the First English Civil War, the Levellers started calling for reforms to achieve legal and social equality. They pushed for a new constitution, extended franchise, popular sovereignty, and religiou…"
@@ -1813,7 +1821,8 @@
      "dur": 1266,
      "link": "https://www.npr.org/2026/11/19/nx-s1-6046479/youre-probably-not-getting-enough-iron-heres-how-to-tell",
      "desc": "Iron deficiency could be the culprit for a slew of symptoms: fatigue, dizziness, brain fog and more. And though it affects an estimated one in three people, few know what their iron levels are. This episode, Life Kit reporter Andee Tagle explains how to know if your iron levels are low and ways to boost them if so. Follow us on Instagram: @nprlifekit Sign up for our newsletter here. Have an episod…",
-     "transcript": "https://www.npr.org/transcripts/nx-s1-6046479"
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6046479",
+     "tx": "4a2eef8b2b3b7467"
     },
     {
      "id": "lifekit:28d107dc-2613-46b0-b791-fe1e0e6d9bed",
@@ -1823,7 +1832,8 @@
      "dur": 1309,
      "link": "https://www.npr.org/2026/11/17/nx-s1-6043232/how-to-be-an-amazing-auntie-or-uncle",
      "desc": "There is seemingly endless advice out there to help parents raise healthy, responsible children. But parents aren't the only people who help raise kids or invest in their well-being. On this episode, how to be a good auntie or uncle - or whichever name you go by. Reporter Mayowa Aina shares advice for building relationships, developing routines, and creating a safe space for the kids in your life.…",
-     "transcript": "https://www.npr.org/transcripts/nx-s1-6043232"
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6043232",
+     "tx": "075a62b6b2910812"
     },
     {
      "id": "lifekit:cfac444e-7036-4397-9f12-e9441421c50f",
@@ -2217,7 +2227,8 @@
      "audio": "https://traffic.megaphone.fm/ALLE7283071966.mp3",
      "dur": 1277,
      "link": "https://www.allearsenglish.com/fluencyscore",
-     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
+     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…",
+     "tx": "eb45ac749fb4d6fd"
     },
     {
      "id": "allears:79db8fcc-d274-11f1-96ec-931cfdec9aef",
@@ -2579,16 +2590,17 @@
      "id": "archers:urn:bbc:podcast:m0034c6b",
      "title": "The Archers · 20/11/2026",
      "date": "2026-11-20",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pn7rw0.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pn7rw0.mp3",
      "dur": 787,
      "link": "https://www.bbc.co.uk/programmes/m0034c6b",
-     "desc": "At the vets, Denise asks Neil how long Alan’s chaperoning will go on for. Esme arrives to ask if Alistair is around, but he’s with a puppy. Denise invites her to talk in the office. Esme explains that Lovell James’ head office is chasing for unpaid bills. She can’t pay them with everything getting more expensive. Head office’s suggested payment plan is too much, so Esme wants to agree something wi…"
+     "desc": "At the vets, Denise asks Neil how long Alan’s chaperoning will go on for. Esme arrives to ask if Alistair is around, but he’s with a puppy. Denise invites her to talk in the office. Esme explains that Lovell James’ head office is chasing for unpaid bills. She can’t pay them with everything getting more expensive. Head office’s suggested payment plan is too much, so Esme wants to agree something wi…",
+     "tx": "d1328e2a9fbec6c1"
     },
     {
      "id": "archers:urn:bbc:podcast:m00349t7",
      "title": "The Archers · 19/11/2026",
      "date": "2026-11-19",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pmgsh3.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pmgsh3.mp3",
      "dur": 785,
      "link": "https://www.bbc.co.uk/programmes/m00349t7",
      "desc": "Joy is writing the specials on the board in The Bull. As Joy starts to talk about Christmas, Mags says she’s not a Christmas person and doesn’t even have a tree. Rex comes in to see if they have any flyers for the art exhibition. They have none, but Joy says they’ve got a cancellation that Rex can have for Brian’s birthday. Rex says not to worry, they’ve booked a table at The Feathers. Mags and Jo…"
@@ -2597,7 +2609,7 @@
      "id": "archers:urn:bbc:podcast:m00349ss",
      "title": "The Archers · 18/11/2026",
      "date": "2026-11-18",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pmfvpd.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pmfvpd.mp3",
      "dur": 789,
      "link": "https://www.bbc.co.uk/programmes/m00349ss",
      "desc": "Outside the shop, Harrison bumps into Azra and says he thinks Zainab will be a brilliant PCSO and they must be proud she’s chosen such an important career. Azra awkwardly raises their reservations due to past behaviour in the police. When they are interrupted by Alan, Azra leaves the men talking about the bell and how they’re still short of cash. Alan invites Harrison to St Stephen’s to chat later…"
@@ -2606,7 +2618,7 @@
      "id": "archers:urn:bbc:podcast:m00349g9",
      "title": "The Archers · 17/11/2026",
      "date": "2026-11-17",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pmfg29.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pmfg29.mp3",
      "dur": 777,
      "link": "https://www.bbc.co.uk/programmes/m00349g9",
      "desc": "Denise calls Pip about the concerns with Lower Loxley’s Cotswold sheep. Pip arrives at the rare breeds to the good news that only two sheep are affected and just need antibiotic spray. Denise tries to subtly ask if Brookfield are considering ending the contract with Lovell James. Pip admits that they are checking with other vets after the price hike. Fallon arrives for work and checks if everythin…"
@@ -2615,7 +2627,7 @@
      "id": "archers:urn:bbc:podcast:m00349fx",
      "title": "The Archers · 16/11/2026",
      "date": "2026-11-16",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pmdqmk.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pmdqmk.mp3",
      "dur": 790,
      "link": "https://www.bbc.co.uk/programmes/m00349fx",
      "desc": "Beth is keeping Vince company as she talks about Elizabeth and tells Vince he has a keeper. The pair of them visited the spinal centre and liked it, but Vince just wants a date to move. All of Vince’s daughters are there for him but it helps having Elizabeth too. He asks about Beth’s time in Canada. Beth asks if he’s going to sue over the tree. Vince takes his fourth work call as he confesses Fred…"
@@ -2624,7 +2636,7 @@
      "id": "archers:urn:bbc:podcast:m00349my",
      "title": "The Archers · 15/11/2026",
      "date": "2026-11-15",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pm3k86.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pm3k86.mp3",
      "dur": 778,
      "link": "https://www.bbc.co.uk/programmes/m00349my",
      "desc": "As people assemble for church, Rex pulls over to talk to Natasha. Martyn Gisbon has revealed the tree was Rewilding’s responsibility to Kirsty who was fuming and knocking on doors. Natasha offers to help talk to her. Alan is happy with the turnout of supporters today. Whilst Alan goes to sort prayer books, Natasha asks what’s the truth as she’s heard rumours she wants to correct. Harrison simply s…"
@@ -2633,7 +2645,7 @@
      "id": "archers:urn:bbc:podcast:m00342ln",
      "title": "The Archers · 13/11/2026",
      "date": "2026-11-13",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pm1fb4.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pm1fb4.mp3",
      "dur": 786,
      "link": "https://www.bbc.co.uk/programmes/m00342ln",
      "desc": "At St Stephen’s, Lynda pitches an art exhibition to Alan. She is conscious they need something to pull the village together at Christmas. Lynda realises Alan’s been looking at the Ambridge community page and at the comments written about him. Usha and Neil arrive catching half a comment, Alan tells Usha not to worry. Neil tells Alan off for allowing kids inside the church unchaperoned. Alan points…"
@@ -2642,7 +2654,7 @@
      "id": "archers:urn:bbc:podcast:m003418l",
      "title": "The Archers · 12/11/2026",
      "date": "2026-11-12",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pm0xpf.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pm0xpf.mp3",
      "dur": 773,
      "link": "https://www.bbc.co.uk/programmes/m003418l",
      "desc": "Early at Lower Loxley, Elizabeth bumps into Freddie who is leaving for work. She makes a comment about Vince’s experienced staff which bristles Freddie. At the Abattoir, Donal is looking for a solution to their excess meat from Freddie who has only left messages with a local procurement manager. Later, Freddie calls Vince with the good news, his idea has worked and Freddie has got a new contract t…"
@@ -2651,7 +2663,7 @@
      "id": "archers:urn:bbc:podcast:m0033zgv",
      "title": "The Archers · 11/11/2026",
      "date": "2026-11-11",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0plf52h.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0plf52h.mp3",
      "dur": 788,
      "link": "https://www.bbc.co.uk/programmes/m0033zgv",
      "desc": "Alan spots Eddie in the community orchard, it’s looking better after the village’s help. Eddie confesses he can’t see the orchard getting back up to what it was. Alan tries to comfort him. Lynda spots them and says it’s good to see them hard at work. Alan is impressed with Eddie literally bolting a branch back together. Lynda laments the poetry readings Alan organised falling through. Alan leaves …"
@@ -2660,7 +2672,7 @@
      "id": "archers:urn:bbc:podcast:m0033z5z",
      "title": "The Archers · 10/11/2026",
      "date": "2026-11-10",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pldm11.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pldm11.mp3",
      "dur": 791,
      "link": "https://www.bbc.co.uk/programmes/m0033z5z",
      "desc": "At The Stables, Harrison is trying to find a clean bowl and questions if it annoys Lily that neither of her flatmates can use a dishwasher. Lily says Grey Gables are asking when she’ll be back, but she’s still needed at Lower Loxley. Harrison says the milk is off and invites Lily over to his. Lily is not comfortable, even with Fallon out working. Josh emerges half-dressed from the lounge to their …"
@@ -2669,7 +2681,7 @@
      "id": "archers:urn:bbc:podcast:m0033z2h",
      "title": "The Archers · 09/11/2026",
      "date": "2026-11-09",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pl977b.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pl977b.mp3",
      "dur": 766,
      "link": "https://www.bbc.co.uk/programmes/m0033z2h",
      "desc": "Lynda is pitching all the changes her dog field would require to Martyn Gibson. As much as he loves the idea, it’s a business venture and BL will require a share of the profits, and a monthly rent. Lynda is taken back as this wasn’t the plan. Freddie tries to revive his school meals idea from before the attack last year to a very busy Donal. Donal says until Vince says that he wants to do it, he’s…"
@@ -2678,7 +2690,7 @@
      "id": "archers:urn:bbc:podcast:m0033yv2",
      "title": "The Archers · 08/11/2026",
      "date": "2026-11-08",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pl7znx.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pl7znx.mp3",
      "dur": 791,
      "link": "https://www.bbc.co.uk/programmes/m0033yv2",
      "desc": "At Lower Loxley, the staff prepare for the two-minute silence as Lily says everyone is really excited about the reopening. When Elizabeth says she’s not visiting Vince today, Lily becomes concerned. Freddie swings by the office to ask if there’s anything he could do to help. Lily starts talking about all the insurance paperwork, losing Freddie. He moves onto his ideas for the abattoir and how he w…"
@@ -2687,7 +2699,7 @@
      "id": "archers:urn:bbc:podcast:m0033s7y",
      "title": "The Archers · 06/11/2026",
      "date": "2026-11-06",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0phlyjk.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0phlyjk.mp3",
      "dur": 780,
      "link": "https://www.bbc.co.uk/programmes/m0033s7y",
      "desc": "Elizabeth is visiting her dad’s grave when she bumps into Alan, who asks after Vince. In the hospital, Vince won’t stop messaging Freddie, but Elizabeth says he can’t run the abattoir from his hospital bed. She asks if he’s heard more about the rehabilitation centre. Vince is tired and asks her about Lower Loxley. When Vince shifts uncomfortably, he snaps at her questions asking for her to get a n…"
@@ -2696,7 +2708,7 @@
      "id": "archers:urn:bbc:podcast:m0033pf7",
      "title": "The Archers · 05/11/2026",
      "date": "2026-11-05",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0phly7z.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0phly7z.mp3",
      "dur": 780,
      "link": "https://www.bbc.co.uk/programmes/m0033pf7",
      "desc": "The celebration at the Orchard is getting into the swing as Alistair helps clear space for Susan’s Malvern pudding. He asks where Neil and Alan are and Denise says she doesn’t blame Alan staying away. They start to question Susan until she’s saved by Esme who wants to thank the vets for their kindness. Later, Josh is telling anecdotes from Patagonia and watching the World Cup. Esme is disappointed…"
@@ -2705,7 +2717,7 @@
      "id": "archers:urn:bbc:podcast:m0033pdr",
      "title": "The Archers · 04/11/2026",
      "date": "2026-11-04",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0phlxty.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0phlxty.mp3",
      "dur": 791,
      "link": "https://www.bbc.co.uk/programmes/m0033pdr",
      "desc": "Anna is meeting Helen at the Tearoom. The auction valuer came round to Glebe cottage and her Dad’s Georgian furniture isn’t worth much as no one wants brown furniture. They move onto the complaint against Alan. Anna says there wasn’t enough evidence to prosecute so the complaint was all she could do. Fallon interrupts the conversation saying she doesn’t believe Alan is taking advantage of anyone v…"
@@ -2714,7 +2726,7 @@
      "id": "archers:urn:bbc:podcast:m0033r7z",
      "title": "The Archers · 03/11/2026",
      "date": "2026-11-03",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0phlwzf.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0phlwzf.mp3",
      "dur": 775,
      "link": "https://www.bbc.co.uk/programmes/m0033r7z",
      "desc": "Alistair and Denise are inspecting a wounded cow. Esme says they got injured in the storm. She confesses the cost of a call out put her off but the cow started lying down a lot. Alistair calmly explains unfortunately it’s too late, the kindest option is to put her down. Esme apologies for not staying till the end. Alistair says the cow felt nothing. Esme laments about the costs, she should have ca…"
@@ -2723,7 +2735,7 @@
      "id": "archers:urn:bbc:podcast:m0033p8s",
      "title": "The Archers · 02/11/2026",
      "date": "2026-11-02",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0phlwvw.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0phlwvw.mp3",
      "dur": 785,
      "link": "https://www.bbc.co.uk/programmes/m0033p8s",
      "desc": "Lily catches her mum leaving to visit the hospital. Lily says she’s coming, everything is under control with Lower Loxley. At the hospital, Vince is upbeat and starts praising Lily for all the work she’s done to help Elizabeth. He asks about how all the repairs are going. Lily is hopeful they will reopen soon, but Elizabeth has her doubts. Vince suddenly has a twinge and suggests Elizabeth goes an…"
@@ -2732,7 +2744,7 @@
      "id": "archers:urn:bbc:podcast:m0033p85",
      "title": "The Archers · 01/11/2026",
      "date": "2026-11-01",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0phlwny.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0phlwny.mp3",
      "dur": 772,
      "link": "https://www.bbc.co.uk/programmes/m0033p85",
      "desc": "Alan is just trying to get through his Sunday duties. Usha laments how much of people’s time will be wasted before the formal complaint against Alan is dismissed. Alan says he hopes it will be dismissed, but talking about it won’t speed it up. He’s just grateful he can still do his job. As Alan gets into his cassock, he chats to Neil who has arrived to chaperone him. Alan knows Neil has been given…"
@@ -2741,7 +2753,7 @@
      "id": "archers:urn:bbc:podcast:m0033f3r",
      "title": "The Archers · 30/10/2026",
      "date": "2026-10-30",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pgt9nr.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pgt9nr.mp3",
      "dur": 779,
      "link": "https://www.bbc.co.uk/programmes/m0033f3r",
      "desc": "Returning to Ambridge, Jazzer and Tracy look at all the damage the storm has caused. Tracy becomes emotional at the spot where the tree nearly injured Chelsea. At least Pip and Stella were able to go on their honeymoon. They’re unloading their suitcases when Helen approaches. She asks how their holiday was, before pointing out that a couple of fence panels have blown across the garden damaging som…"
@@ -2750,7 +2762,7 @@
      "id": "archers:urn:bbc:podcast:m0033f33",
      "title": "The Archers · 29/10/2026",
      "date": "2026-10-29",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pgt9f2.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pgt9f2.mp3",
      "dur": 780,
      "link": "https://www.bbc.co.uk/programmes/m0033f33",
      "desc": "George arrives at Little Grange to check if Keira has gone to school. He offers to give her a lift, but Keira says the bus is fine. George says it is if she was actually going to school. Keira says all that time in A&E tired her out, and George points out they couldn’t find anything actually wrong with her. George makes her a cup of tea and forces her to talk. She says he’s being horrible. He argu…"
@@ -2759,7 +2771,7 @@
      "id": "archers:urn:bbc:podcast:m0033g2k",
      "title": "The Archers · 28/10/2026",
      "date": "2026-10-28",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pgt8zn.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pgt8zn.mp3",
      "dur": 789,
      "link": "https://www.bbc.co.uk/programmes/m0033g2k",
      "desc": "Zainab thinks her dad is avoiding her. Azra says he’s just on a plumbing job in Penny Hassett. Zainab says she can protect herself and that she’s already dealt with racism, recently from Lawrence at the golf club. Azra says she might have to arrest people she’s sympathetic to, but Zainab says she’s hardly the first Muslim woman to join the police. Azra says she would be the first in the family, to…"
@@ -2768,7 +2780,7 @@
      "id": "archers:urn:bbc:podcast:m0033dn0",
      "title": "The Archers · 27/10/2026",
      "date": "2026-10-27",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pgt8wh.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pgt8wh.mp3",
      "dur": 788,
      "link": "https://www.bbc.co.uk/programmes/m0033dn0",
      "desc": "Ed calls Storm a “little bruiser” whilst George recounts some of Will’s storm puns. Keira pulls a face at having to go to catch-up classes during half term. Storm then needs changing, getting them off the topic of school. As Ed double checks Keira has everything, she becomes teary and begs not to go. Keira says she’s getting flashbacks and can’t be around people. She pleads for one more day at hom…"
@@ -2777,7 +2789,7 @@
      "id": "archers:urn:bbc:podcast:m0033dmk",
      "title": "The Archers · 26/10/2026",
      "date": "2026-10-26",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pgt8t5.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pgt8t5.mp3",
      "dur": 788,
      "link": "https://www.bbc.co.uk/programmes/m0033dmk",
      "desc": "There’s chaos in the kitchen at No. 1 The Green with baby things everywhere. Ed and Will discuss baby Storm’s name. Will says he’d be besotted even if the baby was called Donut. Akram proposes a family breakfast as Azra doesn’t have work until lunchtime, but Zainab says she wants to talk to them both. She has been thinking about her future, and she wants to help people for a career. Akram keeps in…"
@@ -2786,7 +2798,7 @@
      "id": "archers:urn:bbc:podcast:m0033dv1",
      "title": "The Archers · 25/10/2026",
      "date": "2026-10-25",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pgt8nv.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pgt8nv.mp3",
      "dur": 786,
      "link": "https://www.bbc.co.uk/programmes/m0033dv1",
      "desc": "Eddie and George are trying to rescue a turkey. George refers to the turkey as Stormzy as they slowly catch him. When George says he and Amber will be coming to the community orchard later, Eddie doubts anyone will turn up. The Maliks are heading down to the orchard after Akram takes down his broken greenhouse at the allotment. Zainab offers to help but Akram is feeling sentimental. Elizabeth knoc…"
@@ -2795,7 +2807,7 @@
      "id": "archers:urn:bbc:podcast:m00333sx",
      "title": "The Archers · 23/10/2026",
      "date": "2026-10-23",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pg8ryh.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pg8ryh.mp3",
      "dur": 773,
      "link": "https://www.bbc.co.uk/programmes/m00333sx",
      "desc": "Pip and Josh catch up on the way to visit Vince in hospital. Pip can’t believe Josh wound them all up, pretending he wouldn’t be coming back for the wedding. Josh doesn’t yet know if he’ll return to Patagonia. At Lower Loxley, Elizabeth admits to Lily that a long sleep and food have put her in a better place. She feels up to catching up with some work before visiting Vince. Lily admits that she re…"
@@ -2804,7 +2816,7 @@
      "id": "archers:urn:bbc:podcast:m00333cw",
      "title": "The Archers · 22/10/2026",
      "date": "2026-10-22",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pg8r60.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pg8r60.mp3",
      "dur": 785,
      "link": "https://www.bbc.co.uk/programmes/m00333cw",
      "desc": "Zainab thinks she’s seen Joy’s missing cat Ena on the roof of a neighbour’s house. She borrows a pet carrier from the vets while Harrison fetches a ladder, and they work together to get it down. Harrison is hesitant – not because he’s afraid of heights, but because he doesn’t like handling cats. Joy is delighted - she’ll get Ena fed and checked over and let the cat chat know she’s been found. Eliz…"
@@ -2813,7 +2825,7 @@
      "id": "archers:urn:bbc:podcast:m00333bx",
      "title": "The Archers · 21/10/2026",
      "date": "2026-10-21",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pg8qjt.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pg8qjt.mp3",
      "dur": 786,
      "link": "https://www.bbc.co.uk/programmes/m00333bx",
      "desc": "Keira and Eddie are surveying the damaged trees at the Community Orchard the day after the storm. Many trees have been destroyed and there are hundreds of apples to collect before they start to rot. Keira’s glad to have mild injuries, enough to allow her off school for the day. Eddie comments on how the storm is good for the tree surgery business. After half an hour of collecting apples they’ve st…"
@@ -2822,7 +2834,7 @@
      "id": "archers:urn:bbc:podcast:m0033367",
      "title": "The Archers · 20/10/2026",
      "date": "2026-10-20",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pg8mg0.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pg8mg0.mp3",
      "dur": 782,
      "link": "https://www.bbc.co.uk/programmes/m0033367",
      "desc": "The storm continues into the early evening of Sunday. At Lower Loxley, David approaches Elizabeth with the news of Vince’s accident and that the ambulance can’t get through. Pip and Stella want to help and remember they have the tractor and front loader. As Chelsea and Josh wait for the ambulance, Chelsea praises unconscious Vince for saving her life by pushing her out of the way of the tree. As t…"
@@ -2831,7 +2843,7 @@
      "id": "archers:urn:bbc:podcast:m00331p4",
      "title": "The Archers · 19/10/2026",
      "date": "2026-10-19",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pg8ks8.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pg8ks8.mp3",
      "dur": 791,
      "link": "https://www.bbc.co.uk/programmes/m00331p4",
      "desc": "It’s still Sunday and Ben and Ruth are enjoying the buffet and looking forward to the brides’ first dance. Ruth wishes Josh was there to be part of it – he shouldn’t be missing his own sister’s wedding over a girl he’s just met. Out in the storm, Vince finally regains consciousness encouraged by Chelsea. She doesn’t want to move him, and can’t raise the alarm on either of their phones, which are t…"
@@ -2840,7 +2852,7 @@
      "id": "archers:urn:bbc:podcast:m00331nt",
      "title": "The Archers · 18/10/2026",
      "date": "2026-10-18",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pfp82t.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pfp82t.mp3",
      "dur": 790,
      "link": "https://www.bbc.co.uk/programmes/m00331nt",
      "desc": "At Brookfield bungalow, Chelsea is hurricane-proofing Pip’s hair with extra spray when Stella comes in. The brides admire each other’s beauty – they’ve decided not to follow the bad luck superstitions of not seeing each other before the wedding. David arrives with the tractor decorated with fairy lights and Stella drives Pip to Lower Loxley in the pouring rain. Clarrie and Eddie are ready to leave…"
@@ -2849,7 +2861,7 @@
      "id": "archers:urn:bbc:podcast:m0032rdm",
      "title": "The Archers · 16/10/2026",
      "date": "2026-10-16",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pfmnyb.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pfmnyb.mp3",
      "dur": 783,
      "link": "https://www.bbc.co.uk/programmes/m0032rdm",
      "desc": "Officially finished work to concentrate on Sunday’s wedding, Pip and Stella visit Lower Loxley to hear Elizabeth’s wet weather contingency plans. The brides-to-be are upbeat and confident. They’re determined to make the most of it, whatever the weather. Stella reveals to Pip that she and David have possibly fallen out over her comments about Josh. David joins them with an apology about his outburs…"
@@ -2858,7 +2870,7 @@
      "id": "archers:urn:bbc:podcast:m0032r5l",
      "title": "The Archers · 15/10/2026",
      "date": "2026-10-15",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pf8j5w.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pf8j5w.mp3",
      "dur": 764,
      "link": "https://www.bbc.co.uk/programmes/m0032r5l",
      "desc": "After two days of being ignored by Khalil, Keira has had enough and confronts him on the bus to school. He thinks she should know why he’s not talking to her, but she is adamant that she hasn’t got a clue. Later, Khalil reveals to Henry that Keira broke her promise, telling Henry about Khalil’s childhood cancer. Henry reveals that he actually found out online via a fundraising page featuring an ol…"
@@ -2867,7 +2879,7 @@
      "id": "archers:urn:bbc:podcast:m0032r53",
      "title": "The Archers · 14/10/2026",
      "date": "2026-10-14",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pf8j39.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pf8j39.mp3",
      "dur": 774,
      "link": "https://www.bbc.co.uk/programmes/m0032r53",
      "desc": "At Berrow Farm, Martyn Gibson is concerned about costs in their challenging pig industry and warns Jazzer that they’ll need to make hefty savings. Jazzer fishes for information – does he mean job losses? Martyn assures him that Jazzer's job at least is safe. Jazzer is worried. Hannah’s put an offer in for her first house – and what about Neil? After talking about the stormy forecast for the weddin…"
@@ -2876,7 +2888,7 @@
      "id": "archers:urn:bbc:podcast:m0032sb7",
      "title": "The Archers · 13/10/2026",
      "date": "2026-10-13",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pf8hp4.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pf8hp4.mp3",
      "dur": 775,
      "link": "https://www.bbc.co.uk/programmes/m0032sb7",
      "desc": "Keira and Henry wish Khalil a happy 16th birthday and promise him a treat at the school shop. Keira is looking forward to dancing and celebrating with the boys at the wedding, however she’s less impressed at having to go to school over half term for catch up lessons. Waiting in the shop queue, Henry almost lets slip that he knows about Khalil’s childhood cancer and covers himself, however Khalil i…"
@@ -2885,7 +2897,7 @@
      "id": "archers:urn:bbc:podcast:m0032qp7",
      "title": "The Archers · 12/10/2026",
      "date": "2026-10-12",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pf8hd3.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pf8hd3.mp3",
      "dur": 771,
      "link": "https://www.bbc.co.uk/programmes/m0032qp7",
      "desc": "Pip and David discuss AI in farming, which they think can’t be ignored. Pip tells David that Stella’s mum is still coming to the wedding but won’t be walking Stella down the aisle. David offers his services instead of Stella’s mum. The weather forecast still isn’t good for the wedding and Josh messages to say he won’t be back from Patagonia in time. Ruth wonders to David and Pip if Azra will keep …"
@@ -2894,7 +2906,7 @@
      "id": "archers:urn:bbc:podcast:m0032qnt",
      "title": "The Archers · 11/10/2026",
      "date": "2026-10-11",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pf8h83.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pf8h83.mp3",
      "dur": 777,
      "link": "https://www.bbc.co.uk/programmes/m0032qnt",
      "desc": "Pip and Stella are in wedding planning mode and discuss their first dance, practicing lifting each other. On a more serious note, Pip is worried about the lack of silage stored for their pasture-fed herd. They’re running low even before the cows come inside for the winter. They’re interrupted by a message – Stella’s mum’s in A&E. Nothing is broken but she has a bad sprain and won’t be able to walk…"
@@ -2903,7 +2915,7 @@
      "id": "archers:urn:bbc:podcast:m0032fmc",
      "title": "The Archers · 09/10/2026",
      "date": "2026-10-09",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pblgws.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pblgws.mp3",
      "dur": 785,
      "link": "https://www.bbc.co.uk/programmes/m0032fmc",
      "desc": "At the Rewilding site, people gather on a beautiful day for Carol Tregorran’s send off. Fallon makes a fond joke about Carol. Jolene’s pleased to see her daughter laughing again, especially after seeing Harrison apparently move on so fast, with Lily. Fallon needs a blank canvas and Jolene suggests legal advice about Woodbine cottage. Fallon comforts emotional Anna, who’s ignoring calls from Alan. …"
@@ -2912,7 +2924,7 @@
      "id": "archers:urn:bbc:podcast:m0032flv",
      "title": "The Archers · 08/10/2026",
      "date": "2026-10-08",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pblgvf.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pblgvf.mp3",
      "dur": 784,
      "link": "https://www.bbc.co.uk/programmes/m0032flv",
      "desc": "Helen complains to Alistair about Lovell James’ price hikes and the impact on her and other farmers. At Alistair’s lack of conviction, Helen vows to take the fight on herself, by writing a letter to the company for others to sign. She’s cheered on by Paul, to Alistair’s annoyance. Later Alistair admits that while he supports Helen, he’s worried about how it looks for them. Paul states that Alistai…"
@@ -2921,7 +2933,7 @@
      "id": "archers:urn:bbc:podcast:m0032fr1",
      "title": "The Archers · 07/10/2026",
      "date": "2026-10-07",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pblgrg.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pblgrg.mp3",
      "dur": 778,
      "link": "https://www.bbc.co.uk/programmes/m0032fr1",
      "desc": "At the cider party for Amber and George’s baby, Eddie remarks on how the baby heralds the new generation of Grundys. Clarrie basks in how different things feel from a year ago, when George was still in prison. Clarrie notes how good Keira is with the baby, and how nice it is to see Keira and Amber getting on. Driving, Anne Marie is sober as Bill gets drunk on strong cider. Anne Marie tells Amber i…"
@@ -2930,7 +2942,7 @@
      "id": "archers:urn:bbc:podcast:m0032gpx",
      "title": "The Archers · 06/10/2026",
      "date": "2026-10-06",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pblgkx.mp3",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pblgkx.mp3",
      "dur": 786,
      "link": "https://www.bbc.co.uk/programmes/m0032gpx",
      "desc": "Anna feels she should have been more present for Carol, and Alan reassures Anna, praising her ideas for Carol’s Celebration of Life. They discuss the lovely Green Burial site, service plans, and Alan’s role. Harrison shares his condolences, and Anna’s full of praise for Alan’s way with Carol. Harrison’s invited with Fallon to the ceremony at Rewilding for Carol, and he explains that he and Fallon …"
@@ -2947,7 +2959,8 @@
      "audio": "https://traffic.libsyn.com/secure/bizpod/BEP083c-Previous-Experience.mp3",
      "dur": 1070,
      "link": "https://www.businessenglishpod.com/2026/11/08/bep-83c-interview-in-english-previous-experience/",
-     "desc": "https://traffic.libsyn.com/secure/bizpod/BEP083c-Previous-Experience.mp3 Welcome back to Business English Pod for today’s lesson on discussing your previous experience during a job interview in English . Job interviews in English can be incredibly stressful. It’s not something you do regularly, so you may not have a lot of practice with it. And if you’re like many people, it may simply feel uncomf…"
+     "desc": "https://traffic.libsyn.com/secure/bizpod/BEP083c-Previous-Experience.mp3 Welcome back to Business English Pod for today’s lesson on discussing your previous experience during a job interview in English . Job interviews in English can be incredibly stressful. It’s not something you do regularly, so you may not have a lot of practice with it. And if you’re like many people, it may simply feel uncomf…",
+     "tx": "e0da1ad47dbcd599"
     },
     {
      "id": "bep:https://www.businessenglishpod.com/?p=24842",
