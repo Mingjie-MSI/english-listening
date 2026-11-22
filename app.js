@@ -252,6 +252,38 @@
     return Promise.resolve(TXC[name]);
   }
 
+  // Some publishers (NPR, TED, All Ears English) insert ads of a different length for each listener, so the
+  // times in the file, taken from the copy GitHub downloaded (d.d = its length), can be off for this user.
+  // First guess: the difference in length. The user can re-sync by tapping the sentence they hear.
+  // S.txOff[name] = { auto: sec, m: [[row, sec], ...] }: m applies from that row on.
+  function txOffsets(name) { S.txOff = S.txOff || {}; return S.txOff[name] || (S.txOff[name] = { m: [] }); }
+  function rowOffset(o, i) { let v = o.auto || 0; for (const [k, s] of o.m) if (k <= i) v = s; return v; }
+  function applyOffsets(panel) {
+    const name = panel.dataset.ready, d = TXC[name]; if (!d || !d.s) return;
+    const o = (S.txOff || {})[name] || { m: [] };
+    const [date, ti] = panel.dataset.key.split(":"); const t = S.days[date].tasks[+ti];
+    const lo = t.kind === "ext" ? t.start || 0 : 0, hi = t.kind === "ext" && t.end ? t.end : Infinity;
+    panel.querySelectorAll(".s").forEach((row, i) => {
+      const at = Math.max(0, d.s[i][0] + rowOffset(o, i));
+      row.dataset.t = at.toFixed(1);
+      row.classList.toggle("out", at < lo - 1 || at >= hi);
+    });
+    const r = panel.querySelector('[data-txcal="reset"]'); if (r) r.hidden = !o.m.length;
+    if (lastRow) lastRow.classList.remove("cur");
+    lastRow = null;
+  }
+  function calibrate(row) {
+    const panel = row.closest(".txp"); panel.classList.remove("calmode");
+    const [date, ti] = panel.dataset.key.split(":");
+    if (!(active && active.date === date && active.ti === +ti) || audio.paused) { flash("要先播放：听到哪句，再点「校准」和那一句"); return; }
+    const name = panel.dataset.ready, d = TXC[name], i = +row.dataset.i, o = txOffsets(name);
+    o.m = o.m.filter(([k]) => k !== i);
+    o.m.push([i, Math.round((audio.currentTime - 0.8 - d.s[i][0]) * 10) / 10]);     // 0.8 s: time to find and tap it
+    o.m.sort((a, b) => a[0] - b[0]);
+    save(); applyOffsets(panel); syncTx();
+    flash("校准好了：从这句往后按新的时间走");
+  }
+
   function enHtml(text, vocab) {
     return text.split(/([A-Za-z]+(?:['’][A-Za-z]+)?)/).map((p, i) => {
       if (i % 2 === 0) return esc(p);
@@ -274,10 +306,14 @@
     panel.innerHTML = `<div class="txbar">
         <label><input type="checkbox" data-act="txzh" ${S.txZh ? "checked" : ""}> 中文</label>
         <label><input type="checkbox" data-act="txfollow" ${S.txFollow ? "checked" : ""}> 跟随播放</label>
+        <button type="button" class="txcal" data-txcal="on" title="声音和高亮的句子对不上时用">⏱ 校准</button>
+        <button type="button" class="txcal" data-txcal="reset" hidden>还原</button>
         <span class="muted">点句子从那里播放 · 点<mark class="v demo">黄色生词</mark>看释义</span></div>
+      <div class="calhint">播放中，点一下<b>现在正在读的那一句</b>，后面的句子就按它对齐。</div>
       ${d.mode === "asr" ? `<div class="muted txnote">这个节目没有官方原文，下面是语音识别自动生成的，个别词可能不准。</div>` : ""}
       <div class="txbody">${d.s.map((r, i) => `<div class="s${r[0] < lo - 1 || r[0] >= hi ? " out" : ""}" data-i="${i}" data-t="${r[0]}">${r[3] ? `<div class="spk">${esc(r[3])}</div>` : ""}<div class="en">${enHtml(r[1], d.w || {})}</div>${r[2] ? `<div class="zh">${esc(r[2])}</div>` : ""}</div>`).join("")}</div>`;
     lastRow = null;
+    applyOffsets(panel);
     const body = panel.querySelector(".txbody");
     const hold = () => { holdScroll = Date.now() + 6000; };          // the user is scrolling: don't pull the text back for a while
     body.addEventListener("wheel", hold, { passive: true });
@@ -300,11 +336,20 @@
     if (!active) return;
     const panel = document.querySelector(`.txp[data-key="${active.date}:${active.ti}"]`);
     if (!panel || panel.hidden || !panel.dataset.ready) return;
+    const d = TXC[panel.dataset.ready];
+    if (d && d.d && audio.duration > 0 && isFinite(audio.duration)) {
+      const o = txOffsets(panel.dataset.ready);
+      if (o.auto == null) {                      // first time this audio is loaded: guess the ad offset
+        const g = audio.duration - d.d;
+        o.auto = Math.abs(g) >= 4 ? Math.round(g * 10) / 10 : 0;
+        save();
+        if (o.auto) applyOffsets(panel);
+      }
+    }
     const rows = panel.querySelectorAll(".s"); if (!rows.length) return;
     const now = audio.currentTime + 0.15;
-    let a = 0, b = rows.length - 1, idx = -1;
-    while (a <= b) { const m = (a + b) >> 1; if (+rows[m].dataset.t <= now) { idx = m; a = m + 1; } else b = m - 1; }
-    const row = idx >= 0 ? rows[idx] : null;
+    let row = null, best = -1;                  // latest start not after now (calibration can leave times out of order)
+    for (const r of rows) { const t = +r.dataset.t; if (t <= now && t >= best) { best = t; row = r; } }
     if (row === lastRow) return;
     if (lastRow) lastRow.classList.remove("cur");
     lastRow = row;
@@ -647,6 +692,15 @@
   const today$ = $("#tab-today");
   today$.addEventListener("click", (e) => {
     if (e.target.classList.contains("desc")) { e.target.classList.toggle("open"); return; }
+    const cb = e.target.closest("[data-txcal]");
+    if (cb) {
+      const p = cb.closest(".txp");
+      if (cb.dataset.txcal === "reset") { txOffsets(p.dataset.ready).m = []; save(); applyOffsets(p); syncTx(); flash("已还原"); }
+      else p.classList.toggle("calmode");
+      return;
+    }
+    const calRow = e.target.closest(".txp.calmode .s");
+    if (calRow) { calibrate(calRow); return; }
     const mk = e.target.closest("mark.v");
     if (mk) { showGloss(mk); return; }
     const row = e.target.closest(".txp .s");
