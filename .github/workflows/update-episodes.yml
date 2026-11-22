@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:                 # a second run (e.g. "Run workflow" clicked twice) waits for the first instead of clashing with it
+  group: update-episodes
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
