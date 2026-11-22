@@ -33,10 +33,13 @@ TX_DIR = os.path.join(DATA, "tx")
 GLOSS_CACHE = os.path.join(HERE, "gloss_cache.json")
 VERSION = 1
 
-MODEL = os.environ.get("WHISPER_MODEL", "small.en")
-BEAM = int(os.environ.get("WHISPER_BEAM", "2"))
+# Official text only needs word times from Whisper, so the small fast model is enough there;
+# shows without an official transcript display Whisper's text, so they get the more accurate one.
+MODEL_ALIGN = os.environ.get("WHISPER_MODEL_ALIGN", "tiny.en")
+MODEL_TEXT = os.environ.get("WHISPER_MODEL_TEXT", "base.en")
+BEAM = int(os.environ.get("WHISPER_BEAM", "1"))
 BUDGET = float(os.environ.get("TX_BUDGET_MIN", "60")) * 60
-SPEED = 0.4            # rough seconds of CPU per second of audio, used to stay inside the budget
+SPEED = {"align": 0.15, "text": 0.3}   # seconds of work per second of audio; updated from real runs
 RARE = 3.6             # zipf frequency below this counts as vocabulary (≈ outside the 15k most common words)
 MAX_VOCAB = 120
 
@@ -44,7 +47,7 @@ MAX_VOCAB = 120
 INT = [("bbc6", None), ("lifekit", None), ("shortwave", 20 * 60), ("ted", 25 * 60)]
 EXT = [("archers", None), ("allears", 22 * 60), ("bep", 25 * 60), ("shortwave", 17 * 60),
        ("ted", 20 * 60), ("planetmoney", None)]
-DEPTH_INT, DEPTH_EXT = 3, 2
+DEPTH_INT, DEPTH_EXT = 2, 1
 
 T0 = time.time()
 
@@ -164,15 +167,16 @@ def split_sents(text):
 
 
 # ---------------------------------------------------------------- Whisper
-_model = None
+_models = {}
 
 
-def asr_words(audio_url):
-    global _model
+def asr_words(audio_url, kind):
     from faster_whisper import WhisperModel
-    if _model is None:
-        log("  loading Whisper", MODEL)
-        _model = WhisperModel(MODEL, device="cpu", compute_type="int8", cpu_threads=os.cpu_count() or 4)
+    name = MODEL_ALIGN if kind == "align" else MODEL_TEXT
+    if name not in _models:
+        log("  loading Whisper", name)
+        _models[name] = WhisperModel(name, device="cpu", compute_type="int8", cpu_threads=os.cpu_count() or 4)
+    model = _models[name]
     fd, path = tempfile.mkstemp(suffix=".mp3")
     os.close(fd)
     try:
@@ -183,10 +187,12 @@ def asr_words(audio_url):
                 if not b:
                     break
                 f.write(b)
-        segs, _ = _model.transcribe(path, language="en", beam_size=BEAM, word_timestamps=True,
+        segs, _ = model.transcribe(path, language="en", beam_size=BEAM, word_timestamps=True,
                                     vad_filter=True, condition_on_previous_text=False)
         words = []
         for s in segs:
+            if time.time() - T0 > BUDGET + 300:
+                raise TimeoutError("over the time budget, stopped this episode")
             for w in s.words or []:
                 words.append((w.word, round(w.start, 2), round(w.end, 2)))
         return words
@@ -388,8 +394,12 @@ def gloss(words, cache):
 def build(src, ep, path, cache):
     lines, forced = official(src, ep)
     log("  official transcript:", f"{len(lines)} paragraphs" if lines else "none")
-    words = asr_words(ep["audio"])
-    log(f"  whisper: {len(words)} words")
+    kind = "align" if lines else "text"
+    t1 = time.time()
+    words = asr_words(ep["audio"], kind)
+    if ep.get("dur"):
+        SPEED[kind] = max(SPEED[kind] * 0.5, (time.time() - t1) / ep["dur"])
+    log(f"  whisper ({kind}): {len(words)} words in {time.time() - t1:.0f}s")
     if not words:
         return False
     mode, sents = "asr", None
@@ -475,7 +485,7 @@ def main():
         path = os.path.join(TX_DIR, tx_name(ep["id"]) + ".json")
         if os.path.exists(path):
             continue
-        est = (ep.get("dur") or 900) * SPEED
+        est = (ep.get("dur") or 900) * SPEED["align" if ep.get("transcript") else "text"] + 30
         if time.time() - T0 + est > BUDGET:
             log("time budget reached; the rest waits for the next run")
             break
