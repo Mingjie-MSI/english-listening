@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T04:44:51Z",
+ "updated": "2026-11-23T00:59:10Z",
  "sources": {
   "bbc6": {
    "name": "BBC 6 Minute English",
@@ -1125,6 +1125,17 @@
    "name": "TED Talks Daily",
    "items": [
     {
+     "id": "ted:6b007e1204470b737a38a15b",
+     "title": "Sunday Pick: Romance is dead, long live romance | from Corner Piece",
+     "date": "2026-11-22",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b007e1204470b737a38a15b/media.mp3",
+     "dur": 2629,
+     "link": "https://audiocollective.ted.com/",
+     "desc": "The proliferation of dating apps have people thinking romance is dead. But is that what romance really is? In today’s Sunday Pick, we bring you another episode of the TED podcast, Corner Piece , where host Melissa sets out to discover the true definition of romance, and if it’s even achievable in modern life. She interviews Professor Carrie Jenkins to understand the biological and social foundatio…",
+     "skip": true,
+     "transcript": null
+    },
+    {
      "id": "ted:6b00794904470b737a38a15a",
      "title": "Why intuition is the heart of music | Fabiola Reyna",
      "date": "2026-11-21",
@@ -1522,16 +1533,6 @@
      "desc": "Monica Lewinsky is an anti-bullying activist and host of Reclaiming with Monica, a podcast that shines her guests’ unguarded conversations about how they make sense of the world. In this episode filmed in front of a live audience at TED 2026, Chris interviews Monica on how she finds healing throughout the years. They discuss the role of public shaming in an online world, the differences between ca…",
      "skip": true,
      "transcript": null
-    },
-    {
-     "id": "ted:6acfa6f7b3381b9dbb7c315e",
-     "title": "What people living in democracies take for granted | Leopoldo López",
-     "date": "2026-10-17",
-     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa6f7b3381b9dbb7c315e/media.mp3",
-     "dur": 2696,
-     "link": "https://go.ted.com/leopoldolopez2026",
-     "desc": "Activist Leopoldo López learned the true value of freedom in a solitary confinement cell, when someone else decided if he would eat or see sunlight. In this searching conversation, he explains why democracy is losing ground across the globe, the state of Venezuela's transition after Maduro's capture and the 2026 earthquakes — and why he founded the World Liberty Congress to unite activists in the …",
-     "transcript": "https://www.ted.com/talks/leopoldo_lopez_what_people_living_in_democracies_take_for_granted/transcript"
     }
    ]
   },
@@ -2587,6 +2588,16 @@
    "name": "BBC The Archers",
    "items": [
     {
+     "id": "archers:urn:bbc:podcast:m0034lxv",
+     "title": "The Archers · 22/11/2026",
+     "date": "2026-11-22",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pn966v.mp3",
+     "dur": 790,
+     "link": "https://www.bbc.co.uk/programmes/m0034lxv",
+     "desc": "One resident seems to be having seconds thoughts, and Susan reaches the end of her tether.",
+     "tx": "0c8d105861da1f67"
+    },
+    {
      "id": "archers:urn:bbc:podcast:m0034c6b",
      "title": "The Archers · 20/11/2026",
      "date": "2026-11-20",
@@ -2937,21 +2948,22 @@
      "dur": 778,
      "link": "https://www.bbc.co.uk/programmes/m0032fr1",
      "desc": "At the cider party for Amber and George’s baby, Eddie remarks on how the baby heralds the new generation of Grundys. Clarrie basks in how different things feel from a year ago, when George was still in prison. Clarrie notes how good Keira is with the baby, and how nice it is to see Keira and Amber getting on. Driving, Anne Marie is sober as Bill gets drunk on strong cider. Anne Marie tells Amber i…"
-    },
-    {
-     "id": "archers:urn:bbc:podcast:m0032gpx",
-     "title": "The Archers · 06/10/2026",
-     "date": "2026-10-06",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pblgkx.mp3",
-     "dur": 786,
-     "link": "https://www.bbc.co.uk/programmes/m0032gpx",
-     "desc": "Anna feels she should have been more present for Carol, and Alan reassures Anna, praising her ideas for Carol’s Celebration of Life. They discuss the lovely Green Burial site, service plans, and Alan’s role. Harrison shares his condolences, and Anna’s full of praise for Alan’s way with Carol. Harrison’s invited with Fallon to the ceremony at Rewilding for Carol, and he explains that he and Fallon …"
     }
    ]
   },
   "bep": {
    "name": "Business English Pod",
    "items": [
+    {
+     "id": "bep:https://www.businessenglishpod.com/?p=24901",
+     "title": "Business English News 63 – Elon Musk and SpaceX",
+     "date": "2026-11-22",
+     "audio": "https://traffic.libsyn.com/secure/bizpod/BEN63-Musk-SpaceX.mp3",
+     "dur": 392,
+     "link": "https://www.businessenglishpod.com/2026/11/22/business-english-news-63-elon-musk-spacex/",
+     "desc": "https://traffic.libsyn.com/secure/bizpod/BEN63-Musk-SpaceX.mp3 In this Business English News lesson on Elon Musk and SpaceX, we look at business English vocabulary related to tech and company finance. Open the news on any given day and you’re sure to see a picture of one of big tech’s “broligarchy.” These days you can bet Open AI’s Sam Altman and Anthropic’s Dario Amodei feel some relief that ever…",
+     "tx": "c13b25734d286691"
+    },
     {
      "id": "bep:https://www.businessenglishpod.com/?p=24862",
      "title": "BEP 83c – Interview in English: Previous Experience",
@@ -3041,7 +3053,7 @@
      "audio": "https://traffic.libsyn.com/secure/bizpod/BEP-164c-Football-Idioms-2.mp3",
      "dur": 1257,
      "link": "https://www.businessenglishpod.com/2026/06/21/bep-164c-football-idioms-part-2/",
-     "desc": "https://traffic.libsyn.com/secure/bizpod/BEP-164c-Football-Idioms-2.mp3 Welcome back to Business English Pod. With the World Cup underway, we’re taking another look at one of our lessons on English idioms related to football . People have been competing in and watching some form of sports for thousands of years. Sports enduring popularity has helped it grow into a $2.3 trillion a year industry. An…"
+     "desc": "Learn English idioms related to football. >>> The post BEP 164c – Football Idioms (Part 2) first appeared on Business English Pod :: Learn Business English Online ."
     },
     {
      "id": "bep:https://www.businessenglishpod.com/?p=24636",
@@ -3483,15 +3495,6 @@
      "dur": 1443,
      "link": "https://www.businessenglishpod.com/2024/06/23/bep-408-quality-control-1-manufacturing/",
      "desc": "Learn English collocations for discussing quality control in the manufacturing process. >>> The post BEP 408 – Quality Control 1: Manufacturing first appeared on Business English Pod :: Learn Business English Online ."
-    },
-    {
-     "id": "bep:https://www.businessenglishpod.com/?p=22251",
-     "title": "Skills 360 – How to Overcome Cognitive Bias",
-     "date": "2024-06-09",
-     "audio": "https://traffic.libsyn.com/secure/bizpod/360.98-Cognitive-Bias-2.mp3",
-     "dur": 449,
-     "link": "https://www.businessenglishpod.com/2024/06/09/skills-360-how-to-overcome-cognitive-bias/",
-     "desc": "Learn how to overcome the cognitive biases that may impact decision-making. >>> The post Skills 360 – How to Overcome Cognitive Bias first appeared on Business English Pod :: Learn Business English Online ."
     }
    ]
   }
