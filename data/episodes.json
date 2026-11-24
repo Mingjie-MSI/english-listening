@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T00:59:10Z",
+ "updated": "2026-11-24T04:52:48Z",
  "sources": {
   "bbc6": {
    "name": "BBC 6 Minute English",
@@ -412,6 +412,17 @@
    "name": "NPR Short Wave",
    "items": [
     {
+     "id": "shortwave:1a53cf9b-907d-4fd7-baa7-7fff7ef5210d",
+     "title": "Your favorite apple is a cloned ovary – and other apple facts",
+     "date": "2026-11-23",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/799b2c97-989d-4a8d-916f-cf393258e6b1/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=799b2c97-989d-4a8d-916f-cf393258e6b1&feed=F0qJcgXZ&t=podcast&e=nx-s1-6050315&p=510351&d=892&size=14277529",
+     "dur": 892,
+     "link": "https://www.npr.org/2026/11/23/nx-s1-6050315/apple-orchard-harvest-ovary-clone",
+     "desc": "What’s your favorite apple? Whether it’s classic Gala, tart Granny Smith, the crowd-pleasing Honeycrisp or the infamous Red Delicious – before your favorite apple made it to your local orchard or your neighborhood grocery store, it had to be invented – by a scientist . So in this Short Wave episode, we’re going straight to the source. Host Emily Kwong and producer Hannah Chinn dive into how apples…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6050315",
+     "tx": "240eb2b564388907"
+    },
+    {
      "id": "shortwave:418e65da-a190-4639-8188-62907ff41159",
      "title": "This gas station drug acts like opioids. It’s getting harder to buy",
      "date": "2026-11-20",
@@ -802,16 +813,6 @@
      "link": "https://www.npr.org/2026/09/15/nx-s1-5847020/diagnosis-crisis-medical-error-patient",
      "desc": "Nearly every person will experience at least one diagnostic error in their lifetime. That means either a delayed diagnosis, a wrong diagnosis – or no diagnosis at all. That’s according to a report by the National Academies of Sciences, Engineering and Medicine from 2015 on diagnostic error. Today on the show we talk to a physician who was personally affected by the crisis, and New York Times edito…",
      "transcript": "https://www.npr.org/transcripts/nx-s1-5847020"
-    },
-    {
-     "id": "shortwave:7671a285-d2b8-4368-8d06-e1b7ca410f76",
-     "title": "Should race affect BMI guidelines? Doctors are split",
-     "date": "2026-09-14",
-     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f6ce454d-d6e7-4773-9b72-e18a40291170/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f6ce454d-d6e7-4773-9b72-e18a40291170&feed=F0qJcgXZ&t=podcast&e=nx-s1-5818478&p=510351&d=827&size=13238901",
-     "dur": 827,
-     "link": "https://www.npr.org/2026/09/14/nx-s1-5818478/health-body-medicine-doctor-fat-race",
-     "desc": "BMI is a quick, cheap way for doctors to estimate body fat and screen for conditions like heart disease and diabetes. But medicine has long known that BMI is problematic and unnuanced. By using it, groups of people have fallen through the cracks and conditions have been caught late. So, some doctors want to add nuance – to consider race when using BMI. But using race in medicine comes with its own…",
-     "transcript": "https://www.npr.org/transcripts/nx-s1-5818478"
     }
    ]
   },
@@ -1124,6 +1125,17 @@
   "ted": {
    "name": "TED Talks Daily",
    "items": [
+    {
+     "id": "ted:6b045e0af068e148d201778b",
+     "title": "Why government is slow — and how to fix it | Li Hongyi",
+     "date": "2026-11-23",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b045e0af068e148d201778b/media.mp3",
+     "dur": 570,
+     "link": "https://go.ted.com/LiHongyi",
+     "desc": "Government is slow at solving problems — and technologist Li Hongyi wants to fix that. In a quick talk, he introduces his experimental team in the Singaporean government, which visits schools, hospitals, fire stations and communities with one goal: to find problems and prototype solutions. Check out some real-world examples that prove government can be faster, cheaper and more effective. Hosted on…",
+     "transcript": null,
+     "tx": "399bdfee61960385"
+    },
     {
      "id": "ted:6b007e1204470b737a38a15b",
      "title": "Sunday Pick: Romance is dead, long live romance | from Corner Piece",
@@ -1522,23 +1534,21 @@
      "link": "https://go.ted.com/noorsiddiqui",
      "desc": "For all of human history, a baby's DNA was determined by chance at conception: the so-called genetic lottery. \"That era is over,\" says Noor Siddiqui, whose company builds screening tools to read the whole genome of embryos in an effort to give parents more genetic information than standard IVF. She makes the case that this kind of technology helps families understand and reduce health risks, raisi…",
      "transcript": "https://www.ted.com/talks/noor_siddiqui_what_if_you_could_read_the_dna_of_your_future_child/transcript"
-    },
-    {
-     "id": "ted:6acf9f12b3381b9dbb7c315b",
-     "title": "Sunday Pick: How to reclaim your narrative (w/ Monica Lewinsky) | from How to Be a Better Human",
-     "date": "2026-10-18",
-     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acf9f12b3381b9dbb7c315b/media.mp3",
-     "dur": 3270,
-     "link": "https://audiocollective.ted.com/",
-     "desc": "Monica Lewinsky is an anti-bullying activist and host of Reclaiming with Monica, a podcast that shines her guests’ unguarded conversations about how they make sense of the world. In this episode filmed in front of a live audience at TED 2026, Chris interviews Monica on how she finds healing throughout the years. They discuss the role of public shaming in an online world, the differences between ca…",
-     "skip": true,
-     "transcript": null
     }
    ]
   },
   "inourtime": {
    "name": "BBC In Our Time",
    "items": [
+    {
+     "id": "inourtime:urn:bbc:podcast:p0pj9cd5",
+     "title": "Archive: Epic of Gilgamesh",
+     "date": "2026-11-23",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pj9dsn.mp3",
+     "dur": 2881,
+     "link": "https://www.bbc.co.uk/programmes/p0pj9cd5",
+     "desc": "In this archive episode, first released in November 2016, Melvyn Bragg and guests discuss The Epic of Gilgamesh. \"He who saw the Deep\" are the first words of the standard version of Gilgamesh, which is often said to be the oldest surviving great work of literature, with origins in the third millennium BC, and it passed through thousands of years on cuneiform tablets. Unlike epics of Greece and Rom…"
+    },
     {
      "id": "inourtime:urn:bbc:podcast:m003339v",
      "title": "Ishtar, the Mesopotamian goddess of love, sex and war",
@@ -1799,21 +1809,23 @@
      "dur": 3128,
      "link": "https://www.bbc.co.uk/programmes/m002wt1v",
      "desc": "At the Hay Festival, Misha Glenny and guests discuss the impact of the Norman invasion on the people and land of Wales and across the modern border with England in what became known as The Welsh Marches, march being a term for a militarized borderland. Hay was one of the first Marcher lordships. Even before 1066, William the Conqueror knew that he would have to subdue the Welsh if he were to contr…"
-    },
-    {
-     "id": "inourtime:urn:bbc:podcast:m002wkhq",
-     "title": "The Levellers",
-     "date": "2026-06-18",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0nsbb3f.mp3",
-     "dur": 3332,
-     "link": "https://www.bbc.co.uk/programmes/m002wkhq",
-     "desc": "Misha Glenny and guests discuss the group which came to be known as the Levellers and emerged during what would become arguably one of the bloodiest and most turbulent periods of English history. After the First English Civil War, the Levellers started calling for reforms to achieve legal and social equality. They pushed for a new constitution, extended franchise, popular sovereignty, and religiou…"
     }
    ]
   },
   "lifekit": {
    "name": "NPR Life Kit",
    "items": [
+    {
+     "id": "lifekit:e5d3763d-6a83-4404-8007-293cf6cf2fc1",
+     "title": "Video chatting with kids is chaos. It can be so much better",
+     "date": "2026-11-23",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/bc7f285b-9adb-4cc4-9072-245b1395540a/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=bc7f285b-9adb-4cc4-9072-245b1395540a&feed=XkY2SBZJ&t=podcast&e=nx-s1-6049553&p=510338&d=1159&size=18553295",
+     "dur": 1159,
+     "link": "https://www.npr.org/2026/11/23/nx-s1-6049553/video-chatting-with-kids-is-chaos-it-can-be-so-much-better",
+     "desc": "Staying in touch with far-flung family members and friends is an important part of building a strong support network. But anyone who's video chatted with a kid knows it can be challenging. Developmental psychologist Lauren Myers researches how young kids learn from video calls. In this episode, she shares research-backed tips for making these calls easier and more engaging for everyone involved. F…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6049553",
+     "tx": "08298ef715d2c103"
+    },
     {
      "id": "lifekit:07870728-0973-4d4b-a266-398a0103d9cb",
      "title": "You’re probably not getting enough iron. Here’s how to tell.",
@@ -2205,22 +2217,22 @@
      "link": "https://www.npr.org/2026/08/24/nx-s1-5940640/5-questions-that-can-save-you-from-a-bad-purchase",
      "desc": "Sometimes we buy things that we later regret: a new sweater that's already falling apart, or a thrifted \"vintage\" vase that turns out to be a mass-produced dupe. In the moment, it's difficult to resist the temptation of making a purchase. But with a few pointed questions, you can make sure you've done your due diligence. This episode, financial experts offer a framework to help you decide whether …",
      "transcript": "https://www.npr.org/transcripts/nx-s1-5940640"
-    },
-    {
-     "id": "lifekit:2e70d6d0-39fb-45e8-b94b-87d0da701cee",
-     "title": "Dear Life Kit: Should I put my life on hold for my partner?",
-     "date": "2026-08-20",
-     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/471d185e-25b8-4b37-ae06-839873b05c9b/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=471d185e-25b8-4b37-ae06-839873b05c9b&feed=XkY2SBZJ&t=podcast&e=nx-s1-5938808&p=510338&d=1001&size=16020881",
-     "dur": 1001,
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5938808/dear-life-kit-should-i-put-my-life-on-hold-for-my-partner",
-     "desc": "In this edition of Dear Life Kit, more wisdom from our vast archives to help you figure out: -Whether you can refuse a gift -If you should move in with your partner if they're not ready -How to feel like an actual \"graduated\" grown-up Send us your own Dear Life Kit questions at npr.org/dearlifekit Follow us on Instagram: @nprlifekit Sign up for our newsletter here. Have an episode idea or feedback…",
-     "transcript": "https://www.npr.org/transcripts/nx-s1-5938808"
     }
    ]
   },
   "allears": {
    "name": "All Ears English",
    "items": [
+    {
+     "id": "allears:78966272-d7f6-11f1-88ee-83fc3e921bce",
+     "title": "AEE 2726: What to Say When You Didn’t Get the Joke",
+     "date": "2026-11-23",
+     "audio": "https://traffic.megaphone.fm/ALLE9506246639.mp3",
+     "dur": 1189,
+     "link": "https://www.allearsenglish.com/roadmap",
+     "desc": "Get our 2027 English Mastery Bundle, our best offer of the year. Save 50% on our intermediate to advanced learning plan. Get B1, B2, and C1 English Fluency courses plus bonuses. Get a clear learning plan for the full 9-12 months plus AI practice and community practice with teachers and students. Go here to enroll now. Offer ends Friday at midnight. Learn more about your ad choices. Visit podcastch…",
+     "tx": "a5fc31cae338ed40"
+    },
     {
      "id": "allears:9d082f78-d274-11f1-8fca-231bfbbca4f9",
      "title": "AEE: Eating in an American Restaurant? How Long Can You Stay?",
@@ -2572,15 +2584,6 @@
      "dur": 1317,
      "link": "https://www.allearsenglish.com/fluencyscore",
      "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
-    },
-    {
-     "id": "allears:7b2a1a6e-af2a-11f1-9e9e-4b5eb1d48983",
-     "title": "AEE 2695:  Running on Fumes? Idioms for Expressing Exhaustion",
-     "date": "2026-09-29",
-     "audio": "https://traffic.megaphone.fm/ALLE8814617115.mp3",
-     "dur": 1080,
-     "link": "https://www.allearsenglish.com/fluencyscore",
-     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
     }
    ]
   },
@@ -2588,13 +2591,23 @@
    "name": "BBC The Archers",
    "items": [
     {
+     "id": "archers:urn:bbc:podcast:m0034lzs",
+     "title": "The Archers · 23/11/2026",
+     "date": "2026-11-23",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pnlmm7.mp3",
+     "dur": 786,
+     "link": "https://www.bbc.co.uk/programmes/m0034lzs",
+     "desc": "Freddie faces a professional disappointment, and Eddie’s quest hits a bump in the road.",
+     "tx": "942daa2867b80594"
+    },
+    {
      "id": "archers:urn:bbc:podcast:m0034lxv",
      "title": "The Archers · 22/11/2026",
      "date": "2026-11-22",
      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pn966v.mp3",
      "dur": 790,
      "link": "https://www.bbc.co.uk/programmes/m0034lxv",
-     "desc": "One resident seems to be having seconds thoughts, and Susan reaches the end of her tether.",
+     "desc": "After morning service, Alan confirms to Neil and Susan that they haven’t yet raised enough money for the bell repair. Alan thanks Neil for not reporting him, when he attended a dying man on his own to give prayers. Neil pleads with him to keep to the safeguarding rules. Susan is enjoying Stir-up Sunday. She suggests a walk and a romantic film later - with a good redundancy payout, every day could …",
      "tx": "0c8d105861da1f67"
     },
     {
@@ -2939,15 +2952,6 @@
      "dur": 784,
      "link": "https://www.bbc.co.uk/programmes/m0032flv",
      "desc": "Helen complains to Alistair about Lovell James’ price hikes and the impact on her and other farmers. At Alistair’s lack of conviction, Helen vows to take the fight on herself, by writing a letter to the company for others to sign. She’s cheered on by Paul, to Alistair’s annoyance. Later Alistair admits that while he supports Helen, he’s worried about how it looks for them. Paul states that Alistai…"
-    },
-    {
-     "id": "archers:urn:bbc:podcast:m0032fr1",
-     "title": "The Archers · 07/10/2026",
-     "date": "2026-10-07",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pblgrg.mp3",
-     "dur": 778,
-     "link": "https://www.bbc.co.uk/programmes/m0032fr1",
-     "desc": "At the cider party for Amber and George’s baby, Eddie remarks on how the baby heralds the new generation of Grundys. Clarrie basks in how different things feel from a year ago, when George was still in prison. Clarrie notes how good Keira is with the baby, and how nice it is to see Keira and Amber getting on. Driving, Anne Marie is sober as Bill gets drunk on strong cider. Anne Marie tells Amber i…"
     }
    ]
   },
