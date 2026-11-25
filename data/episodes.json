@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T04:52:48Z",
+ "updated": "2026-11-25T03:37:55Z",
  "sources": {
   "bbc6": {
    "name": "BBC 6 Minute English",
@@ -412,6 +412,17 @@
    "name": "NPR Short Wave",
    "items": [
     {
+     "id": "shortwave:929f985c-ffb1-4d57-a026-ef6e375919e2",
+     "title": "Wild turkeys are in peril again — can researchers save them?",
+     "date": "2026-11-24",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/61f84333-b405-483b-a331-15d1c2df8c7d/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=61f84333-b405-483b-a331-15d1c2df8c7d&feed=F0qJcgXZ&t=podcast&e=nx-s1-6042518&p=510351&d=901&size=14420472",
+     "dur": 901,
+     "link": "https://www.npr.org/2026/11/24/nx-s1-6042518/thanksgiving-american-wild-turkey-science",
+     "desc": "As a teen, Mike Chamberlain spent all his free time hunting turkeys. Now, his job is researching everything about them – the birds’ behavior, their genetics and more. And for the past decade, he’s focused on their concerning decline in the American southeast. Today on the show, Emily chats with Mike about what could be driving the loss of turkey territory – and what conservationists – including hu…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6042518",
+     "tx": "41577d2fc87683de"
+    },
+    {
      "id": "shortwave:1a53cf9b-907d-4fd7-baa7-7fff7ef5210d",
      "title": "Your favorite apple is a cloned ovary – and other apple facts",
      "date": "2026-11-23",
@@ -803,16 +814,6 @@
      "link": "https://www.npr.org/2026/09/16/nx-s1-5968717/when-batteries-get-a-facelift-so-does-renewable-energy",
      "desc": "For years, renewable energy companies have faced a problem: How to store the mass amounts of energy they produce for later use. Batteries may be just the solution. In California, there's now enough grid-scale battery storage to power millions of homes for a few hours. Battery power is often the second largest source of energy on a given day in the state. So, we're revisiting the fast-growing techn…",
      "transcript": "https://www.npr.org/transcripts/nx-s1-5968717"
-    },
-    {
-     "id": "shortwave:aa982c7d-cf16-4341-87b4-a16c0b53569b",
-     "title": "Why you'll probably be misdiagnosed in your lifetime",
-     "date": "2026-09-15",
-     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/8dda708c-7a0c-486e-b517-689d17d7c644/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=8dda708c-7a0c-486e-b517-689d17d7c644&feed=F0qJcgXZ&t=podcast&e=nx-s1-5847020&p=510351&d=805&size=12894084",
-     "dur": 805,
-     "link": "https://www.npr.org/2026/09/15/nx-s1-5847020/diagnosis-crisis-medical-error-patient",
-     "desc": "Nearly every person will experience at least one diagnostic error in their lifetime. That means either a delayed diagnosis, a wrong diagnosis – or no diagnosis at all. That’s according to a report by the National Academies of Sciences, Engineering and Medicine from 2015 on diagnostic error. Today on the show we talk to a physician who was personally affected by the crisis, and New York Times edito…",
-     "transcript": "https://www.npr.org/transcripts/nx-s1-5847020"
     }
    ]
   },
@@ -1125,6 +1126,17 @@
   "ted": {
    "name": "TED Talks Daily",
    "items": [
+    {
+     "id": "ted:6b0461613ec60db8fc5cfeba",
+     "title": "The skilled workers that the economy is overlooking | Tonya Hicks",
+     "date": "2026-11-24",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b0461613ec60db8fc5cfeba/media.mp3",
+     "dur": 868,
+     "link": "https://go.ted.com/TonyaHicks",
+     "desc": "Union electrician Tonya Hicks is one of very few women in her trade, and for years she had to fight people’s assumptions just to do her job. Then one day at a steel mill, her crew put their own work on the line for her. Drawing on more than two decades running her own contracting company, she shows how today’s skilled-labor shortage opens a crucial window to decide who gets trained and hired to bu…",
+     "transcript": null,
+     "tx": "427b337da2673511"
+    },
     {
      "id": "ted:6b045e0af068e148d201778b",
      "title": "Why government is slow — and how to fix it | Li Hongyi",
@@ -1524,16 +1536,6 @@
      "link": "https://go.ted.com/tanialombrozo",
      "desc": "With more information at our fingertips than ever before, learning should be getting easier ... yet the opposite seems to be true, says cognitive scientist Tania Lombrozo. Drawing on her research into how our minds understand and reason, she explores why more information can actually make learning harder — and shares the critical skill all great learners possess. Hosted on Acast. See acast.com/pri…",
      "transcript": "https://www.ted.com/talks/tania_lombrozo_why_the_best_learners_talk_to_themselves/transcript"
-    },
-    {
-     "id": "ted:6acfa742b3381b9dbb7c315f",
-     "title": "What if you could read the DNA of your future child? | Noor Siddiqui",
-     "date": "2026-10-19",
-     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa742b3381b9dbb7c315f/media.mp3",
-     "dur": 929,
-     "link": "https://go.ted.com/noorsiddiqui",
-     "desc": "For all of human history, a baby's DNA was determined by chance at conception: the so-called genetic lottery. \"That era is over,\" says Noor Siddiqui, whose company builds screening tools to read the whole genome of embryos in an effort to give parents more genetic information than standard IVF. She makes the case that this kind of technology helps families understand and reduce health risks, raisi…",
-     "transcript": "https://www.ted.com/talks/noor_siddiqui_what_if_you_could_read_the_dna_of_your_future_child/transcript"
     }
    ]
   },
@@ -2224,6 +2226,25 @@
    "name": "All Ears English",
    "items": [
     {
+     "id": "allears:9b84320a-d7f6-11f1-9e73-a3e9173c0071",
+     "title": "AEE 2727: You Too! How to Instantly Connect When Someone Says Goodbye",
+     "date": "2026-11-24",
+     "audio": "https://traffic.megaphone.fm/ALLE4622448901.mp3",
+     "dur": 1044,
+     "link": "https://www.allearsenglish.com/roadmap",
+     "desc": "Get our⁠ ⁠⁠2027 English Mastery Bundle⁠, our best offer of the year. Save 50% on our intermediate to advanced learning plan. Get B1, B2, and C1 English Fluency courses plus bonuses. Get a clear learning plan for the full 9-12 months plus AI practice and community practice with teachers and students. ⁠Go here to enroll now.⁠ Offer ends Friday at midnight. Learn more about your ad choices. Visit pod…",
+     "tx": "489646cfbd4d61c8"
+    },
+    {
+     "id": "allears:7690e1cc-e16b-11f1-886f-4bfbba601291",
+     "title": "AEE: Why Do I Feel Left Out of English Conversations?",
+     "date": "2026-11-24",
+     "audio": "https://traffic.megaphone.fm/ALLE9255205101.mp3",
+     "dur": 1178,
+     "link": "https://www.allearsenglish.com/roadmap",
+     "desc": "Get our 2027 English Mastery Bundle, our best offer of the year. Save 50% on our intermediate to advanced learning plan. Get B1, B2, and C1 English Fluency courses plus bonuses. Get a clear learning plan for the full 9-12 months plus AI practice and community practice with teachers and students. Go here to enroll now. Offer ends Friday at midnight. Learn more about your ad choices. Visit podcastch…"
+    },
+    {
      "id": "allears:78966272-d7f6-11f1-88ee-83fc3e921bce",
      "title": "AEE 2726: What to Say When You Didn’t Get the Joke",
      "date": "2026-11-23",
@@ -2566,24 +2587,6 @@
      "dur": 1126,
      "link": "https://www.allearsenglish.com/fluencyscore",
      "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
-    },
-    {
-     "id": "allears:d94a5ffa-af2a-11f1-8dab-bf96ff62253f",
-     "title": "AEE 2697: Do You Follow the Five-Second Rule?",
-     "date": "2026-10-01",
-     "audio": "https://traffic.megaphone.fm/ALLE3399385833.mp3",
-     "dur": 1343,
-     "link": "https://www.allearsenglish.com/fluencyscore",
-     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
-    },
-    {
-     "id": "allears:b1a35e0c-af2a-11f1-8338-abc765ad05f9",
-     "title": "AEE 2696: Hate Homework? How to Connect About it in English",
-     "date": "2026-09-30",
-     "audio": "https://traffic.megaphone.fm/ALLE4355080507.mp3",
-     "dur": 1317,
-     "link": "https://www.allearsenglish.com/fluencyscore",
-     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
     }
    ]
   },
@@ -2591,13 +2594,23 @@
    "name": "BBC The Archers",
    "items": [
     {
+     "id": "archers:urn:bbc:podcast:m0034m08",
+     "title": "The Archers · 24/11/2026",
+     "date": "2026-11-24",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pnnd3b.mp3",
+     "dur": 777,
+     "link": "https://www.bbc.co.uk/programmes/m0034m08",
+     "desc": "Fallon attempts a ceasefire, and Elizabeth proves a tower of strength.",
+     "tx": "20b3789585f592af"
+    },
+    {
      "id": "archers:urn:bbc:podcast:m0034lzs",
      "title": "The Archers · 23/11/2026",
      "date": "2026-11-23",
      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pnlmm7.mp3",
      "dur": 786,
      "link": "https://www.bbc.co.uk/programmes/m0034lzs",
-     "desc": "Freddie faces a professional disappointment, and Eddie’s quest hits a bump in the road.",
+     "desc": "Natasha tells Eddie of a possible source of Tumble Tussock in a heritage orchard. Collecting Keira, the three are full of adventure when Ed calls Keira. He’s annoyed to find she’s not revising. Ed’s been asked to meet her Head of Year. Ed reproaches Eddie for allowing Keira to go on the trip. At Mario’s orchard, Keira spots the tree. Eddie excitedly confirms the apples as Tumble Tussocks. Keira is…",
      "tx": "942daa2867b80594"
     },
     {
@@ -2943,15 +2956,6 @@
      "dur": 785,
      "link": "https://www.bbc.co.uk/programmes/m0032fmc",
      "desc": "At the Rewilding site, people gather on a beautiful day for Carol Tregorran’s send off. Fallon makes a fond joke about Carol. Jolene’s pleased to see her daughter laughing again, especially after seeing Harrison apparently move on so fast, with Lily. Fallon needs a blank canvas and Jolene suggests legal advice about Woodbine cottage. Fallon comforts emotional Anna, who’s ignoring calls from Alan. …"
-    },
-    {
-     "id": "archers:urn:bbc:podcast:m0032flv",
-     "title": "The Archers · 08/10/2026",
-     "date": "2026-10-08",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pblgvf.mp3",
-     "dur": 784,
-     "link": "https://www.bbc.co.uk/programmes/m0032flv",
-     "desc": "Helen complains to Alistair about Lovell James’ price hikes and the impact on her and other farmers. At Alistair’s lack of conviction, Helen vows to take the fight on herself, by writing a letter to the company for others to sign. She’s cheered on by Paul, to Alistair’s annoyance. Later Alistair admits that while he supports Helen, he’s worried about how it looks for them. Paul states that Alistai…"
     }
    ]
   },
