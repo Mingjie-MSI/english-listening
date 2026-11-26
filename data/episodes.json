@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T03:37:55Z",
+ "updated": "2026-11-26T02:57:15Z",
  "sources": {
   "bbc6": {
    "name": "BBC 6 Minute English",
@@ -412,6 +412,17 @@
    "name": "NPR Short Wave",
    "items": [
     {
+     "id": "shortwave:60693d48-60fc-476b-be9b-187bb6f64741",
+     "title": "Want a better winter workout? Train your muscle clocks",
+     "date": "2026-11-25",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/3350ed11-22b2-4401-8522-2fb82131112d/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=3350ed11-22b2-4401-8522-2fb82131112d&feed=F0qJcgXZ&t=podcast&e=nx-s1-6034942&p=510351&d=801&size=12824703",
+     "dur": 801,
+     "link": "https://www.npr.org/2026/11/25/nx-s1-6034942/winter-exercise-circadian-rhythm-arc",
+     "desc": "TikTok has another trend: the winter arc. It’s a self-improvement challenge where people try to be their best self in the 3 months leading up to New Year – often, through exercise. We at Short Wave wanted to know if the science really holds up: Is ramping up your exercise routine when your circadian rhythm may be struggling with less light really a good idea? So we called up NPR health corresponde…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6034942",
+     "tx": "d3ed4148f3508423"
+    },
+    {
      "id": "shortwave:929f985c-ffb1-4d57-a026-ef6e375919e2",
      "title": "Wild turkeys are in peril again — can researchers save them?",
      "date": "2026-11-24",
@@ -804,22 +815,23 @@
      "link": "https://www.npr.org/2026/09/18/nx-s1-5971154/open-ai-anthropic-news-research-takeover",
      "desc": "AI is in the news again – for its potential to end civilization. A researcher at Anthropic resigned very publicly last week, citing concerns about the accelerating capabilities of AI and what he called “irresponsible” behavior from major AI companies Anthropic and OpenAI. Following his resignation, the leaders of both companies called for an internationally cooperative, industry-wide slowdown on a…",
      "transcript": "https://www.npr.org/transcripts/nx-s1-5971154"
-    },
-    {
-     "id": "shortwave:48a1220e-8708-4204-866a-9f8f1a1cb598",
-     "title": "When batteries get a facelift, so does renewable energy",
-     "date": "2026-09-16",
-     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/fb33d0f3-6b17-424d-946c-ef7a888099a4/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=fb33d0f3-6b17-424d-946c-ef7a888099a4&feed=F0qJcgXZ&t=podcast&e=nx-s1-5968717&p=510351&d=809&size=12958869",
-     "dur": 809,
-     "link": "https://www.npr.org/2026/09/16/nx-s1-5968717/when-batteries-get-a-facelift-so-does-renewable-energy",
-     "desc": "For years, renewable energy companies have faced a problem: How to store the mass amounts of energy they produce for later use. Batteries may be just the solution. In California, there's now enough grid-scale battery storage to power millions of homes for a few hours. Battery power is often the second largest source of energy on a given day in the state. So, we're revisiting the fast-growing techn…",
-     "transcript": "https://www.npr.org/transcripts/nx-s1-5968717"
     }
    ]
   },
   "planetmoney": {
    "name": "NPR Planet Money",
    "items": [
+    {
+     "id": "planetmoney:9e2e326b-62bd-4e44-b291-481fa4cd36df",
+     "title": "How to steal a truckload of bourbon and not get caught",
+     "date": "2026-11-25",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0b55b392-98fa-4963-9641-41942cc6d7f6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0b55b392-98fa-4963-9641-41942cc6d7f6&feed=hvWWWzRv&t=podcast&e=nx-s1-6053008&p=510289&d=1590&size=25451273",
+     "dur": 1590,
+     "link": "https://www.npr.org/2026/11/25/nx-s1-6053008/cargo-theft-groceries-fbi-cyber",
+     "desc": "Half a million dollars worth of bourbon – gone. $102,000 worth of turkey. 3,000 pounds of seafood. $100 million worth of data center freight. The nerve center that enables trucks to move all our food and goods – is under attack. And we don’t just mean Bonnie and Clyde style. Today’s cargo thieves have gotten way more sophisticated. Today on the show: Where are our stolen goods ending up? And why i…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6053008",
+     "tx": "2bb70e0164906ddf"
+    },
     {
      "id": "planetmoney:1fc9b921-fb6f-4af6-88fa-a8bc420fd5fc",
      "title": "You Can Seize Everything (The U.S. is reviving pirate law)",
@@ -1110,22 +1122,23 @@
      "link": "https://www.npr.org/2026/08/19/nx-s1-5936481/korea-summer-school-entrepreneurial",
      "desc": "This week’s stop on our world tour - Korea. A country divided into two very different power structures since the end of WWII. Today South Korea is the maker of some of the world’s favorite exports – from Samsung TV’s to BTS. But 75 years ago it was a much different story. How the textile industry and a partnership with Bangladesh lifted the country out of poverty and paved the way for rapid econom…",
      "transcript": "https://www.npr.org/transcripts/nx-s1-5936481"
-    },
-    {
-     "id": "planetmoney:7408d7f6-3eab-4ebd-b88d-ccb2f6327204",
-     "title": "You bet your life insurance",
-     "date": "2026-08-14",
-     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/e643843c-4f2c-43dc-89fc-64f70e7ff656/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=e643843c-4f2c-43dc-89fc-64f70e7ff656&feed=hvWWWzRv&t=podcast&e=nx-s1-5885879&p=510289&d=2323&size=37172958",
-     "dur": 2323,
-     "link": "https://www.npr.org/2026/08/14/nx-s1-5885879/life-insurance-settlements",
-     "desc": "Some of the biggest firms on Wall Street are, at this very moment, waiting for thousands of strangers to die to reap their returns. Because there’s a market for life insurance policies. And it’s legal. You don’t have to actually die to get some of your life insurance money. Thanks to a secondary market for life insurance policies, you might be able to claw back money from beyond the grave. You jus…",
-     "transcript": "https://www.npr.org/transcripts/nx-s1-5885879"
     }
    ]
   },
   "ted": {
    "name": "TED Talks Daily",
    "items": [
+    {
+     "id": "ted:6b04888bf5587e011de1fed1",
+     "title": "Can AI show us how language works? | Jennifer Hu",
+     "date": "2026-11-25",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b04888bf5587e011de1fed1/media.mp3",
+     "dur": 982,
+     "link": "https://go.ted.com/JenniferHu",
+     "desc": "Language is central to nearly every moment of our lives, yet researchers know surprisingly little about how it works. Using AI models as a new kind of lab for studying how humans learn language, computational cognitive scientist Jennifer Hu shows where machines succeed, where they stumble — and what those results reveal about our own minds. Hosted on Acast. See acast.com/privacy for more informati…",
+     "transcript": null,
+     "tx": "d95cd4fe0aaff109"
+    },
     {
      "id": "ted:6b0461613ec60db8fc5cfeba",
      "title": "The skilled workers that the economy is overlooking | Tonya Hicks",
@@ -1254,7 +1267,7 @@
     },
     {
      "id": "ted:6af5e8e843d8776fbbb21b34",
-     "title": "How we’ll actually ditch fossil fuels — by the numbers | Michael Liebreich",
+     "title": "Why clean energy is an unstoppable force | Michael Liebreich",
      "date": "2026-11-12",
      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5e8e843d8776fbbb21b34/media.mp3",
      "dur": 875,
@@ -1526,16 +1539,6 @@
      "link": "https://go.ted.com/jamesrojas",
      "desc": "Urban planner James Rojas has led hundreds of workshops where participants creatively design their ideal communities with small objects — and he's noticed that people of every age, income and background build strikingly similar places. Through play and storytelling, he shows how we can use our childhood memories and imaginations to shape the places we live and love. Hosted on Acast. See acast.com/…",
      "transcript": "https://www.ted.com/talks/james_rojas_how_would_you_design_your_dream_city/transcript"
-    },
-    {
-     "id": "ted:6ad77fd358c0e97ce0c32f31",
-     "title": "Why the best learners talk to themselves | Tania Lombrozo",
-     "date": "2026-10-20",
-     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad77fd358c0e97ce0c32f31/media.mp3",
-     "dur": 1117,
-     "link": "https://go.ted.com/tanialombrozo",
-     "desc": "With more information at our fingertips than ever before, learning should be getting easier ... yet the opposite seems to be true, says cognitive scientist Tania Lombrozo. Drawing on her research into how our minds understand and reason, she explores why more information can actually make learning harder — and shares the critical skill all great learners possess. Hosted on Acast. See acast.com/pri…",
-     "transcript": "https://www.ted.com/talks/tania_lombrozo_why_the_best_learners_talk_to_themselves/transcript"
     }
    ]
   },
@@ -1817,6 +1820,17 @@
   "lifekit": {
    "name": "NPR Life Kit",
    "items": [
+    {
+     "id": "lifekit:6ea34488-b925-4ecd-9504-efaa941a0df4",
+     "title": "Brush up on your food safety knowledge before Thanksgiving",
+     "date": "2026-11-25",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/74601896-86e6-4de0-b97d-5525806a87e2/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=74601896-86e6-4de0-b97d-5525806a87e2&feed=XkY2SBZJ&t=podcast&e=nx-s1-6048706&p=510338&d=1357&size=21718457",
+     "dur": 1357,
+     "link": "https://www.npr.org/2026/11/25/nx-s1-6048706/brush-up-on-your-food-safety-knowledge-before-thanksgiving",
+     "desc": "Follow us on Instagram: @nprlifekit Sign up for our newsletter here. Have an episode idea or feedback you want to share? Email us at lifekit@npr.org Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening and convenient playlists of popular help topics like personal finance, getting healthy, and more. Learn more at plus.np…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6048706",
+     "tx": "e3cf1909272b5548"
+    },
     {
      "id": "lifekit:e5d3763d-6a83-4404-8007-293cf6cf2fc1",
      "title": "Video chatting with kids is chaos. It can be so much better",
@@ -2209,22 +2223,22 @@
      "link": "https://www.npr.org/2026/08/25/nx-s1-5943603/mom-needs-a-moment-how-to-pause-parental-rage",
      "desc": "Parenthood is exhausting. When a kid asks for snack for the millionth time while you're running on little sleep and trying to make dinner, it's easy to snap. Licensed marriage and family therapist Cassidy Freitas says the key is to find refuge in what she calls \"the margins.\" In this episode, Freitas shares tools from her book Mom Needs A Moment: How to Stop Your Reaction Before It Starts and Beco…",
      "transcript": "https://www.npr.org/transcripts/nx-s1-5943603"
-    },
-    {
-     "id": "lifekit:02906b78-8405-4959-976c-2400400d7efa",
-     "title": "5 questions that can save you from a bad purchase",
-     "date": "2026-08-24",
-     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/ab3f7bd4-869f-41b4-bf24-ceb83b756953/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=ab3f7bd4-869f-41b4-bf24-ceb83b756953&feed=XkY2SBZJ&t=podcast&e=nx-s1-5940640&p=510338&d=1054&size=16879744",
-     "dur": 1054,
-     "link": "https://www.npr.org/2026/08/24/nx-s1-5940640/5-questions-that-can-save-you-from-a-bad-purchase",
-     "desc": "Sometimes we buy things that we later regret: a new sweater that's already falling apart, or a thrifted \"vintage\" vase that turns out to be a mass-produced dupe. In the moment, it's difficult to resist the temptation of making a purchase. But with a few pointed questions, you can make sure you've done your due diligence. This episode, financial experts offer a framework to help you decide whether …",
-     "transcript": "https://www.npr.org/transcripts/nx-s1-5940640"
     }
    ]
   },
   "allears": {
    "name": "All Ears English",
    "items": [
+    {
+     "id": "allears:bbcb01b0-d7f6-11f1-b1a5-07454610a825",
+     "title": "AEE 2728: Speak English Naturally Out of Habit",
+     "date": "2026-11-25",
+     "audio": "https://traffic.megaphone.fm/ALLE6456788864.mp3",
+     "dur": 986,
+     "link": "https://www.allearsenglish.com/roadmap",
+     "desc": "Get our⁠ ⁠⁠2027 English Mastery Bundle⁠, our best offer of the year. Save 50% on our intermediate to advanced learning plan. Get B1, B2, and C1 English Fluency courses plus bonuses. Get a clear learning plan for the full 9-12 months plus AI practice and community practice with teachers and students. ⁠Go here to enroll now.⁠ Offer ends Friday at midnight. Learn more about your ad choices. Visit pod…",
+     "tx": "1e49ad1f17d3c44e"
+    },
     {
      "id": "allears:9b84320a-d7f6-11f1-9e73-a3e9173c0071",
      "title": "AEE 2727: You Too! How to Instantly Connect When Someone Says Goodbye",
@@ -2578,15 +2592,6 @@
      "dur": 997,
      "link": "https://www.allearsenglish.com/fluencyscore",
      "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
-    },
-    {
-     "id": "allears:0281c200-af2b-11f1-a078-0b87c22adbdc",
-     "title": "AEE: Do Aliens Exist? How to Connect Over Extraterrestrial Life",
-     "date": "2026-10-03",
-     "audio": "https://traffic.megaphone.fm/ALLE3029322814.mp3",
-     "dur": 1126,
-     "link": "https://www.allearsenglish.com/fluencyscore",
-     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
     }
    ]
   },
@@ -2594,13 +2599,23 @@
    "name": "BBC The Archers",
    "items": [
     {
+     "id": "archers:urn:bbc:podcast:m0034mdm",
+     "title": "The Archers · 25/11/2026",
+     "date": "2026-11-25",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pnvmjd.mp3",
+     "dur": 781,
+     "link": "https://www.bbc.co.uk/programmes/m0034mdm",
+     "desc": "Usha pushes for answers, and Ben has a confession to make.",
+     "tx": "5ffb7bf845f89058"
+    },
+    {
      "id": "archers:urn:bbc:podcast:m0034m08",
      "title": "The Archers · 24/11/2026",
      "date": "2026-11-24",
      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pnnd3b.mp3",
      "dur": 777,
      "link": "https://www.bbc.co.uk/programmes/m0034m08",
-     "desc": "Fallon attempts a ceasefire, and Elizabeth proves a tower of strength.",
+     "desc": "Bumping into Ben, Beth confirms she’s trying to sort out more time in the UK to be with her dad. She shares her discomfort over her conversations with Freddie yesterday. Visiting Lower Loxley, Beth breaks down to Elizabeth about her Vince worries. Later, when Ben delivers some Brookfield Beef to the hall, Beth tells him how much she appreciates having Elizabeth in her dad’s life. Fallon suggests t…",
      "tx": "20b3789585f592af"
     },
     {
@@ -2947,15 +2962,6 @@
      "dur": 777,
      "link": "https://www.bbc.co.uk/programmes/m0032qnt",
      "desc": "Pip and Stella are in wedding planning mode and discuss their first dance, practicing lifting each other. On a more serious note, Pip is worried about the lack of silage stored for their pasture-fed herd. They’re running low even before the cows come inside for the winter. They’re interrupted by a message – Stella’s mum’s in A&E. Nothing is broken but she has a bad sprain and won’t be able to walk…"
-    },
-    {
-     "id": "archers:urn:bbc:podcast:m0032fmc",
-     "title": "The Archers · 09/10/2026",
-     "date": "2026-10-09",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pblgws.mp3",
-     "dur": 785,
-     "link": "https://www.bbc.co.uk/programmes/m0032fmc",
-     "desc": "At the Rewilding site, people gather on a beautiful day for Carol Tregorran’s send off. Fallon makes a fond joke about Carol. Jolene’s pleased to see her daughter laughing again, especially after seeing Harrison apparently move on so fast, with Lily. Fallon needs a blank canvas and Jolene suggests legal advice about Woodbine cottage. Fallon comforts emotional Anna, who’s ignoring calls from Alan. …"
     }
    ]
   },
