@@ -1,9 +1,20 @@
 {
- "updated": "2026-11-26T02:57:15Z",
+ "updated": "2026-11-27T03:00:02Z",
  "sources": {
   "bbc6": {
    "name": "BBC 6 Minute English",
    "items": [
+    {
+     "id": "bbc6:urn:bbc:podcast:p0ppzy2r",
+     "title": "Is Gen Z getting less intelligent?",
+     "date": "2026-11-26",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0ppzxv4.mp3",
+     "dur": 402,
+     "link": "https://www.bbc.co.uk/programmes/p0ppzy2r",
+     "desc": "When was the last time you read a physical book? For older generations, school was full of textbooks and workbooks, but for younger generations these have been replaced with laptops and tablets. But is this technology having a positive impact on test scores? Georgie and Phil discuss this and teach you some new vocabulary. 6 Minute English now has a VIDEO VERSION! It's the same programme that you k…",
+     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261126",
+     "tx": "0f1f0a858e513739"
+    },
     {
      "id": "bbc6:urn:bbc:podcast:p0pnt62q",
      "title": "Are microplastics harming us?",
@@ -395,16 +406,6 @@
      "link": "https://www.bbc.co.uk/programmes/p0n3bs52",
      "desc": "How often do you use pepper? It's one of the most common spices to add to food, so common in fact that many of us don't just use it when cooking, but also place it on our dinner tables to add extra flavour! But how much do we really know about pepper? There are hundreds of different varieties worldwide and they all have the power to add that special something to our food. Neil and Becca discuss th…",
      "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260226"
-    },
-    {
-     "id": "bbc6:urn:bbc:podcast:p0n1zykf",
-     "title": "Dreaming of being a chef",
-     "date": "2026-02-19",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0n1zt73.mp3",
-     "dur": 403,
-     "link": "https://www.bbc.co.uk/programmes/p0n1zykf",
-     "desc": "What did you have for dinner last night? And did you cook it yourself? Many people cook at home regularly, for themselves and for others, but have you ever thought about cooking professionally? Working in a restaurant can be tough, but for some people, becoming a top chef is a dream job. Neil and Becca discuss this and teach you some new vocabulary. ✔️ Find a free worksheet, transcript and interac…",
-     "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260219"
     }
    ]
   },
@@ -1129,6 +1130,16 @@
    "name": "TED Talks Daily",
    "items": [
     {
+     "id": "ted:6b05afcc7eeadadee4f9e424",
+     "title": "Why you should share a recipe with a stranger | Anuj Gupta",
+     "date": "2026-11-26",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b05afcc7eeadadee4f9e424/media.mp3",
+     "dur": 1740,
+     "link": "https://go.ted.com/AnujGupta",
+     "desc": "Can we eat our way to a stronger democracy? Civic leader Anuj Gupta believes that food is one of our last common denominators. Drawing on a decade spent bringing together strangers for shared meals, he explains how the stories and memories behind our recipes can bridge divides that seem insurmountable. Hosted on Acast. See acast.com/privacy for more information.",
+     "transcript": null
+    },
+    {
      "id": "ted:6b04888bf5587e011de1fed1",
      "title": "Can AI show us how language works? | Jennifer Hu",
      "date": "2026-11-25",
@@ -1529,22 +1540,21 @@
      "link": "https://go.ted.com/jessicairwin",
      "desc": "Jessica Irwin is many things: a photographer, artist, author, performer. She also happens to be nonverbal, born with cerebral palsy that affects the muscles she needs to talk. Speaking through a device that turns her typed words into speech, she gives a sharp, funny and urgent reminder that being unable to speak has nothing to do with intelligence — and shares a few easy ways anyone can better com…",
      "transcript": "https://www.ted.com/talks/jessica_irwin_i_can_t_speak_here_s_how_i_get_people_to_listen/transcript"
-    },
-    {
-     "id": "ted:6ad8c44bc3737ccbbdc0fece",
-     "title": "How would you design your dream city? | James Rojas",
-     "date": "2026-10-21",
-     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad8c44bc3737ccbbdc0fece/media.mp3",
-     "dur": 898,
-     "link": "https://go.ted.com/jamesrojas",
-     "desc": "Urban planner James Rojas has led hundreds of workshops where participants creatively design their ideal communities with small objects — and he's noticed that people of every age, income and background build strikingly similar places. Through play and storytelling, he shows how we can use our childhood memories and imaginations to shape the places we live and love. Hosted on Acast. See acast.com/…",
-     "transcript": "https://www.ted.com/talks/james_rojas_how_would_you_design_your_dream_city/transcript"
     }
    ]
   },
   "inourtime": {
    "name": "BBC In Our Time",
    "items": [
+    {
+     "id": "inourtime:urn:bbc:podcast:m0033g1x",
+     "title": "Immune cells",
+     "date": "2026-11-26",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pk09bm.mp3",
+     "dur": 3291,
+     "link": "https://www.bbc.co.uk/programmes/m0033g1x",
+     "desc": "Every day, billions of specialised cells work to protect your body from harm. From the common cold and infections to cuts and scrapes or cancerous cells, our bodies deal with a range of potential threats and risks as we move through the world. The immune system is a complex and carefully orchestrated network connecting organs, tissues, and billions of specialised cells. Those cells have a variety …"
+    },
     {
      "id": "inourtime:urn:bbc:podcast:p0pj9cd5",
      "title": "Archive: Epic of Gilgamesh",
@@ -1805,15 +1815,6 @@
      "dur": 3283,
      "link": "https://www.bbc.co.uk/programmes/m002x5jl",
      "desc": "Misha Glenny and guests discuss the earliest evidence we have of the existence of trees and how even plants we might have on windowsills or as vegetables in gardens can and do, in the right conditions, evolve into trees. Since their emergence around 400 million years ago after low lying plants started to develop stronger stems and grow taller and more upright, trees have transformed our planet, so…"
-    },
-    {
-     "id": "inourtime:urn:bbc:podcast:m002wt1v",
-     "title": "The Welsh Marches",
-     "date": "2026-06-25",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0nsfns9.mp3",
-     "dur": 3128,
-     "link": "https://www.bbc.co.uk/programmes/m002wt1v",
-     "desc": "At the Hay Festival, Misha Glenny and guests discuss the impact of the Norman invasion on the people and land of Wales and across the modern border with England in what became known as The Welsh Marches, march being a term for a militarized borderland. Hay was one of the first Marcher lordships. Even before 1066, William the Conqueror knew that he would have to subdue the Welsh if he were to contr…"
     }
    ]
   },
@@ -2230,6 +2231,16 @@
    "name": "All Ears English",
    "items": [
     {
+     "id": "allears:d8ed7340-d7f6-11f1-bc84-330cae016afa",
+     "title": "AEE 2729: Are You Still Wondering How to Use Yet and Already?",
+     "date": "2026-11-26",
+     "audio": "https://traffic.megaphone.fm/ALLE5904493687.mp3",
+     "dur": 1244,
+     "link": "https://www.allearsenglish.com/roadmap",
+     "desc": "Get our⁠ ⁠⁠2027 English Mastery Bundle⁠, our best offer of the year. Save 50% on our intermediate to advanced learning plan. Get B1, B2, and C1 English Fluency courses plus bonuses. Get a clear learning plan for the full 9-12 months plus AI practice and community practice with teachers and students. ⁠Go here to enroll now.⁠ Offer ends Friday at midnight. Learn more about your ad choices. Visit pod…",
+     "tx": "abc0e9c81816b1af"
+    },
+    {
      "id": "allears:bbcb01b0-d7f6-11f1-b1a5-07454610a825",
      "title": "AEE 2728: Speak English Naturally Out of Habit",
      "date": "2026-11-25",
@@ -2583,15 +2594,6 @@
      "dur": 1098,
      "link": "https://www.allearsenglish.com/fluencyscore",
      "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
-    },
-    {
-     "id": "allears:ec9e4d0e-b237-11f1-8aff-9bba86627a6a",
-     "title": "AEE 2698: In a While or For a While? Tricky English Grammar Explained",
-     "date": "2026-10-05",
-     "audio": "https://traffic.megaphone.fm/ALLE8524391248.mp3",
-     "dur": 997,
-     "link": "https://www.allearsenglish.com/fluencyscore",
-     "desc": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.  Do you love All Ears English?  Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featur…"
     }
    ]
   },
@@ -2599,13 +2601,23 @@
    "name": "BBC The Archers",
    "items": [
     {
+     "id": "archers:urn:bbc:podcast:m0034mg4",
+     "title": "The Archers · 26/11/2026",
+     "date": "2026-11-26",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pnwg04.mp3",
+     "dur": 778,
+     "link": "https://www.bbc.co.uk/programmes/m0034mg4",
+     "desc": "There’s a shock for Anna, and Ed faces a tricky conversation.",
+     "tx": "08488918bc47f779"
+    },
+    {
      "id": "archers:urn:bbc:podcast:m0034mdm",
      "title": "The Archers · 25/11/2026",
      "date": "2026-11-25",
      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pnvmjd.mp3",
      "dur": 781,
      "link": "https://www.bbc.co.uk/programmes/m0034mdm",
-     "desc": "Usha pushes for answers, and Ben has a confession to make.",
+     "desc": "Ben has booked a day off to take Josh to the airport, only to be told that his brother has changed his mind about returning to Patagonia. Josh doesn’t want to live at Rickyard or kick Ben out of The Stables. His ideal would be Glebe Cottage. Ben warns him that David and Ruth plan to do Glebe up and rent it out at the going rate. Carol’s rent had been unmoved for years and now they can make some mo…",
      "tx": "5ffb7bf845f89058"
     },
     {
@@ -2953,15 +2965,6 @@
      "dur": 771,
      "link": "https://www.bbc.co.uk/programmes/m0032qp7",
      "desc": "Pip and David discuss AI in farming, which they think can’t be ignored. Pip tells David that Stella’s mum is still coming to the wedding but won’t be walking Stella down the aisle. David offers his services instead of Stella’s mum. The weather forecast still isn’t good for the wedding and Josh messages to say he won’t be back from Patagonia in time. Ruth wonders to David and Pip if Azra will keep …"
-    },
-    {
-     "id": "archers:urn:bbc:podcast:m0032qnt",
-     "title": "The Archers · 11/10/2026",
-     "date": "2026-10-11",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pf8h83.mp3",
-     "dur": 777,
-     "link": "https://www.bbc.co.uk/programmes/m0032qnt",
-     "desc": "Pip and Stella are in wedding planning mode and discuss their first dance, practicing lifting each other. On a more serious note, Pip is worried about the lack of silage stored for their pasture-fed herd. They’re running low even before the cows come inside for the winter. They’re interrupted by a message – Stella’s mum’s in A&E. Nothing is broken but she has a bad sprain and won’t be able to walk…"
     }
    ]
   },
