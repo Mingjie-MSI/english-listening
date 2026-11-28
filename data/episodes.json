@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T03:00:02Z",
+ "updated": "2026-11-28T02:50:30Z",
  "sources": {
   "bbc6": {
    "name": "BBC 6 Minute English",
@@ -413,6 +413,17 @@
    "name": "NPR Short Wave",
    "items": [
     {
+     "id": "shortwave:fafc9091-06dd-4b54-bcc6-98ce67ae736e",
+     "title": "Feeling more anxious? Researchers may know what’s driving it",
+     "date": "2026-11-27",
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f81c2e92-6cdd-4427-9cb7-dd5880f568d0/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f81c2e92-6cdd-4427-9cb7-dd5880f568d0&feed=F0qJcgXZ&t=podcast&e=nx-s1-6044623&p=510351&d=657&size=10524674",
+     "dur": 657,
+     "link": "https://www.npr.org/2026/11/27/nx-s1-6044623/anxiety-uncertainty-intolerance-smartphone-genz",
+     "desc": "Younger people are more anxious these days than previous generations, and scientists have speculated all kinds of reasons as to why. A new study pinpoints when anxiety started rising – about 15 years ago. That aligns with when many people started amping up their smartphone use. But what about phones is making people more anxious? The answer may surprise you: Researchers think it may have to do wit…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6044623",
+     "tx": "f400f0bd8e952410"
+    },
+    {
      "id": "shortwave:60693d48-60fc-476b-be9b-187bb6f64741",
      "title": "Want a better winter workout? Train your muscle clocks",
      "date": "2026-11-25",
@@ -806,22 +817,23 @@
      "link": "https://www.npr.org/2026/09/18/nx-s1-5968677/reading-fun-brain-science",
      "desc": "Remember your mom, dad and teachers telling you to read because it’s good for you? Well, a compilation of the latest research shows they were right. “Reading is one of the simplest and most accessible activities for actually supporting cognitive performance, brain health, mental health, but also overall wellbeing throughout our lives,” said Christelle Langley, a cognitive neuroscientist at the Uni…",
      "transcript": "https://www.npr.org/transcripts/nx-s1-5968677"
-    },
-    {
-     "id": "shortwave:976afcf8-e274-4663-b6dd-47f7f158e163",
-     "title": "The latest on AI panic — and whether it's justified",
-     "date": "2026-09-18",
-     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/75926fb0-6c54-49fb-a4f4-44901aa2fa69/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=75926fb0-6c54-49fb-a4f4-44901aa2fa69&feed=F0qJcgXZ&t=podcast&e=nx-s1-5971154&p=510351&d=898&size=14379093",
-     "dur": 898,
-     "link": "https://www.npr.org/2026/09/18/nx-s1-5971154/open-ai-anthropic-news-research-takeover",
-     "desc": "AI is in the news again – for its potential to end civilization. A researcher at Anthropic resigned very publicly last week, citing concerns about the accelerating capabilities of AI and what he called “irresponsible” behavior from major AI companies Anthropic and OpenAI. Following his resignation, the leaders of both companies called for an internationally cooperative, industry-wide slowdown on a…",
-     "transcript": "https://www.npr.org/transcripts/nx-s1-5971154"
     }
    ]
   },
   "planetmoney": {
    "name": "NPR Planet Money",
    "items": [
+    {
+     "id": "planetmoney:c1a4114a-d661-4e44-8e4b-6f0c0833878c",
+     "title": "The economics of podcasting and NPR+",
+     "date": "2026-11-27",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0e664c82-59be-42a0-a5df-6a001ae5216e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0e664c82-59be-42a0-a5df-6a001ae5216e&feed=hvWWWzRv&t=podcast&e=nx-s1-6053171&p=510289&d=1451&size=23220602",
+     "dur": 1451,
+     "link": "https://www.npr.org/2026/11/27/nx-s1-6053171/the-economics-of-podcasting-and-npr",
+     "desc": "NPR launched NPR+ to give podcast listeners (a.k.a. you) a way to support public media. But how does the NPR+ business model actually work? On today’s show, we look under the hood of our subscriptions business: unpacking where the money goes, what it means to us at Planet Money , and how our little corner of the podcast economy works. We’ll also explain why NPR is winding down Planet Money+ and ot…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6053171",
+     "tx": "a5a7e00ea4d38b3f"
+    },
     {
      "id": "planetmoney:9e2e326b-62bd-4e44-b291-481fa4cd36df",
      "title": "How to steal a truckload of bourbon and not get caught",
@@ -1113,22 +1125,63 @@
      "link": "https://www.npr.org/2026/08/21/nx-s1-5940897/buyer-boardgame-bigbox-target-walmart",
      "desc": "There’s a room where the fates of retail products are decided. Will they make it onto the shelves of the big box stores? Usually the rest of us can’t get inside the room where decisions are made – until now! Today on the show, we pitch the Planet Money game, Sell Me a Sasquatch, to big box retailers. We go behind the scenes to learn about how products end up on big box store shelves, what’s going …",
      "transcript": "https://www.npr.org/transcripts/nx-s1-5940897"
-    },
-    {
-     "id": "planetmoney:d3594708-49b5-464f-a29c-1f92c115d119",
-     "title": "Getting entrepreneurial in Korea (Summer School)",
-     "date": "2026-08-19",
-     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f085e3ff-805b-4306-b491-d936938e5d17/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f085e3ff-805b-4306-b491-d936938e5d17&feed=hvWWWzRv&t=podcast&e=nx-s1-5936481&p=510289&d=2408&size=38529655",
-     "dur": 2408,
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5936481/korea-summer-school-entrepreneurial",
-     "desc": "This week’s stop on our world tour - Korea. A country divided into two very different power structures since the end of WWII. Today South Korea is the maker of some of the world’s favorite exports – from Samsung TV’s to BTS. But 75 years ago it was a much different story. How the textile industry and a partnership with Bangladesh lifted the country out of poverty and paved the way for rapid econom…",
-     "transcript": "https://www.npr.org/transcripts/nx-s1-5936481"
     }
    ]
   },
   "ted": {
    "name": "TED Talks Daily",
    "items": [
+    {
+     "id": "ted:6b05d68657045eccfdcd6ecc",
+     "title": "Want to be happy? Be grateful | David Steindl-Rast",
+     "date": "2026-11-27",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b05d68657045eccfdcd6ecc/media.mp3",
+     "dur": 1005,
+     "link": "https://audiocollective.ted.com/",
+     "desc": "The one thing all humans have in common is that each of us wants to be happy, says Brother David Steindl-Rast, a monk and interfaith scholar. And happiness, he suggests, is born from gratitude. An inspiring lesson in slowing down, looking where you're going, and above all, being grateful. Hosted on Acast. See acast.com/privacy for more information.",
+     "transcript": null,
+     "tx": "e05cbdd79cc38b80"
+    },
+    {
+     "id": "ted:6b05d6f557045eccfdcd6ecd",
+     "title": "Why thinking about death helps you live a better life | Alua Arthur (re-release)",
+     "date": "2026-11-27",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b05d6f557045eccfdcd6ecd/media.mp3",
+     "dur": 1247,
+     "link": "https://audiocollective.ted.com/",
+     "desc": "As a death doula, or someone who supports dying people and their loved ones, Alua Arthur spends a lot of time thinking about the end of life. In a profound talk that examines our brief, perfectly human time on this planet, she asks us to look at our lives through the lens of our deaths in seeking to answer the question: \"What must I do to be at peace with myself so that I may live presently and di…",
+     "transcript": null
+    },
+    {
+     "id": "ted:6b05d60657045eccfdcd6ecb",
+     "title": "How gratitude rewires your brain | Christina Costa (re-release)",
+     "date": "2026-11-27",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b05d60657045eccfdcd6ecb/media.mp3",
+     "dur": 807,
+     "link": "https://audiocollective.ted.com/",
+     "desc": "When a psychologist who studies well-being ends up with a brain tumor, what happens when she puts her own research into practice? Christina Costa goes beyond the \"fight\" narrative of cancer — or any formidable personal journey — to highlight the brain benefits of an empowering alternative to fostering resilience in the face of unexpected challenges: gratitude. Hosted on Acast. See acast.com/privac…",
+     "transcript": null
+    },
+    {
+     "id": "ted:6b05d776ee05a70a1cd339f8",
+     "title": "How acts of kindness sparked a global movement | Asha Curran (re-release)",
+     "date": "2026-11-27",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b05d776ee05a70a1cd339f8/media.mp3",
+     "dur": 903,
+     "link": "https://audiocollective.ted.com/",
+     "desc": "\"We underestimate the power of our own generous actions,\" says Asha Curran, CEO of the global generosity movement GivingTuesday. Sharing stories of people making a difference through simple acts of kindness, she shows how generosity, even in its simplest forms, can be a transformative force — and explains why we all benefit from a world grounded in giving. Hosted on Acast. See acast.com/privacy fo…",
+     "transcript": null
+    },
+    {
+     "id": "ted:6b06093572d1cc0de1586165",
+     "title": "The profound power of gratitude and \"living eulogies\" | Andrea Driessen (re-release)",
+     "date": "2026-11-27",
+     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b06093572d1cc0de1586165/media.mp3",
+     "dur": 903,
+     "link": "https://audiocollective.ted.com/",
+     "desc": "Why do we often wait so long to recognize each other's gifts? Why are the truest compliments for the people we love often said only after they're no longer around to hear and savor them? Andrea Driessen makes the case for writing eulogies for the living, sharing the power of \"Gracenotes\" to offer connection on a deeper level and dispel any regrets of waiting until a loved one's death to appreciate…",
+     "transcript": null
+    },
     {
      "id": "ted:6b05afcc7eeadadee4f9e424",
      "title": "Why you should share a recipe with a stranger | Anuj Gupta",
@@ -1489,57 +1542,6 @@
      "link": "https://go.ted.com/hannahbouquet",
      "desc": "Parenting an eye-rolling teenager glued to a gaming system is not a simple feat, but what if you could turn screen time into an opportunity for connection? Hannah Boquet shares how she decided to play video games with her kids and discovered the power of esports to foster trust, communication and essential life skills. Dive deeper into how you can strengthen family bonds, support your child’s deve…",
      "transcript": "https://www.ted.com/talks/hannah_boquet_how_video_games_can_power_up_your_parenting/transcript"
-    },
-    {
-     "id": "ted:6adf6cc9a8783bd47557508f",
-     "title": "Unions for climate action! | Payton M. Wilkins (re-release)",
-     "date": "2026-10-26",
-     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adf6cc9a8783bd47557508f/media.mp3",
-     "dur": 724,
-     "link": "https://shows.acast.com/ttd/episodes/tid118893tid",
-     "desc": "In the long term, shutting down a coal mine means cleaner air and a healthier environment — but in the short term, it can devastate a community or family that relied on the mine's paychecks to make ends meet. Environmental justice advocate Payton M. Wilkins thinks we can protect both workers and the planet with an age-old solution: unions. He digs into the economic fallout of ditching fossil fuels…",
-     "transcript": null
-    },
-    {
-     "id": "ted:6adb86439522da114937cd6a",
-     "title": "Sunday Pick: Unlocking Your Power at Work: Kara Swisher on how to get what you want | from Fixable",
-     "date": "2026-10-25",
-     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb86439522da114937cd6a/media.mp3",
-     "dur": 2143,
-     "link": "https://audiocollective.ted.com/",
-     "desc": "No matter where you fall on the corporate food chain, you have power at work—you just might not know how to use it. In this new series on Unlocking Your Power at Work, Anne and Frances dig into how to discover, build, and use your power, explore common power dynamics in the workplace, and learn from people who use their full power with honesty and swagger. Kara Swisher is one of the most influenti…",
-     "skip": true,
-     "transcript": null
-    },
-    {
-     "id": "ted:6adb884ac84c3697e90f7b90",
-     "title": "The pursuit of happiness requires free time | Danielle Roberts",
-     "date": "2026-10-24",
-     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb884ac84c3697e90f7b90/media.mp3",
-     "dur": 1949,
-     "link": "https://go.ted.com/danielleroberts",
-     "desc": "Do you feel short on time? Writer and work expert Danielle Roberts would like to help you with that. In this quick talk, she makes the case that free time isn't a reward you earn but a civil right you're owed. Hosted on Acast. See acast.com/privacy for more information.",
-     "transcript": "https://www.ted.com/talks/danielle_roberts_the_pursuit_of_happiness_requires_free_time/transcript"
-    },
-    {
-     "id": "ted:6adb749627504523efb891e6",
-     "title": "Can you spot the lies in your news feed? | Laura Smythe",
-     "date": "2026-10-23",
-     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb749627504523efb891e6/media.mp3",
-     "dur": 870,
-     "link": "https://go.ted.com/laurasmythe",
-     "desc": "Laura Smythe spent years in legacy newsrooms, and she thinks the habits journalists use to vet information should belong to all of us. Using Fyre Festival as a cautionary tale, she explains why media literacy is a vital skill in our age of deepfakes and algorithmic feeds — and describes the country that’s already found a way to start teaching it in elementary school. Hosted on Acast. See acast.com…",
-     "transcript": "https://www.ted.com/talks/laura_smythe_can_you_spot_the_lies_in_your_news_feed/transcript"
-    },
-    {
-     "id": "ted:6ada23e044592625b9151811",
-     "title": "I can't speak. Here's how I get people to listen | Jessica Irwin",
-     "date": "2026-10-22",
-     "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ada23e044592625b9151811/media.mp3",
-     "dur": 542,
-     "link": "https://go.ted.com/jessicairwin",
-     "desc": "Jessica Irwin is many things: a photographer, artist, author, performer. She also happens to be nonverbal, born with cerebral palsy that affects the muscles she needs to talk. Speaking through a device that turns her typed words into speech, she gives a sharp, funny and urgent reminder that being unable to speak has nothing to do with intelligence — and shares a few easy ways anyone can better com…",
-     "transcript": "https://www.ted.com/talks/jessica_irwin_i_can_t_speak_here_s_how_i_get_people_to_listen/transcript"
     }
    ]
   },
@@ -1821,6 +1823,17 @@
   "lifekit": {
    "name": "NPR Life Kit",
    "items": [
+    {
+     "id": "lifekit:ee30560e-8d6f-46c2-b18f-a18777519c58",
+     "title": "How to avoid counterfeit and unsafe products online",
+     "date": "2026-11-27",
+     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/aaceb1c9-68f0-4a30-a47a-819dfa274859/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=aaceb1c9-68f0-4a30-a47a-819dfa274859&feed=XkY2SBZJ&t=podcast&e=nx-s1-6051074&p=510338&d=1296&size=20743776",
+     "dur": 1296,
+     "link": "https://www.npr.org/2026/11/27/nx-s1-6051074/how-to-avoid-counterfeit-and-unsafe-products-online",
+     "desc": "Buying knockoff versions of products can be dangerous. In this episode, Kari Kammel, the director at the Center for Anti-Counterfeiting and Product Protection at Michigan State University, shares tips on how to avoid counterfeit and unsafe products, especially online. This episode was originally published on Oct. 22, 2024. Follow us on Instagram: @nprlifekit Sign up for our newsletter here. Have a…",
+     "transcript": "https://www.npr.org/transcripts/nx-s1-6051074",
+     "tx": "b940c75d755aa4c4"
+    },
     {
      "id": "lifekit:6ea34488-b925-4ecd-9504-efaa941a0df4",
      "title": "Brush up on your food safety knowledge before Thanksgiving",
@@ -2214,16 +2227,6 @@
      "link": "https://www.npr.org/2026/08/27/nx-s1-5945735/how-to-stop-fixating-on-your-body-in-the-era-of-glp-1s",
      "desc": "It can be difficult to love how your body looks, or even like it. But what if you could expand the way you think about your body? This episode, psychologist Diana Hill shares how to practice body image flexibility and appreciate all of the ways your body allows you to experience the world. She gives mental exercises that help you fixate less on your appearance in an image-obsessed culture. Follow …",
      "transcript": "https://www.npr.org/transcripts/nx-s1-5945735"
-    },
-    {
-     "id": "lifekit:65889aac-c5ba-4083-a0c1-561565b08471",
-     "title": "Mom needs a moment! How to pause parental rage",
-     "date": "2026-08-25",
-     "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/12c45358-871a-4303-b1c5-d411230a3dfd/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=12c45358-871a-4303-b1c5-d411230a3dfd&feed=XkY2SBZJ&t=podcast&e=nx-s1-5943603&p=510338&d=1298&size=20772659",
-     "dur": 1298,
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5943603/mom-needs-a-moment-how-to-pause-parental-rage",
-     "desc": "Parenthood is exhausting. When a kid asks for snack for the millionth time while you're running on little sleep and trying to make dinner, it's easy to snap. Licensed marriage and family therapist Cassidy Freitas says the key is to find refuge in what she calls \"the margins.\" In this episode, Freitas shares tools from her book Mom Needs A Moment: How to Stop Your Reaction Before It Starts and Beco…",
-     "transcript": "https://www.npr.org/transcripts/nx-s1-5943603"
     }
    ]
   },
@@ -2601,13 +2604,23 @@
    "name": "BBC The Archers",
    "items": [
     {
+     "id": "archers:urn:bbc:podcast:m0034mhc",
+     "title": "The Archers · 27/11/2026",
+     "date": "2026-11-27",
+     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pnx6g3.mp3",
+     "dur": 791,
+     "link": "https://www.bbc.co.uk/programmes/m0034mhc",
+     "desc": "Sunday 22nd to Friday, 27th November 2026 Writer: Katie Hims Director: Jeremy Howe Editor: Jeremy Howe Ben Archer … Ben Norris Josh Archer … Sam Wilkinson Natasha Archer … Mali Harries Harrison Burns … James Cartwright Neil Carter … Brian Hewlett Susan Carter … Charlotte Martin Alan Franks … John Telfer Usha Franks … Souad Faress Martyn Gibson … Jon Glover Eddie Grundy … Trevor Harrison Ed Grundy …",
+     "tx": "e87bb3ff2bec8d6d"
+    },
+    {
      "id": "archers:urn:bbc:podcast:m0034mg4",
      "title": "The Archers · 26/11/2026",
      "date": "2026-11-26",
      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pnwg04.mp3",
      "dur": 778,
      "link": "https://www.bbc.co.uk/programmes/m0034mg4",
-     "desc": "There’s a shock for Anna, and Ed faces a tricky conversation.",
+     "desc": "A frustrated Ed tries to get disorganised and resistant Keira off to school. He reminds her that he’s meeting her head of year at lunchtime. After the meeting, Ed drives Keira home. A little lost for words, he gently explains that she’s not in trouble. School think she’s wonderful and one of their brightest. But she’s behind where she should be. It’s thought that Keira gets overwhelmed and so stru…",
      "tx": "08488918bc47f779"
     },
     {
@@ -2956,15 +2969,6 @@
      "dur": 775,
      "link": "https://www.bbc.co.uk/programmes/m0032sb7",
      "desc": "Keira and Henry wish Khalil a happy 16th birthday and promise him a treat at the school shop. Keira is looking forward to dancing and celebrating with the boys at the wedding, however she’s less impressed at having to go to school over half term for catch up lessons. Waiting in the shop queue, Henry almost lets slip that he knows about Khalil’s childhood cancer and covers himself, however Khalil i…"
-    },
-    {
-     "id": "archers:urn:bbc:podcast:m0032qp7",
-     "title": "The Archers · 12/10/2026",
-     "date": "2026-10-12",
-     "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0pf8hd3.mp3",
-     "dur": 771,
-     "link": "https://www.bbc.co.uk/programmes/m0032qp7",
-     "desc": "Pip and David discuss AI in farming, which they think can’t be ignored. Pip tells David that Stella’s mum is still coming to the wedding but won’t be walking Stella down the aisle. David offers his services instead of Stella’s mum. The weather forecast still isn’t good for the wedding and Josh messages to say he won’t be back from Patagonia in time. Ruth wonders to David and Pip if Azra will keep …"
     }
    ]
   },
